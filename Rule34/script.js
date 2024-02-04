@@ -1,19 +1,23 @@
-// Переменная которая хранит в себе во выбраном
-var selected = [];
+et tg = window.Telegram.WebApp;
+
+tg.expand();
+
+tg.MainButton.textColor = '#FFFFFF';
+tg.MainButton.color = '#2cab37';
+
+// Переменная, которая хранит выбранные опции
+var selected = {}; // Объявляем selected в более широкой области видимости
+
 // Функция-конструктор скрипта
 function SelectWithJson(options) {
-  // Параметры прокрутки
-  var perPage = options.perPage || 10; // Количество опций для загрузки на каждую страницу
-  var nextPage = options.nextPage || 2; // Номер следующей страницы для загрузки (начинается с 2, так как первая страница уже загружена)
+  var perPage = options.perPage  10; // Количество опций для загрузки на каждую страницу
+  var nextPage = options.nextPage  2; // Номер следующей страницы для загрузки
 
-  // Путь до JSON-файла
-  var jsonUrl = options.jsonUrl || 'tags_general.json';
+  var jsonUrl = options.jsonUrl || 'tags_general.json'; // Путь до JSON-файла
 
-  // Функция для загрузки опций с JSON
   function loadOptions(page, callback) {
     // Загрузка опций с JSON
     $.getJSON(jsonUrl, { page: page, per_page: perPage }, function(data) {
-      // Создание массива опций
       var options = [];
 
       // Добавление каждой опции в массив
@@ -24,25 +28,22 @@ function SelectWithJson(options) {
         });
       }
 
-      // Вызов callback функции для передачи опций
-      callback(options);
+      callback(options); // Вызов callback функции для передачи опций
     });
   }
 
-  // Инициализация Selectize.js с плагином Infinite Scroll
   var $select = $(options.selector).selectize({
     maxItems: null,
     valueField: 'id',
     labelField: 'title',
     searchField: 'title',
-    plugins: ['infinite_scroll','remove_button'],
+    plugins: ['infinite_scroll', 'remove_button'],
     preload: true,
-    
+
     load: function(query, callback) {
       loadOptions(1, callback); // Загрузка первой страницы опций
     },
     onChange: function(value) {
-      // Получение информации о выбранном значении
       var selectorKey = options.selector.substring(1);
       var selectedValue = value.map(function(val) {
         if (selectorKey.startsWith('tags_minus_')) {
@@ -51,18 +52,16 @@ function SelectWithJson(options) {
           return '+' + val;
         }
       });
-    
-      // Добавляем или обновляем информацию в объекте selected
+
       selected[selectorKey] = selectedValue;
-    
       console.log(options.selector + ':', selected);
+
+      checkSelectedOptions(); // Проверяем выбранные опции после каждого изменения
     }
   });
 
-  // Загрузка следующих страниц опций по мере прокрутки
   $select[0].selectize.on('dropdown_open', function() {
     if ($select[0].selectize.currentResults.items.length >= $select[0].selectize.settings.maxOptions) {
-      // Загружаем следующую страницу опций, если текущее количество опций равно максимальному количеству опций
       loadOptions(nextPage, function(options) {
         $select[0].selectize.addOption(options);
         nextPage++;
@@ -71,30 +70,41 @@ function SelectWithJson(options) {
   });
 }
 
+// Функция для проверки выбранных опций и отображения/скрытия кнопки "MainButton"
+function checkSelectedOptions() {
+  var hasSelected = false; // Флаг, указывающий наличие выбранных опций
+  for (var key in selected) {
+    if (selected.hasOwnProperty(key) && selected[key].length > 0) {
+      hasSelected = true;
+      break;
+    }
+  }
+  if (hasSelected) {
+    tg.MainButton.show(); // Показывает кнопку "MainButton"
+  } else {
+    tg.MainButton.hide(); // Скрывает кнопку "MainButton"
+  }
+}
+
 // Инициализация скрипта для каждого селекта
 $(document).ready(function() {
   var selects = [
-    { selector: '#tags_general', jsonUrl: 'tags_general.json' },
-    { selector: '#tags_content', jsonUrl: 'tags_content.json' },
-    { selector: '#tags_universe', jsonUrl: 'tags_universe.json' },
-    { selector: '#tags_character', jsonUrl: 'tags_universe.json' },
-    { selector: '#tags_minus_general', jsonUrl: 'tags_general.json' },
-    { selector: '#tags_minus_content', jsonUrl: 'tags_content.json' },
-    { selector: '#tags_minus_universe', jsonUrl: 'tags_universe.json' },
+    { selector: '.tags_general', jsonUrl: 'tags_general.json' },
+    { selector: '.tags_content', jsonUrl: 'tags_content.json' },
+    { selector: '.tags_universe', jsonUrl: 'tags_universe.json' },
+    { selector: '.tags_character', jsonUrl: 'tags_universe.json' },
+    { selector: '.tags_minus_general', jsonUrl: 'tags_general.json' },
+    { selector: '.tags_minus_content', jsonUrl: 'tags_content.json' },
+    { selector: '.tags_minus_universe', jsonUrl: 'tags_universe.json' },
     { selector: '.tags_minus_character', jsonUrl: 'tags_universe.json' },
   ];
 
   for (var i = 0; i < selects.length; i++) {
     new SelectWithJson(selects[i]);
+    checkSelectedOptions(); // Проверяем выбранные опции после инициализации
   }
 });
 
-
-
-let tg = window.Telegram.WebApp;
-tg.expand();
-tg.MainButton.textColor = '#FFFFFF';
-tg.MainButton.color = '#2cab37';
 Telegram.WebApp.onEvent("mainButtonClicked", function(){
-	tg.sendData(selected);
+  tg.sendData(selected);
 });
