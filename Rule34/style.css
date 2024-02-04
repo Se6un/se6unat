@@ -13,8 +13,7 @@
   border-radius: 5px;
   color: rgb(0, 0, 0);
   padding: 8px;
-  font-family: Roboto, Helvetica;
-  font-size: clamp(10px, 4vw, 21px);
+  font-size: 21px;
   border: None;
   background-color: rgb(0, 255, 60);
 }
@@ -31,8 +30,7 @@
   border-radius: 5px;
   color: rgb(0, 0, 0);
   padding: 8px;
-  font-family: Roboto, Helvetica;
-  font-size: clamp(10px, 4vw, 21px);
+  font-size: 21px;
   border: None;
   background-color: rgb(255, 0, 0);
 }
@@ -91,36 +89,8 @@
   min-width: 300px;
   /* width: 400px; */
   margin: 0 auto;
-  padding: 50px 150px;    
+  padding: 5%;    
 }
-
-@media (max-width: 320px) {
-  .active-page {
-    padding: 10px;
-  }
-}
-
-@media (max-width: 375px) {
-  .active-page {
-    padding: 15px;
-  }
-}
-@media (max-width: 414px) {
-  .active-page {
-    padding: 20px;}
-  }
-@media (max-width: 768px) {
-  .active-page {
-    padding: 25px;}
-  }
-@media (max-width: 1024px) {
-  .active-page {
-    padding: 30px;}
-  }
-@media (max-width: 1440px) {
-  .active-page {
-    padding: 35px;}
-  }
 
 /**/
 

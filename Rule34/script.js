@@ -1,4 +1,4 @@
-et tg = window.Telegram.WebApp;
+let tg = window.Telegram.WebApp;
 
 tg.expand();
 
@@ -10,8 +10,8 @@ var selected = {}; // Объявляем selected в более широкой �
 
 // Функция-конструктор скрипта
 function SelectWithJson(options) {
-  var perPage = options.perPage  10; // Количество опций для загрузки на каждую страницу
-  var nextPage = options.nextPage  2; // Номер следующей страницы для загрузки
+  var perPage = options.perPage || 10; // Количество опций для загрузки на каждую страницу
+  var nextPage = options.nextPage || 2; // Номер следующей страницы для загрузки
 
   var jsonUrl = options.jsonUrl || 'tags_general.json'; // Путь до JSON-файла
 
@@ -80,7 +80,6 @@ function checkSelectedOptions() {
     }
   }
   if (hasSelected) {
-    tg.MainButton.setText("Подтвердить");
     tg.MainButton.show(); // Показывает кнопку "MainButton"
   } else {
     tg.MainButton.hide(); // Скрывает кнопку "MainButton"
@@ -90,14 +89,14 @@ function checkSelectedOptions() {
 // Инициализация скрипта для каждого селекта
 $(document).ready(function() {
   var selects = [
-    { selector: '.tags_general', jsonUrl: 'tags_general.json' },
-    { selector: '.tags_content', jsonUrl: 'tags_content.json' },
-    { selector: '.tags_universe', jsonUrl: 'tags_universe.json' },
-    { selector: '.tags_character', jsonUrl: 'tags_universe.json' },
-    { selector: '.tags_minus_general', jsonUrl: 'tags_general.json' },
-    { selector: '.tags_minus_content', jsonUrl: 'tags_content.json' },
-    { selector: '.tags_minus_universe', jsonUrl: 'tags_universe.json' },
-    { selector: '.tags_minus_character', jsonUrl: 'tags_universe.json' },
+    { selector: '#tags_general', jsonUrl: 'tags_general.json' },
+    { selector: '#tags_content', jsonUrl: 'tags_content.json' },
+    { selector: '#tags_universe', jsonUrl: 'tags_universe.json' },
+    { selector: '#tags_character', jsonUrl: 'tags_universe.json' },
+    { selector: '#tags_minus_general', jsonUrl: 'tags_general.json' },
+    { selector: '#tags_minus_content', jsonUrl: 'tags_content.json' },
+    { selector: '#tags_minus_universe', jsonUrl: 'tags_universe.json' },
+    { selector: '#tags_minus_character', jsonUrl: 'tags_universe.json' },
   ];
 
   for (var i = 0; i < selects.length; i++) {
@@ -108,4 +107,6 @@ $(document).ready(function() {
 
 Telegram.WebApp.onEvent("mainButtonClicked", function(){
   tg.sendData(selected);
+  tg.collapse(); // Закрываем WebApp после отправки данных
 });
+
