@@ -1,3 +1,8 @@
+let tg = window.Telegram.WebApp;
+tg.expand();
+tg.MainButton.textColor = '#FFFFFF';
+tg.MainButton.color = '#2cab37';
+
 // Переменная, которая хранит выбранные опции
 var selected = {};
 
@@ -98,11 +103,7 @@ $(document).ready(function() {
   }
 });
 
-let tg = window.Telegram.WebApp;
-tg.expand();
-tg.MainButton.textColor = '#FFFFFF';
-tg.MainButton.color = '#2cab37';
 
 Telegram.WebApp.onEvent("mainButtonClicked", function(){
-  tg.sendData(selected);
+	tg.sendData(item);
 });
