@@ -5,30 +5,24 @@ tg.expand();
 tg.MainButton.textColor = '#FFFFFF';
 tg.MainButton.color = '#2cab37';
 
-// Переменная, которая хранит выбранные опции
-var selected = {}; // Объявляем selected в более широкой области видимости
+var selected = {};
 
-// Функция-конструктор скрипта
 function SelectWithJson(options) {
-  var perPage = options.perPage || 10; // Количество опций для загрузки на каждую страницу
-  var nextPage = options.nextPage || 2; // Номер следующей страницы для загрузки
+  var perPage = options.perPage || 10;
+  var nextPage = options.nextPage || 2;
 
-  var jsonUrl = options.jsonUrl || 'tags_general.json'; // Путь до JSON-файла
+  var jsonUrl = options.jsonUrl || 'tags_general.json';
 
   function loadOptions(page, callback) {
-    // Загрузка опций с JSON
     $.getJSON(jsonUrl, { page: page, per_page: perPage }, function(data) {
       var options = [];
-
-      // Добавление каждой опции в массив
       for (var i = 0; i < data.length; i++) {
         options.push({
           id: data[i].value,
           title: data[i].text
         });
       }
-
-      callback(options); // Вызов callback функции для передачи опций
+      callback(options);
     });
   }
 
@@ -41,7 +35,7 @@ function SelectWithJson(options) {
     preload: true,
 
     load: function(query, callback) {
-      loadOptions(1, callback); // Загрузка первой страницы опций
+      loadOptions(1, callback);
     },
     onChange: function(value) {
       var selectorKey = options.selector.substring(1);
@@ -56,7 +50,7 @@ function SelectWithJson(options) {
       selected[selectorKey] = selectedValue;
       console.log(options.selector + ':', selected);
 
-      checkSelectedOptions(); // Проверяем выбранные опции после каждого изменения
+      checkSelectedOptions();
     }
   });
 
@@ -70,23 +64,39 @@ function SelectWithJson(options) {
   });
 }
 
-// Функция для проверки выбранных опций и отображения/скрытия кнопки "MainButton"
 function checkSelectedOptions() {
-  var hasSelected = false; // Флаг, указывающий наличие выбранных опций
+  var selectedOptionsCount = 0;
   for (var key in selected) {
     if (selected.hasOwnProperty(key) && selected[key].length > 0) {
-      hasSelected = true;
-      break;
+      selectedOptionsCount += selected[key].length;
     }
   }
-  if (hasSelected) {
-    tg.MainButton.show(); // Показывает кнопку "MainButton"
+  
+  tg.MainButton.setText("Вы выбрали " + selectedOptionsCount + " опций!");
+  
+  if (selectedOptionsCount > 0) {
+    tg.MainButton.show();
   } else {
-    tg.MainButton.hide(); // Скрывает кнопку "MainButton"
+    tg.MainButton.hide();
   }
 }
 
-// Инициализация скрипта для каждого селекта
+// Функция для увеличения счетчика
+function increaseSelectedOptionsCount() {
+  var selectedOptionsCount = parseInt(tg.MainButton.getText().match(/\d+/)); // Получаем текущее значение счетчика
+  selectedOptionsCount++; // Увеличиваем счетчик на 1
+  tg.MainButton.setText("Вы выбрали " + selectedOptionsCount + " опций!");
+}
+
+// Функция для уменьшения счетчика
+function decreaseSelectedOptionsCount() {
+  var selectedOptionsCount = parseInt(tg.MainButton.getText().match(/\d+/)); // Получаем текущее значение счетчика
+  if (selectedOptionsCount > 0) {
+    selectedOptionsCount--; // Уменьшаем счетчик на 1
+    tg.MainButton.setText("Вы выбрали " + selectedOptionsCount + " опций!");
+  }
+}
+
 $(document).ready(function() {
   var selects = [
     { selector: '.tags_general', jsonUrl: 'tags_general.json' },
@@ -98,14 +108,21 @@ $(document).ready(function() {
     { selector: '.tags_minus_universe', jsonUrl: 'tags_universe.json' },
     { selector: '.tags_minus_character', jsonUrl: 'tags_universe.json' },
   ];
-
   for (var i = 0; i < selects.length; i++) {
     new SelectWithJson(selects[i]);
-    checkSelectedOptions(); // Проверяем выбранные опции после инициализации
+    checkSelectedOptions();
   }
 });
 
 Telegram.WebApp.onEvent("mainButtonClicked", function(){
   tg.sendData(selected);
-  tg.collapse(); // Закрываем WebApp после отправки данных
+  tg.collapse();
+});
+
+Telegram.WebApp.onEvent("increaseButtonClicked", function(){
+  increaseSelectedOptionsCount();
+});
+
+Telegram.WebApp.onEvent("decreaseButtonClicked", function(){
+  decreaseSelectedOptionsCount();
 });
