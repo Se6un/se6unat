@@ -80,6 +80,7 @@ function checkSelectedOptions() {
     }
   }
   if (hasSelected) {
+    tg.MainButton.setText("Подтвердить");
     tg.MainButton.show(); // Показывает кнопку "MainButton"
   } else {
     tg.MainButton.hide(); // Скрывает кнопку "MainButton"
