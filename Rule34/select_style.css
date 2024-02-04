@@ -1,3 +1,7 @@
+/* !!!Стили селектора !!! */
+.select {
+  margin-bottom: 10px;
+}
 /* !!!Стили селектора для 1 страницы!!! */
 
 #page1 .selectize-dropdown{
