@@ -1,5 +1,12 @@
+let tg = window.Telegram.WebApp;
+
+tg.expand();
+
+tg.MainButton.textColor = '#FFFFFF';
+tg.MainButton.color = '#2cab37';
+
 // Переменная, которая хранит выбранные опции
-var selected = {};
+var selected = {}; // Объявляем selected в более широкой области видимости
 
 // Функция-конструктор скрипта
 function SelectWithJson(options) {
@@ -97,11 +104,6 @@ $(document).ready(function() {
     checkSelectedOptions(); // Проверяем выбранные опции после инициализации
   }
 });
-
-let tg = window.Telegram.WebApp;
-tg.expand();
-tg.MainButton.textColor = '#FFFFFF';
-tg.MainButton.color = '#2cab37';
 
 Telegram.WebApp.onEvent("mainButtonClicked", function(){
   tg.sendData(selected);
