@@ -3,7 +3,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: rgb(15, 15, 15);
+  background-color: #517da2;
   padding: 10px;
   border-radius: 5px;
 }
@@ -54,7 +54,7 @@
   min-height: calc(100vh - 60px);
   position: relative;
   overflow: hidden;
-  padding: 5px; /*Отступ от края*/
+  padding: 30px; /*Отступ от края*/
   
 }
 
