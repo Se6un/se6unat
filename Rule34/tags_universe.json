@@ -1,0 +1,7462 @@
+[
+    {
+      "value": "nintendo",
+      "text": "nintendo"
+    },
+    {
+      "value": "pokemon",
+      "text": "pokemon"
+    },
+    {
+      "value": "original",
+      "text": "original"
+    },
+    {
+      "value": "my_little_pony",
+      "text": "my_little_pony"
+    },
+    {
+      "value": "friendship_is_magic",
+      "text": "friendship_is_magic"
+    },
+    {
+      "value": "disney",
+      "text": "disney"
+    },
+    {
+      "value": "sonic_(series)",
+      "text": "sonic_(series)"
+    },
+    {
+      "value": "naruto",
+      "text": "naruto"
+    },
+    {
+      "value": "genshin_impact",
+      "text": "genshin_impact"
+    },
+    {
+      "value": "final_fantasy",
+      "text": "final_fantasy"
+    },
+    {
+      "value": "fire_emblem",
+      "text": "fire_emblem"
+    },
+    {
+      "value": "league_of_legends",
+      "text": "league_of_legends"
+    },
+    {
+      "value": "touhou",
+      "text": "touhou"
+    },
+    {
+      "value": "dc",
+      "text": "dc"
+    },
+    {
+      "value": "overwatch",
+      "text": "overwatch"
+    },
+    {
+      "value": "fate_(series)",
+      "text": "fate_(series)"
+    },
+    {
+      "value": "mario_(series)",
+      "text": "mario_(series)"
+    },
+    {
+      "value": "dc_comics",
+      "text": "dc_comics"
+    },
+    {
+      "value": "capcom",
+      "text": "capcom"
+    },
+    {
+      "value": "marvel",
+      "text": "marvel"
+    },
+    {
+      "value": "blizzard_entertainment",
+      "text": "blizzard_entertainment"
+    },
+    {
+      "value": "my_hero_academia",
+      "text": "my_hero_academia"
+    },
+    {
+      "value": "pok\u00e9mon",
+      "text": "pok\u00e9mon"
+    },
+    {
+      "value": "dragon_ball",
+      "text": "dragon_ball"
+    },
+    {
+      "value": "world_of_warcraft",
+      "text": "world_of_warcraft"
+    },
+    {
+      "value": "sega",
+      "text": "sega"
+    },
+    {
+      "value": "hasbro",
+      "text": "hasbro"
+    },
+    {
+      "value": "fate/grand_order",
+      "text": "fate/grand_order"
+    },
+    {
+      "value": "naruto_(series)",
+      "text": "naruto_(series)"
+    },
+    {
+      "value": "the_legend_of_zelda",
+      "text": "the_legend_of_zelda"
+    },
+    {
+      "value": "cartoon_network",
+      "text": "cartoon_network"
+    },
+    {
+      "value": "street_fighter",
+      "text": "street_fighter"
+    },
+    {
+      "value": "warcraft",
+      "text": "warcraft"
+    },
+    {
+      "value": "one_piece",
+      "text": "one_piece"
+    },
+    {
+      "value": "sonic_the_hedgehog_(series)",
+      "text": "sonic_the_hedgehog_(series)"
+    },
+    {
+      "value": "digimon",
+      "text": "digimon"
+    },
+    {
+      "value": "resident_evil",
+      "text": "resident_evil"
+    },
+    {
+      "value": "naruto_shippuden",
+      "text": "naruto_shippuden"
+    },
+    {
+      "value": "five_nights_at_freddy's",
+      "text": "five_nights_at_freddy's"
+    },
+    {
+      "value": "fortnite",
+      "text": "fortnite"
+    },
+    {
+      "value": "animal_crossing",
+      "text": "animal_crossing"
+    },
+    {
+      "value": "christmas",
+      "text": "christmas"
+    },
+    {
+      "value": "riot_games",
+      "text": "riot_games"
+    },
+    {
+      "value": "hololive",
+      "text": "hololive"
+    },
+    {
+      "value": "kantai_collection",
+      "text": "kantai_collection"
+    },
+    {
+      "value": "final_fantasy_vii",
+      "text": "final_fantasy_vii"
+    },
+    {
+      "value": "patreon",
+      "text": "patreon"
+    },
+    {
+      "value": "undertale",
+      "text": "undertale"
+    },
+    {
+      "value": "marvel_comics",
+      "text": "marvel_comics"
+    },
+    {
+      "value": "dragon_ball_z",
+      "text": "dragon_ball_z"
+    },
+    {
+      "value": "azur_lane",
+      "text": "azur_lane"
+    },
+    {
+      "value": "idolmaster",
+      "text": "idolmaster"
+    },
+    {
+      "value": "bleach",
+      "text": "bleach"
+    },
+    {
+      "value": "dead_or_alive",
+      "text": "dead_or_alive"
+    },
+    {
+      "value": "game_freak",
+      "text": "game_freak"
+    },
+    {
+      "value": "pokemon_sm",
+      "text": "pokemon_sm"
+    },
+    {
+      "value": "yu-gi-oh!",
+      "text": "yu-gi-oh!"
+    },
+    {
+      "value": "persona",
+      "text": "persona"
+    },
+    {
+      "value": "holidays",
+      "text": "holidays"
+    },
+    {
+      "value": "shounen_jump",
+      "text": "shounen_jump"
+    },
+    {
+      "value": "pokemon_ss",
+      "text": "pokemon_ss"
+    },
+    {
+      "value": "pokemon_rgby",
+      "text": "pokemon_rgby"
+    },
+    {
+      "value": "boruto:_naruto_next_generations",
+      "text": "boruto:_naruto_next_generations"
+    },
+    {
+      "value": "pokemon_dppt",
+      "text": "pokemon_dppt"
+    },
+    {
+      "value": "pokemon_rse",
+      "text": "pokemon_rse"
+    },
+    {
+      "value": "rwby",
+      "text": "rwby"
+    },
+    {
+      "value": "star_wars",
+      "text": "star_wars"
+    },
+    {
+      "value": "jojo's_bizarre_adventure",
+      "text": "jojo's_bizarre_adventure"
+    },
+    {
+      "value": "final_fantasy_xiv",
+      "text": "final_fantasy_xiv"
+    },
+    {
+      "value": "nickelodeon",
+      "text": "nickelodeon"
+    },
+    {
+      "value": "teen_titans",
+      "text": "teen_titans"
+    },
+    {
+      "value": "halloween",
+      "text": "halloween"
+    },
+    {
+      "value": "fire_emblem:_three_houses",
+      "text": "fire_emblem:_three_houses"
+    },
+    {
+      "value": "helluva_boss",
+      "text": "helluva_boss"
+    },
+    {
+      "value": "danganronpa",
+      "text": "danganronpa"
+    },
+    {
+      "value": "batman_(series)",
+      "text": "batman_(series)"
+    },
+    {
+      "value": "mythology",
+      "text": "mythology"
+    },
+    {
+      "value": "avatar_the_last_airbender",
+      "text": "avatar_the_last_airbender"
+    },
+    {
+      "value": "blue_archive",
+      "text": "blue_archive"
+    },
+    {
+      "value": "mass_effect",
+      "text": "mass_effect"
+    },
+    {
+      "value": "pokemon_bw",
+      "text": "pokemon_bw"
+    },
+    {
+      "value": "square_enix",
+      "text": "square_enix"
+    },
+    {
+      "value": "splatoon",
+      "text": "splatoon"
+    },
+    {
+      "value": "nier:_automata",
+      "text": "nier:_automata"
+    },
+    {
+      "value": "dragon_ball_super",
+      "text": "dragon_ball_super"
+    },
+    {
+      "value": "spider-man_(series)",
+      "text": "spider-man_(series)"
+    },
+    {
+      "value": "star_fox",
+      "text": "star_fox"
+    },
+    {
+      "value": "steven_universe",
+      "text": "steven_universe"
+    },
+    {
+      "value": "pokemon_xy",
+      "text": "pokemon_xy"
+    },
+    {
+      "value": "king_of_fighters",
+      "text": "king_of_fighters"
+    },
+    {
+      "value": "metroid",
+      "text": "metroid"
+    },
+    {
+      "value": "fairy_tail",
+      "text": "fairy_tail"
+    },
+    {
+      "value": "zootopia",
+      "text": "zootopia"
+    },
+    {
+      "value": "friday_night_funkin",
+      "text": "friday_night_funkin"
+    },
+    {
+      "value": "persona_5",
+      "text": "persona_5"
+    },
+    {
+      "value": "dragon_quest",
+      "text": "dragon_quest"
+    },
+    {
+      "value": "undertale_(series)",
+      "text": "undertale_(series)"
+    },
+    {
+      "value": "demon_slayer",
+      "text": "demon_slayer"
+    },
+    {
+      "value": "x-men",
+      "text": "x-men"
+    },
+    {
+      "value": "cd_projekt_red",
+      "text": "cd_projekt_red"
+    },
+    {
+      "value": "snk",
+      "text": "snk"
+    },
+    {
+      "value": "kimetsu_no_yaiba",
+      "text": "kimetsu_no_yaiba"
+    },
+    {
+      "value": "tomb_raider",
+      "text": "tomb_raider"
+    },
+    {
+      "value": "copyright_request",
+      "text": "copyright_request"
+    },
+    {
+      "value": "fire_emblem_fates",
+      "text": "fire_emblem_fates"
+    },
+    {
+      "value": "neon_genesis_evangelion",
+      "text": "neon_genesis_evangelion"
+    },
+    {
+      "value": "fire_emblem_heroes",
+      "text": "fire_emblem_heroes"
+    },
+    {
+      "value": "vocaloid",
+      "text": "vocaloid"
+    },
+    {
+      "value": "disney_channel",
+      "text": "disney_channel"
+    },
+    {
+      "value": "scottgames",
+      "text": "scottgames"
+    },
+    {
+      "value": "pokemon_sv",
+      "text": "pokemon_sv"
+    },
+    {
+      "value": "dreamworks",
+      "text": "dreamworks"
+    },
+    {
+      "value": "the_witcher_(series)",
+      "text": "the_witcher_(series)"
+    },
+    {
+      "value": "the_elder_scrolls",
+      "text": "the_elder_scrolls"
+    },
+    {
+      "value": "bishoujo_senshi_sailor_moon",
+      "text": "bishoujo_senshi_sailor_moon"
+    },
+    {
+      "value": "xenoblade_(series)",
+      "text": "xenoblade_(series)"
+    },
+    {
+      "value": "adventure_time",
+      "text": "adventure_time"
+    },
+    {
+      "value": "arknights",
+      "text": "arknights"
+    },
+    {
+      "value": "chainsaw_man",
+      "text": "chainsaw_man"
+    },
+    {
+      "value": "the_witcher_3:_wild_hunt",
+      "text": "the_witcher_3:_wild_hunt"
+    },
+    {
+      "value": "mortal_kombat",
+      "text": "mortal_kombat"
+    },
+    {
+      "value": "slushe_(website)",
+      "text": "slushe_(website)"
+    },
+    {
+      "value": "youtube",
+      "text": "youtube"
+    },
+    {
+      "value": "mega_man",
+      "text": "mega_man"
+    },
+    {
+      "value": "kono_subarashii_sekai_ni_shukufuku_wo!",
+      "text": "kono_subarashii_sekai_ni_shukufuku_wo!"
+    },
+    {
+      "value": "gundam",
+      "text": "gundam"
+    },
+    {
+      "value": "fromsoftware",
+      "text": "fromsoftware"
+    },
+    {
+      "value": "deltarune",
+      "text": "deltarune"
+    },
+    {
+      "value": "monster_hunter",
+      "text": "monster_hunter"
+    },
+    {
+      "value": "atlus",
+      "text": "atlus"
+    },
+    {
+      "value": "breath_of_the_wild",
+      "text": "breath_of_the_wild"
+    },
+    {
+      "value": "bandai_namco",
+      "text": "bandai_namco"
+    },
+    {
+      "value": "roblox",
+      "text": "roblox"
+    },
+    {
+      "value": "please_don't_bully_me,_nagatoro",
+      "text": "please_don't_bully_me,_nagatoro"
+    },
+    {
+      "value": "disney_princess",
+      "text": "disney_princess"
+    },
+    {
+      "value": "hololive_english",
+      "text": "hololive_english"
+    },
+    {
+      "value": "cyberpunk_2077",
+      "text": "cyberpunk_2077"
+    },
+    {
+      "value": "idolmaster_cinderella_girls",
+      "text": "idolmaster_cinderella_girls"
+    },
+    {
+      "value": "pretty_cure",
+      "text": "pretty_cure"
+    },
+    {
+      "value": "attack_on_titan",
+      "text": "attack_on_titan"
+    },
+    {
+      "value": "darkstalkers",
+      "text": "darkstalkers"
+    },
+    {
+      "value": "xenoblade_chronicles_2",
+      "text": "xenoblade_chronicles_2"
+    },
+    {
+      "value": "pokemon_gsc",
+      "text": "pokemon_gsc"
+    },
+    {
+      "value": "super_mario_bros.",
+      "text": "super_mario_bros."
+    },
+    {
+      "value": "one-punch_man",
+      "text": "one-punch_man"
+    },
+    {
+      "value": "nijisanji",
+      "text": "nijisanji"
+    },
+    {
+      "value": "nier",
+      "text": "nier"
+    },
+    {
+      "value": "five_nights_at_freddy's:_security_breach",
+      "text": "five_nights_at_freddy's:_security_breach"
+    },
+    {
+      "value": "pokemon_(game)",
+      "text": "pokemon_(game)"
+    },
+    {
+      "value": "kill_la_kill",
+      "text": "kill_la_kill"
+    },
+    {
+      "value": "final_fantasy_vii_remake",
+      "text": "final_fantasy_vii_remake"
+    },
+    {
+      "value": "minecraft",
+      "text": "minecraft"
+    },
+    {
+      "value": "doki_doki_literature_club",
+      "text": "doki_doki_literature_club"
+    },
+    {
+      "value": "fortnite:_battle_royale",
+      "text": "fortnite:_battle_royale"
+    },
+    {
+      "value": "tekken",
+      "text": "tekken"
+    },
+    {
+      "value": "brawl_stars",
+      "text": "brawl_stars"
+    },
+    {
+      "value": "skyrim",
+      "text": "skyrim"
+    },
+    {
+      "value": "love_live!",
+      "text": "love_live!"
+    },
+    {
+      "value": "superman_(series)",
+      "text": "superman_(series)"
+    },
+    {
+      "value": "queen's_blade",
+      "text": "queen's_blade"
+    },
+    {
+      "value": "sonic_the_hedgehog_(comics)",
+      "text": "sonic_the_hedgehog_(comics)"
+    },
+    {
+      "value": "pixar",
+      "text": "pixar"
+    },
+    {
+      "value": "warner_brothers",
+      "text": "warner_brothers"
+    },
+    {
+      "value": "guilty_gear",
+      "text": "guilty_gear"
+    },
+    {
+      "value": "fate/stay_night",
+      "text": "fate/stay_night"
+    },
+    {
+      "value": "kim_possible",
+      "text": "kim_possible"
+    },
+    {
+      "value": "tokyo_afterschool_summoners",
+      "text": "tokyo_afterschool_summoners"
+    },
+    {
+      "value": "ben_10",
+      "text": "ben_10"
+    },
+    {
+      "value": "dcau",
+      "text": "dcau"
+    },
+    {
+      "value": "hanna-barbera",
+      "text": "hanna-barbera"
+    },
+    {
+      "value": "activision",
+      "text": "activision"
+    },
+    {
+      "value": "five_nights_at_freddy's_2",
+      "text": "five_nights_at_freddy's_2"
+    },
+    {
+      "value": "skullgirls",
+      "text": "skullgirls"
+    },
+    {
+      "value": "bethesda_softworks",
+      "text": "bethesda_softworks"
+    },
+    {
+      "value": "scooby-doo",
+      "text": "scooby-doo"
+    },
+    {
+      "value": "twilight_princess",
+      "text": "twilight_princess"
+    },
+    {
+      "value": "soul_calibur",
+      "text": "soul_calibur"
+    },
+    {
+      "value": "fnaf",
+      "text": "fnaf"
+    },
+    {
+      "value": "megami_tensei",
+      "text": "megami_tensei"
+    },
+    {
+      "value": "overwatch_2",
+      "text": "overwatch_2"
+    },
+    {
+      "value": "miss_kobayashi's_dragon_maid",
+      "text": "miss_kobayashi's_dragon_maid"
+    },
+    {
+      "value": "k-on!",
+      "text": "k-on!"
+    },
+    {
+      "value": "twitter",
+      "text": "twitter"
+    },
+    {
+      "value": "archie_comics",
+      "text": "archie_comics"
+    },
+    {
+      "value": "the_legend_of_korra",
+      "text": "the_legend_of_korra"
+    },
+    {
+      "value": "super_smash_bros.",
+      "text": "super_smash_bros."
+    },
+    {
+      "value": "apex_legends",
+      "text": "apex_legends"
+    },
+    {
+      "value": "elden_ring",
+      "text": "elden_ring"
+    },
+    {
+      "value": "wonder_woman_(series)",
+      "text": "wonder_woman_(series)"
+    },
+    {
+      "value": "warhammer_(franchise)",
+      "text": "warhammer_(franchise)"
+    },
+    {
+      "value": "halo_(series)",
+      "text": "halo_(series)"
+    },
+    {
+      "value": "resident_evil_2",
+      "text": "resident_evil_2"
+    },
+    {
+      "value": "vivienne_medrano",
+      "text": "vivienne_medrano"
+    },
+    {
+      "value": "sony_interactive_entertainment",
+      "text": "sony_interactive_entertainment"
+    },
+    {
+      "value": "tears_of_the_kingdom",
+      "text": "tears_of_the_kingdom"
+    },
+    {
+      "value": "the_amazing_world_of_gumball",
+      "text": "the_amazing_world_of_gumball"
+    },
+    {
+      "value": "re:zero_kara_hajimeru_isekai_seikatsu",
+      "text": "re:zero_kara_hajimeru_isekai_seikatsu"
+    },
+    {
+      "value": "stardust_crusaders",
+      "text": "stardust_crusaders"
+    },
+    {
+      "value": "epic_games",
+      "text": "epic_games"
+    },
+    {
+      "value": "pokemon_bw2",
+      "text": "pokemon_bw2"
+    },
+    {
+      "value": "the_simpsons",
+      "text": "the_simpsons"
+    },
+    {
+      "value": "equestria_girls",
+      "text": "equestria_girls"
+    },
+    {
+      "value": "honey_select",
+      "text": "honey_select"
+    },
+    {
+      "value": "the_owl_house",
+      "text": "the_owl_house"
+    },
+    {
+      "value": "crash_(series)",
+      "text": "crash_(series)"
+    },
+    {
+      "value": "mahou_shoujo_madoka_magica",
+      "text": "mahou_shoujo_madoka_magica"
+    },
+    {
+      "value": "shingeki_no_kyojin",
+      "text": "shingeki_no_kyojin"
+    },
+    {
+      "value": "persona_4",
+      "text": "persona_4"
+    },
+    {
+      "value": "girls_und_panzer",
+      "text": "girls_und_panzer"
+    },
+    {
+      "value": "jujutsu_kaisen",
+      "text": "jujutsu_kaisen"
+    },
+    {
+      "value": "the_incredibles",
+      "text": "the_incredibles"
+    },
+    {
+      "value": "mihoyo",
+      "text": "mihoyo"
+    },
+    {
+      "value": "blazblue",
+      "text": "blazblue"
+    },
+    {
+      "value": "street_fighter_v",
+      "text": "street_fighter_v"
+    },
+    {
+      "value": "injustice_2",
+      "text": "injustice_2"
+    },
+    {
+      "value": "vrchat",
+      "text": "vrchat"
+    },
+    {
+      "value": "code_geass",
+      "text": "code_geass"
+    },
+    {
+      "value": "danganronpa_2:_goodbye_despair",
+      "text": "danganronpa_2:_goodbye_despair"
+    },
+    {
+      "value": "sword_art_online",
+      "text": "sword_art_online"
+    },
+    {
+      "value": "spy_x_family",
+      "text": "spy_x_family"
+    },
+    {
+      "value": "resident_evil_3",
+      "text": "resident_evil_3"
+    },
+    {
+      "value": "taimanin_(series)",
+      "text": "taimanin_(series)"
+    },
+    {
+      "value": "total_drama_island",
+      "text": "total_drama_island"
+    },
+    {
+      "value": "star_vs_the_forces_of_evil",
+      "text": "star_vs_the_forces_of_evil"
+    },
+    {
+      "value": "shantae",
+      "text": "shantae"
+    },
+    {
+      "value": "fallout",
+      "text": "fallout"
+    },
+    {
+      "value": "princess_connect!",
+      "text": "princess_connect!"
+    },
+    {
+      "value": "precure",
+      "text": "precure"
+    },
+    {
+      "value": "girls'_frontline",
+      "text": "girls'_frontline"
+    },
+    {
+      "value": "bioshock",
+      "text": "bioshock"
+    },
+    {
+      "value": "looney_tunes",
+      "text": "looney_tunes"
+    },
+    {
+      "value": "high_school_dxd",
+      "text": "high_school_dxd"
+    },
+    {
+      "value": "bioshock_infinite",
+      "text": "bioshock_infinite"
+    },
+    {
+      "value": "to_aru_majutsu_no_index",
+      "text": "to_aru_majutsu_no_index"
+    },
+    {
+      "value": "senran_kagura",
+      "text": "senran_kagura"
+    },
+    {
+      "value": "the_loud_house",
+      "text": "the_loud_house"
+    },
+    {
+      "value": "dota_2",
+      "text": "dota_2"
+    },
+    {
+      "value": "lilith-soft",
+      "text": "lilith-soft"
+    },
+    {
+      "value": "homestuck",
+      "text": "homestuck"
+    },
+    {
+      "value": "to_love-ru",
+      "text": "to_love-ru"
+    },
+    {
+      "value": "cookie_run",
+      "text": "cookie_run"
+    },
+    {
+      "value": "kingdom_hearts",
+      "text": "kingdom_hearts"
+    },
+    {
+      "value": "rainbow_six_siege",
+      "text": "rainbow_six_siege"
+    },
+    {
+      "value": "sonic_the_hedgehog_(archie)",
+      "text": "sonic_the_hedgehog_(archie)"
+    },
+    {
+      "value": "dungeons_and_dragons",
+      "text": "dungeons_and_dragons"
+    },
+    {
+      "value": "teenage_mutant_ninja_turtles",
+      "text": "teenage_mutant_ninja_turtles"
+    },
+    {
+      "value": "beastars",
+      "text": "beastars"
+    },
+    {
+      "value": "pokemon_legends:_arceus",
+      "text": "pokemon_legends:_arceus"
+    },
+    {
+      "value": "harry_potter",
+      "text": "harry_potter"
+    },
+    {
+      "value": "naruto_(classic)",
+      "text": "naruto_(classic)"
+    },
+    {
+      "value": "greek_mythology",
+      "text": "greek_mythology"
+    },
+    {
+      "value": "fatal_fury",
+      "text": "fatal_fury"
+    },
+    {
+      "value": "asian_mythology",
+      "text": "asian_mythology"
+    },
+    {
+      "value": "sanrio",
+      "text": "sanrio"
+    },
+    {
+      "value": "splatoon_2",
+      "text": "splatoon_2"
+    },
+    {
+      "value": "taimanin_asagi_battle_arena",
+      "text": "taimanin_asagi_battle_arena"
+    },
+    {
+      "value": "resident_evil_8:_village",
+      "text": "resident_evil_8:_village"
+    },
+    {
+      "value": "helltaker",
+      "text": "helltaker"
+    },
+    {
+      "value": "honkai_(series)",
+      "text": "honkai_(series)"
+    },
+    {
+      "value": "resident_evil_2_remake",
+      "text": "resident_evil_2_remake"
+    },
+    {
+      "value": "frozen_(film)",
+      "text": "frozen_(film)"
+    },
+    {
+      "value": "family_guy",
+      "text": "family_guy"
+    },
+    {
+      "value": "hololive_myth",
+      "text": "hololive_myth"
+    },
+    {
+      "value": "new_super_mario_bros._u_deluxe",
+      "text": "new_super_mario_bros._u_deluxe"
+    },
+    {
+      "value": "rainbow_six",
+      "text": "rainbow_six"
+    },
+    {
+      "value": "sony_corporation",
+      "text": "sony_corporation"
+    },
+    {
+      "value": "honkai:_star_rail",
+      "text": "honkai:_star_rail"
+    },
+    {
+      "value": "black_clover",
+      "text": "black_clover"
+    },
+    {
+      "value": "garry's_mod",
+      "text": "garry's_mod"
+    },
+    {
+      "value": "east_asian_mythology",
+      "text": "east_asian_mythology"
+    },
+    {
+      "value": "avengers",
+      "text": "avengers"
+    },
+    {
+      "value": "taimanin_asagi",
+      "text": "taimanin_asagi"
+    },
+    {
+      "value": "gravity_falls",
+      "text": "gravity_falls"
+    },
+    {
+      "value": "suzumiya_haruhi_no_yuuutsu",
+      "text": "suzumiya_haruhi_no_yuuutsu"
+    },
+    {
+      "value": "the_lion_king",
+      "text": "the_lion_king"
+    },
+    {
+      "value": "tecmo",
+      "text": "tecmo"
+    },
+    {
+      "value": "spyro_the_dragon",
+      "text": "spyro_the_dragon"
+    },
+    {
+      "value": "hazbin_hotel",
+      "text": "hazbin_hotel"
+    },
+    {
+      "value": "gintama",
+      "text": "gintama"
+    },
+    {
+      "value": "naruto:_the_last",
+      "text": "naruto:_the_last"
+    },
+    {
+      "value": "final_fantasy_x",
+      "text": "final_fantasy_x"
+    },
+    {
+      "value": "kid_icarus",
+      "text": "kid_icarus"
+    },
+    {
+      "value": "to_aru_kagaku_no_railgun",
+      "text": "to_aru_kagaku_no_railgun"
+    },
+    {
+      "value": "pokemon_(anime)",
+      "text": "pokemon_(anime)"
+    },
+    {
+      "value": "paladins",
+      "text": "paladins"
+    },
+    {
+      "value": "resident_evil_3_remake",
+      "text": "resident_evil_3_remake"
+    },
+    {
+      "value": "sono_bisque_doll_wa_koi_wo_suru",
+      "text": "sono_bisque_doll_wa_koi_wo_suru"
+    },
+    {
+      "value": "danganronpa_v3",
+      "text": "danganronpa_v3"
+    },
+    {
+      "value": "kirby_(series)",
+      "text": "kirby_(series)"
+    },
+    {
+      "value": "komi-san_wa_komyushou_desu",
+      "text": "komi-san_wa_komyushou_desu"
+    },
+    {
+      "value": "tales_of_(series)",
+      "text": "tales_of_(series)"
+    },
+    {
+      "value": "dragon_quest_iii",
+      "text": "dragon_quest_iii"
+    },
+    {
+      "value": "marvel_cinematic_universe",
+      "text": "marvel_cinematic_universe"
+    },
+    {
+      "value": "the_witcher",
+      "text": "the_witcher"
+    },
+    {
+      "value": "tomb_raider_(survivor)",
+      "text": "tomb_raider_(survivor)"
+    },
+    {
+      "value": "studio_trigger",
+      "text": "studio_trigger"
+    },
+    {
+      "value": "k/da_series",
+      "text": "k/da_series"
+    },
+    {
+      "value": "microsoft",
+      "text": "microsoft"
+    },
+    {
+      "value": "idolmaster_shiny_colors",
+      "text": "idolmaster_shiny_colors"
+    },
+    {
+      "value": "life_is_strange",
+      "text": "life_is_strange"
+    },
+    {
+      "value": "street_fighter_6",
+      "text": "street_fighter_6"
+    },
+    {
+      "value": "crash_bandicoot_(series)",
+      "text": "crash_bandicoot_(series)"
+    },
+    {
+      "value": "warhammer_40k",
+      "text": "warhammer_40k"
+    },
+    {
+      "value": "uzaki-chan_wa_asobitai!",
+      "text": "uzaki-chan_wa_asobitai!"
+    },
+    {
+      "value": "danny_phantom",
+      "text": "danny_phantom"
+    },
+    {
+      "value": "namco",
+      "text": "namco"
+    },
+    {
+      "value": "ms_paint_adventures",
+      "text": "ms_paint_adventures"
+    },
+    {
+      "value": "seiken_densetsu_3",
+      "text": "seiken_densetsu_3"
+    },
+    {
+      "value": "transformers",
+      "text": "transformers"
+    },
+    {
+      "value": "panty_&_stocking_with_garterbelt",
+      "text": "panty_&_stocking_with_garterbelt"
+    },
+    {
+      "value": "mahou_shoujo_lyrical_nanoha_strikers",
+      "text": "mahou_shoujo_lyrical_nanoha_strikers"
+    },
+    {
+      "value": "snapchat",
+      "text": "snapchat"
+    },
+    {
+      "value": "dead_by_daylight",
+      "text": "dead_by_daylight"
+    },
+    {
+      "value": "who_framed_roger_rabbit",
+      "text": "who_framed_roger_rabbit"
+    },
+    {
+      "value": "nippon_ichi_software",
+      "text": "nippon_ichi_software"
+    },
+    {
+      "value": "monster_musume_no_iru_nichijou",
+      "text": "monster_musume_no_iru_nichijou"
+    },
+    {
+      "value": "the_last_of_us",
+      "text": "the_last_of_us"
+    },
+    {
+      "value": "tengen_toppa_gurren_lagann",
+      "text": "tengen_toppa_gurren_lagann"
+    },
+    {
+      "value": "netflix",
+      "text": "netflix"
+    },
+    {
+      "value": "neptunia_(series)",
+      "text": "neptunia_(series)"
+    },
+    {
+      "value": "spider-man:_into_the_spider-verse",
+      "text": "spider-man:_into_the_spider-verse"
+    },
+    {
+      "value": "friday_night_funkin_mod",
+      "text": "friday_night_funkin_mod"
+    },
+    {
+      "value": "kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~",
+      "text": "kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~"
+    },
+    {
+      "value": "justice_league",
+      "text": "justice_league"
+    },
+    {
+      "value": "vento_aureo",
+      "text": "vento_aureo"
+    },
+    {
+      "value": "mortal_kombat_11",
+      "text": "mortal_kombat_11"
+    },
+    {
+      "value": "ranma_1/2",
+      "text": "ranma_1/2"
+    },
+    {
+      "value": "how_to_train_your_dragon",
+      "text": "how_to_train_your_dragon"
+    },
+    {
+      "value": "gyakuten_saiban",
+      "text": "gyakuten_saiban"
+    },
+    {
+      "value": "go-toubun_no_hanayome",
+      "text": "go-toubun_no_hanayome"
+    },
+    {
+      "value": "whentai",
+      "text": "whentai"
+    },
+    {
+      "value": "scp_foundation",
+      "text": "scp_foundation"
+    },
+    {
+      "value": "pokemon_oras",
+      "text": "pokemon_oras"
+    },
+    {
+      "value": "millennium_science_school_student",
+      "text": "millennium_science_school_student"
+    },
+    {
+      "value": "my_life_as_a_teenage_robot",
+      "text": "my_life_as_a_teenage_robot"
+    },
+    {
+      "value": "clone_wars",
+      "text": "clone_wars"
+    },
+    {
+      "value": "fire_emblem:_the_blazing_blade",
+      "text": "fire_emblem:_the_blazing_blade"
+    },
+    {
+      "value": "cyberpunk:_edgerunners",
+      "text": "cyberpunk:_edgerunners"
+    },
+    {
+      "value": "kemono_friends",
+      "text": "kemono_friends"
+    },
+    {
+      "value": "princess_connect!_re:dive",
+      "text": "princess_connect!_re:dive"
+    },
+    {
+      "value": "strike_witches",
+      "text": "strike_witches"
+    },
+    {
+      "value": "metal_gear_solid",
+      "text": "metal_gear_solid"
+    },
+    {
+      "value": "aggressive_retsuko",
+      "text": "aggressive_retsuko"
+    },
+    {
+      "value": "resident_evil_4",
+      "text": "resident_evil_4"
+    },
+    {
+      "value": "overlord_(maruyama)",
+      "text": "overlord_(maruyama)"
+    },
+    {
+      "value": "valentine's_day",
+      "text": "valentine's_day"
+    },
+    {
+      "value": "persona_3",
+      "text": "persona_3"
+    },
+    {
+      "value": "mahou_shoujo_lyrical_nanoha",
+      "text": "mahou_shoujo_lyrical_nanoha"
+    },
+    {
+      "value": "alien_(franchise)",
+      "text": "alien_(franchise)"
+    },
+    {
+      "value": "lilo_and_stitch",
+      "text": "lilo_and_stitch"
+    },
+    {
+      "value": "fate/zero",
+      "text": "fate/zero"
+    },
+    {
+      "value": "last_origin",
+      "text": "last_origin"
+    },
+    {
+      "value": "fire_emblem:_radiant_dawn",
+      "text": "fire_emblem:_radiant_dawn"
+    },
+    {
+      "value": "smile_precure",
+      "text": "smile_precure"
+    },
+    {
+      "value": "wow",
+      "text": "wow"
+    },
+    {
+      "value": "fate/apocrypha",
+      "text": "fate/apocrypha"
+    },
+    {
+      "value": "goddess_of_victory:_nikke",
+      "text": "goddess_of_victory:_nikke"
+    },
+    {
+      "value": "european_mythology",
+      "text": "european_mythology"
+    },
+    {
+      "value": "dead_or_alive_5",
+      "text": "dead_or_alive_5"
+    },
+    {
+      "value": "ragnarok_online",
+      "text": "ragnarok_online"
+    },
+    {
+      "value": "nutaku",
+      "text": "nutaku"
+    },
+    {
+      "value": "love_live!_school_idol_project",
+      "text": "love_live!_school_idol_project"
+    },
+    {
+      "value": "valorant",
+      "text": "valorant"
+    },
+    {
+      "value": "lifewonders",
+      "text": "lifewonders"
+    },
+    {
+      "value": "boku_no_hero_academia",
+      "text": "boku_no_hero_academia"
+    },
+    {
+      "value": "ratchet_and_clank",
+      "text": "ratchet_and_clank"
+    },
+    {
+      "value": "diamond_is_unbreakable",
+      "text": "diamond_is_unbreakable"
+    },
+    {
+      "value": "call_of_duty",
+      "text": "call_of_duty"
+    },
+    {
+      "value": "paper_mario",
+      "text": "paper_mario"
+    },
+    {
+      "value": "xbox_game_studios",
+      "text": "xbox_game_studios"
+    },
+    {
+      "value": "dark_souls",
+      "text": "dark_souls"
+    },
+    {
+      "value": "samurai_shodown",
+      "text": "samurai_shodown"
+    },
+    {
+      "value": "sonic_the_hedgehog_(idw)",
+      "text": "sonic_the_hedgehog_(idw)"
+    },
+    {
+      "value": "fire_emblem_engage",
+      "text": "fire_emblem_engage"
+    },
+    {
+      "value": "idw_publishing",
+      "text": "idw_publishing"
+    },
+    {
+      "value": "super_mario_galaxy",
+      "text": "super_mario_galaxy"
+    },
+    {
+      "value": "fredina's_nightclub",
+      "text": "fredina's_nightclub"
+    },
+    {
+      "value": "warframe",
+      "text": "warframe"
+    },
+    {
+      "value": "kung_fu_panda",
+      "text": "kung_fu_panda"
+    },
+    {
+      "value": "hololive_english_-council-",
+      "text": "hololive_english_-council-"
+    },
+    {
+      "value": "the_witcher_2",
+      "text": "the_witcher_2"
+    },
+    {
+      "value": "nintendo_switch",
+      "text": "nintendo_switch"
+    },
+    {
+      "value": "bioware",
+      "text": "bioware"
+    },
+    {
+      "value": "lucky_star",
+      "text": "lucky_star"
+    },
+    {
+      "value": "goof_troop",
+      "text": "goof_troop"
+    },
+    {
+      "value": "aladdin",
+      "text": "aladdin"
+    },
+    {
+      "value": "valve",
+      "text": "valve"
+    },
+    {
+      "value": "fazclaire's_nightclub",
+      "text": "fazclaire's_nightclub"
+    },
+    {
+      "value": "the_last_of_us_2",
+      "text": "the_last_of_us_2"
+    },
+    {
+      "value": "easter",
+      "text": "easter"
+    },
+    {
+      "value": "guild_wars",
+      "text": "guild_wars"
+    },
+    {
+      "value": "amphibia",
+      "text": "amphibia"
+    },
+    {
+      "value": "hollow_knight",
+      "text": "hollow_knight"
+    },
+    {
+      "value": "jaiden_animations",
+      "text": "jaiden_animations"
+    },
+    {
+      "value": "summertime_saga",
+      "text": "summertime_saga"
+    },
+    {
+      "value": "hulk_(series)",
+      "text": "hulk_(series)"
+    },
+    {
+      "value": "dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka",
+      "text": "dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka"
+    },
+    {
+      "value": "the_bad_guys",
+      "text": "the_bad_guys"
+    },
+    {
+      "value": "trinity_general_school_student",
+      "text": "trinity_general_school_student"
+    },
+    {
+      "value": "tom_clancy",
+      "text": "tom_clancy"
+    },
+    {
+      "value": "stone_ocean",
+      "text": "stone_ocean"
+    },
+    {
+      "value": "danganronpa:_trigger_happy_havoc",
+      "text": "danganronpa:_trigger_happy_havoc"
+    },
+    {
+      "value": "ok_k.o.!_let's_be_heroes",
+      "text": "ok_k.o.!_let's_be_heroes"
+    },
+    {
+      "value": "splatoon_(series)",
+      "text": "splatoon_(series)"
+    },
+    {
+      "value": "disney_xd",
+      "text": "disney_xd"
+    },
+    {
+      "value": "the_amazing_digital_circus",
+      "text": "the_amazing_digital_circus"
+    },
+    {
+      "value": "legend_of_queen_opala",
+      "text": "legend_of_queen_opala"
+    },
+    {
+      "value": "dragon_ball_fighterz",
+      "text": "dragon_ball_fighterz"
+    },
+    {
+      "value": "fire_emblem:_path_of_radiance",
+      "text": "fire_emblem:_path_of_radiance"
+    },
+    {
+      "value": "miraculous_ladybug",
+      "text": "miraculous_ladybug"
+    },
+    {
+      "value": "devil_may_cry",
+      "text": "devil_may_cry"
+    },
+    {
+      "value": "resident_evil_5",
+      "text": "resident_evil_5"
+    },
+    {
+      "value": "glitch_productions",
+      "text": "glitch_productions"
+    },
+    {
+      "value": "idw_comics",
+      "text": "idw_comics"
+    },
+    {
+      "value": "bayonetta",
+      "text": "bayonetta"
+    },
+    {
+      "value": "foster's_home_for_imaginary_friends",
+      "text": "foster's_home_for_imaginary_friends"
+    },
+    {
+      "value": "creatures_(company)",
+      "text": "creatures_(company)"
+    },
+    {
+      "value": "sly_cooper_(series)",
+      "text": "sly_cooper_(series)"
+    },
+    {
+      "value": "no_nut_november",
+      "text": "no_nut_november"
+    },
+    {
+      "value": "final_fight",
+      "text": "final_fight"
+    },
+    {
+      "value": "umamusume",
+      "text": "umamusume"
+    },
+    {
+      "value": "silent_hill",
+      "text": "silent_hill"
+    },
+    {
+      "value": "mega_man_x",
+      "text": "mega_man_x"
+    },
+    {
+      "value": "hololive_english_-promise-",
+      "text": "hololive_english_-promise-"
+    },
+    {
+      "value": "animaniacs",
+      "text": "animaniacs"
+    },
+    {
+      "value": "little_witch_academia",
+      "text": "little_witch_academia"
+    },
+    {
+      "value": "hunter_x_hunter",
+      "text": "hunter_x_hunter"
+    },
+    {
+      "value": "fire_emblem_echoes:_shadows_of_valentia",
+      "text": "fire_emblem_echoes:_shadows_of_valentia"
+    },
+    {
+      "value": "left_4_dead",
+      "text": "left_4_dead"
+    },
+    {
+      "value": "love_live!_sunshine!!",
+      "text": "love_live!_sunshine!!"
+    },
+    {
+      "value": "lyrical_nanoha",
+      "text": "lyrical_nanoha"
+    },
+    {
+      "value": "honkai_impact_3rd",
+      "text": "honkai_impact_3rd"
+    },
+    {
+      "value": "mass_effect_3",
+      "text": "mass_effect_3"
+    },
+    {
+      "value": "she-ra_and_the_princesses_of_power",
+      "text": "she-ra_and_the_princesses_of_power"
+    },
+    {
+      "value": "netherrealm_studios",
+      "text": "netherrealm_studios"
+    },
+    {
+      "value": "chip_'n_dale_rescue_rangers",
+      "text": "chip_'n_dale_rescue_rangers"
+    },
+    {
+      "value": "dexter's_laboratory",
+      "text": "dexter's_laboratory"
+    },
+    {
+      "value": "new_year",
+      "text": "new_year"
+    },
+    {
+      "value": "hotel_transylvania",
+      "text": "hotel_transylvania"
+    },
+    {
+      "value": "the_little_mermaid",
+      "text": "the_little_mermaid"
+    },
+    {
+      "value": "borderlands",
+      "text": "borderlands"
+    },
+    {
+      "value": "darling_in_the_franxx",
+      "text": "darling_in_the_franxx"
+    },
+    {
+      "value": "night_in_the_woods",
+      "text": "night_in_the_woods"
+    },
+    {
+      "value": "konami",
+      "text": "konami"
+    },
+    {
+      "value": "fullmetal_alchemist",
+      "text": "fullmetal_alchemist"
+    },
+    {
+      "value": "fire_emblem:_the_binding_blade",
+      "text": "fire_emblem:_the_binding_blade"
+    },
+    {
+      "value": "egyptian_mythology",
+      "text": "egyptian_mythology"
+    },
+    {
+      "value": "destiny_(game)",
+      "text": "destiny_(game)"
+    },
+    {
+      "value": "big_hero_6",
+      "text": "big_hero_6"
+    },
+    {
+      "value": "ninja_gaiden",
+      "text": "ninja_gaiden"
+    },
+    {
+      "value": "type-moon",
+      "text": "type-moon"
+    },
+    {
+      "value": "nijisanji_en",
+      "text": "nijisanji_en"
+    },
+    {
+      "value": "final_fantasy_xiii",
+      "text": "final_fantasy_xiii"
+    },
+    {
+      "value": "warhammer_fantasy",
+      "text": "warhammer_fantasy"
+    },
+    {
+      "value": "the_fairly_oddparents",
+      "text": "the_fairly_oddparents"
+    },
+    {
+      "value": "plants_vs_zombies",
+      "text": "plants_vs_zombies"
+    },
+    {
+      "value": "fate/extra",
+      "text": "fate/extra"
+    },
+    {
+      "value": "youtube_hispanic",
+      "text": "youtube_hispanic"
+    },
+    {
+      "value": "fire_emblem:_mystery_of_the_emblem",
+      "text": "fire_emblem:_mystery_of_the_emblem"
+    },
+    {
+      "value": "soul_eater",
+      "text": "soul_eater"
+    },
+    {
+      "value": "dragon_quest_iv",
+      "text": "dragon_quest_iv"
+    },
+    {
+      "value": "mushoku_tensei",
+      "text": "mushoku_tensei"
+    },
+    {
+      "value": "dc_super_hero_girls",
+      "text": "dc_super_hero_girls"
+    },
+    {
+      "value": "ocarina_of_time",
+      "text": "ocarina_of_time"
+    },
+    {
+      "value": "spider-man:_across_the_spider-verse",
+      "text": "spider-man:_across_the_spider-verse"
+    },
+    {
+      "value": "donkey_kong_(series)",
+      "text": "donkey_kong_(series)"
+    },
+    {
+      "value": "battle_tendency",
+      "text": "battle_tendency"
+    },
+    {
+      "value": "rick_and_morty",
+      "text": "rick_and_morty"
+    },
+    {
+      "value": "cookie_run_kingdom",
+      "text": "cookie_run_kingdom"
+    },
+    {
+      "value": "shin_megami_tensei",
+      "text": "shin_megami_tensei"
+    },
+    {
+      "value": "guardians_of_the_galaxy",
+      "text": "guardians_of_the_galaxy"
+    },
+    {
+      "value": "naughty_dog",
+      "text": "naughty_dog"
+    },
+    {
+      "value": "guilty_gear_strive",
+      "text": "guilty_gear_strive"
+    },
+    {
+      "value": "inuyasha",
+      "text": "inuyasha"
+    },
+    {
+      "value": "tekken_7",
+      "text": "tekken_7"
+    },
+    {
+      "value": "resident_evil_4_remake",
+      "text": "resident_evil_4_remake"
+    },
+    {
+      "value": "tiny_toon_adventures",
+      "text": "tiny_toon_adventures"
+    },
+    {
+      "value": "super_danganronpa_2",
+      "text": "super_danganronpa_2"
+    },
+    {
+      "value": "pixiv",
+      "text": "pixiv"
+    },
+    {
+      "value": "gargoyles",
+      "text": "gargoyles"
+    },
+    {
+      "value": "futurama",
+      "text": "futurama"
+    },
+    {
+      "value": "fire_emblem:_shadow_dragon_and_the_blade_of_light",
+      "text": "fire_emblem:_shadow_dragon_and_the_blade_of_light"
+    },
+    {
+      "value": "star_wars_rebels",
+      "text": "star_wars_rebels"
+    },
+    {
+      "value": "tiger_and_bunny",
+      "text": "tiger_and_bunny"
+    },
+    {
+      "value": "inazuma_eleven",
+      "text": "inazuma_eleven"
+    },
+    {
+      "value": "the_road_to_el_dorado",
+      "text": "the_road_to_el_dorado"
+    },
+    {
+      "value": "steel_wool_studios",
+      "text": "steel_wool_studios"
+    },
+    {
+      "value": "nanatsu_no_taizai",
+      "text": "nanatsu_no_taizai"
+    },
+    {
+      "value": "splatoon_3",
+      "text": "splatoon_3"
+    },
+    {
+      "value": "disney_villains",
+      "text": "disney_villains"
+    },
+    {
+      "value": "japanese_mythology",
+      "text": "japanese_mythology"
+    },
+    {
+      "value": "five_nights_at_freddy's:_sister_location",
+      "text": "five_nights_at_freddy's:_sister_location"
+    },
+    {
+      "value": "mega_man(classic)",
+      "text": "mega_man(classic)"
+    },
+    {
+      "value": "robin_hood_(disney)",
+      "text": "robin_hood_(disney)"
+    },
+    {
+      "value": "dragon_quest_v",
+      "text": "dragon_quest_v"
+    },
+    {
+      "value": "tumblr",
+      "text": "tumblr"
+    },
+    {
+      "value": "final_fantasy_ix",
+      "text": "final_fantasy_ix"
+    },
+    {
+      "value": "the_ring",
+      "text": "the_ring"
+    },
+    {
+      "value": "fire_emblem:_genealogy_of_the_holy_war",
+      "text": "fire_emblem:_genealogy_of_the_holy_war"
+    },
+    {
+      "value": "yu-gi-oh!_gx",
+      "text": "yu-gi-oh!_gx"
+    },
+    {
+      "value": "metal_gear",
+      "text": "metal_gear"
+    },
+    {
+      "value": "monogatari_(series)",
+      "text": "monogatari_(series)"
+    },
+    {
+      "value": "illusion_soft",
+      "text": "illusion_soft"
+    },
+    {
+      "value": "t.u.f.f._puppy",
+      "text": "t.u.f.f._puppy"
+    },
+    {
+      "value": "doom",
+      "text": "doom"
+    },
+    {
+      "value": "atelier_(series)",
+      "text": "atelier_(series)"
+    },
+    {
+      "value": "gooseworx",
+      "text": "gooseworx"
+    },
+    {
+      "value": "gundam_build_fighters",
+      "text": "gundam_build_fighters"
+    },
+    {
+      "value": "vshojo",
+      "text": "vshojo"
+    },
+    {
+      "value": "infinite_stratos",
+      "text": "infinite_stratos"
+    },
+    {
+      "value": "danganronpa_1",
+      "text": "danganronpa_1"
+    },
+    {
+      "value": "league_of_legends:_wild_rift",
+      "text": "league_of_legends:_wild_rift"
+    },
+    {
+      "value": "god_of_war",
+      "text": "god_of_war"
+    },
+    {
+      "value": "final_fantasy_xv",
+      "text": "final_fantasy_xv"
+    },
+    {
+      "value": "zero_no_tsukaima",
+      "text": "zero_no_tsukaima"
+    },
+    {
+      "value": "brand_new_animal",
+      "text": "brand_new_animal"
+    },
+    {
+      "value": "half-life",
+      "text": "half-life"
+    },
+    {
+      "value": "tangled",
+      "text": "tangled"
+    },
+    {
+      "value": "yu-gi-oh!_5d's",
+      "text": "yu-gi-oh!_5d's"
+    },
+    {
+      "value": "dota",
+      "text": "dota"
+    },
+    {
+      "value": "biohazard",
+      "text": "biohazard"
+    },
+    {
+      "value": "wakfu",
+      "text": "wakfu"
+    },
+    {
+      "value": "puella_magi_madoka_magica",
+      "text": "puella_magi_madoka_magica"
+    },
+    {
+      "value": "rooster_teeth",
+      "text": "rooster_teeth"
+    },
+    {
+      "value": "axis_powers_hetalia",
+      "text": "axis_powers_hetalia"
+    },
+    {
+      "value": "blacked",
+      "text": "blacked"
+    },
+    {
+      "value": "bungie",
+      "text": "bungie"
+    },
+    {
+      "value": "star_guardian_series",
+      "text": "star_guardian_series"
+    },
+    {
+      "value": "totally_spies",
+      "text": "totally_spies"
+    },
+    {
+      "value": "pokemon_hgss",
+      "text": "pokemon_hgss"
+    },
+    {
+      "value": "ubisoft",
+      "text": "ubisoft"
+    },
+    {
+      "value": "batman:_the_animated_series",
+      "text": "batman:_the_animated_series"
+    },
+    {
+      "value": "electronic_arts",
+      "text": "electronic_arts"
+    },
+    {
+      "value": "grand_theft_auto",
+      "text": "grand_theft_auto"
+    },
+    {
+      "value": "half-life_2",
+      "text": "half-life_2"
+    },
+    {
+      "value": "mahou_shoujo_lyrical_nanoha_a's",
+      "text": "mahou_shoujo_lyrical_nanoha_a's"
+    },
+    {
+      "value": "hololive_japan",
+      "text": "hololive_japan"
+    },
+    {
+      "value": "godzilla_(series)",
+      "text": "godzilla_(series)"
+    },
+    {
+      "value": "dynasty_warriors",
+      "text": "dynasty_warriors"
+    },
+    {
+      "value": "regular_show",
+      "text": "regular_show"
+    },
+    {
+      "value": "bleach:_the_thousand-year_blood_war",
+      "text": "bleach:_the_thousand-year_blood_war"
+    },
+    {
+      "value": "creepypasta",
+      "text": "creepypasta"
+    },
+    {
+      "value": "smite",
+      "text": "smite"
+    },
+    {
+      "value": "viper_(series)",
+      "text": "viper_(series)"
+    },
+    {
+      "value": "fire_emblem:_the_sacred_stones",
+      "text": "fire_emblem:_the_sacred_stones"
+    },
+    {
+      "value": "deviantart",
+      "text": "deviantart"
+    },
+    {
+      "value": "shokugeki_no_souma",
+      "text": "shokugeki_no_souma"
+    },
+    {
+      "value": "scott_pilgrim",
+      "text": "scott_pilgrim"
+    },
+    {
+      "value": "mortal_kombat_x",
+      "text": "mortal_kombat_x"
+    },
+    {
+      "value": "ikkitousen",
+      "text": "ikkitousen"
+    },
+    {
+      "value": "lego",
+      "text": "lego"
+    },
+    {
+      "value": "atelier_ryza",
+      "text": "atelier_ryza"
+    },
+    {
+      "value": "k/da_all_out_series",
+      "text": "k/da_all_out_series"
+    },
+    {
+      "value": "oh_my_goddess!",
+      "text": "oh_my_goddess!"
+    },
+    {
+      "value": "super_robot_wars",
+      "text": "super_robot_wars"
+    },
+    {
+      "value": "supercell",
+      "text": "supercell"
+    },
+    {
+      "value": "winx_club",
+      "text": "winx_club"
+    },
+    {
+      "value": "powerpuff_girls",
+      "text": "powerpuff_girls"
+    },
+    {
+      "value": "bocchi_the_rock!",
+      "text": "bocchi_the_rock!"
+    },
+    {
+      "value": "haydee_(game)",
+      "text": "haydee_(game)"
+    },
+    {
+      "value": "wayforward",
+      "text": "wayforward"
+    },
+    {
+      "value": "cuphead_(game)",
+      "text": "cuphead_(game)"
+    },
+    {
+      "value": "101_dalmatians",
+      "text": "101_dalmatians"
+    },
+    {
+      "value": "elsword",
+      "text": "elsword"
+    },
+    {
+      "value": "fnf_mods",
+      "text": "fnf_mods"
+    },
+    {
+      "value": "made_in_abyss",
+      "text": "made_in_abyss"
+    },
+    {
+      "value": "samsung",
+      "text": "samsung"
+    },
+    {
+      "value": "newgrounds",
+      "text": "newgrounds"
+    },
+    {
+      "value": "bakemonogatari",
+      "text": "bakemonogatari"
+    },
+    {
+      "value": "sister_location",
+      "text": "sister_location"
+    },
+    {
+      "value": "dragon_ball_(classic)",
+      "text": "dragon_ball_(classic)"
+    },
+    {
+      "value": "senki_zesshou_symphogear",
+      "text": "senki_zesshou_symphogear"
+    },
+    {
+      "value": "space_jam",
+      "text": "space_jam"
+    },
+    {
+      "value": "batman:_arkham_knight",
+      "text": "batman:_arkham_knight"
+    },
+    {
+      "value": "gundam_seed_destiny",
+      "text": "gundam_seed_destiny"
+    },
+    {
+      "value": "resident_evil_6",
+      "text": "resident_evil_6"
+    },
+    {
+      "value": "metal_slug",
+      "text": "metal_slug"
+    },
+    {
+      "value": "grand_theft_auto_v",
+      "text": "grand_theft_auto_v"
+    },
+    {
+      "value": "dragon_ball_gt",
+      "text": "dragon_ball_gt"
+    },
+    {
+      "value": "sonic_boom",
+      "text": "sonic_boom"
+    },
+    {
+      "value": "middle_eastern_mythology",
+      "text": "middle_eastern_mythology"
+    },
+    {
+      "value": "ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai",
+      "text": "ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai"
+    },
+    {
+      "value": "virt-a-mate",
+      "text": "virt-a-mate"
+    },
+    {
+      "value": "star_trek",
+      "text": "star_trek"
+    },
+    {
+      "value": "black_lagoon",
+      "text": "black_lagoon"
+    },
+    {
+      "value": "among_us",
+      "text": "among_us"
+    },
+    {
+      "value": "bandai",
+      "text": "bandai"
+    },
+    {
+      "value": "terraria",
+      "text": "terraria"
+    },
+    {
+      "value": "alice_in_wonderland",
+      "text": "alice_in_wonderland"
+    },
+    {
+      "value": "freedom_planet",
+      "text": "freedom_planet"
+    },
+    {
+      "value": "dragon_age",
+      "text": "dragon_age"
+    },
+    {
+      "value": "goblin_slayer",
+      "text": "goblin_slayer"
+    },
+    {
+      "value": "keroro_gunsou",
+      "text": "keroro_gunsou"
+    },
+    {
+      "value": "rareware",
+      "text": "rareware"
+    },
+    {
+      "value": "ssss.gridman",
+      "text": "ssss.gridman"
+    },
+    {
+      "value": "twitch",
+      "text": "twitch"
+    },
+    {
+      "value": "legend_of_zelda",
+      "text": "legend_of_zelda"
+    },
+    {
+      "value": "saint_seiya",
+      "text": "saint_seiya"
+    },
+    {
+      "value": "beauty_and_the_beast",
+      "text": "beauty_and_the_beast"
+    },
+    {
+      "value": "cygames",
+      "text": "cygames"
+    },
+    {
+      "value": "cave_story",
+      "text": "cave_story"
+    },
+    {
+      "value": "swat_kats",
+      "text": "swat_kats"
+    },
+    {
+      "value": "balto_(film)",
+      "text": "balto_(film)"
+    },
+    {
+      "value": "monster_girl_encyclopedia",
+      "text": "monster_girl_encyclopedia"
+    },
+    {
+      "value": "xenoblade_chronicles_3",
+      "text": "xenoblade_chronicles_3"
+    },
+    {
+      "value": "castlevania",
+      "text": "castlevania"
+    },
+    {
+      "value": "eiyuu_densetsu",
+      "text": "eiyuu_densetsu"
+    },
+    {
+      "value": "minecraft_youtubers",
+      "text": "minecraft_youtubers"
+    },
+    {
+      "value": "lucasfilm",
+      "text": "lucasfilm"
+    },
+    {
+      "value": "hellsing",
+      "text": "hellsing"
+    },
+    {
+      "value": "highschool_of_the_dead",
+      "text": "highschool_of_the_dead"
+    },
+    {
+      "value": "idolmaster_million_live!",
+      "text": "idolmaster_million_live!"
+    },
+    {
+      "value": "glitch_techs",
+      "text": "glitch_techs"
+    },
+    {
+      "value": "wizards_of_the_coast",
+      "text": "wizards_of_the_coast"
+    },
+    {
+      "value": "respawn_entertainment",
+      "text": "respawn_entertainment"
+    },
+    {
+      "value": "love_live!_nijigasaki_high_school_idol_club",
+      "text": "love_live!_nijigasaki_high_school_idol_club"
+    },
+    {
+      "value": "tsukihime",
+      "text": "tsukihime"
+    },
+    {
+      "value": "hoyoverse",
+      "text": "hoyoverse"
+    },
+    {
+      "value": "talespin",
+      "text": "talespin"
+    },
+    {
+      "value": "super_mario_odyssey",
+      "text": "super_mario_odyssey"
+    },
+    {
+      "value": "fallout_4",
+      "text": "fallout_4"
+    },
+    {
+      "value": "spice_and_wolf",
+      "text": "spice_and_wolf"
+    },
+    {
+      "value": "ace_attorney",
+      "text": "ace_attorney"
+    },
+    {
+      "value": "final_fantasy_xii",
+      "text": "final_fantasy_xii"
+    },
+    {
+      "value": "arcane",
+      "text": "arcane"
+    },
+    {
+      "value": "sonic_team",
+      "text": "sonic_team"
+    },
+    {
+      "value": "bang_dream!",
+      "text": "bang_dream!"
+    },
+    {
+      "value": "dungeon_and_fighter",
+      "text": "dungeon_and_fighter"
+    },
+    {
+      "value": "phineas_and_ferb",
+      "text": "phineas_and_ferb"
+    },
+    {
+      "value": "ghost_in_the_shell",
+      "text": "ghost_in_the_shell"
+    },
+    {
+      "value": "happy_tree_friends",
+      "text": "happy_tree_friends"
+    },
+    {
+      "value": "mao_mao:_heroes_of_pure_heart",
+      "text": "mao_mao:_heroes_of_pure_heart"
+    },
+    {
+      "value": "arc_system_works",
+      "text": "arc_system_works"
+    },
+    {
+      "value": "furaffinity",
+      "text": "furaffinity"
+    },
+    {
+      "value": "kuroinu_~kedakaki_seijo_wa_hakudaku_ni_somaru~",
+      "text": "kuroinu_~kedakaki_seijo_wa_hakudaku_ni_somaru~"
+    },
+    {
+      "value": "my_teen_romantic_comedy_snafu",
+      "text": "my_teen_romantic_comedy_snafu"
+    },
+    {
+      "value": "akame_ga_kill!",
+      "text": "akame_ga_kill!"
+    },
+    {
+      "value": "invader_zim",
+      "text": "invader_zim"
+    },
+    {
+      "value": "mega_man_legends",
+      "text": "mega_man_legends"
+    },
+    {
+      "value": "tmnt_1987",
+      "text": "tmnt_1987"
+    },
+    {
+      "value": "cartoonvalley.com",
+      "text": "cartoonvalley.com"
+    },
+    {
+      "value": "punishing:_gray_raven",
+      "text": "punishing:_gray_raven"
+    },
+    {
+      "value": "gehenna_academy_student",
+      "text": "gehenna_academy_student"
+    },
+    {
+      "value": "atelier_kaguya",
+      "text": "atelier_kaguya"
+    },
+    {
+      "value": "young_justice",
+      "text": "young_justice"
+    },
+    {
+      "value": "puyo_puyo",
+      "text": "puyo_puyo"
+    },
+    {
+      "value": "las_lindas",
+      "text": "las_lindas"
+    },
+    {
+      "value": "hololive_indonesia",
+      "text": "hololive_indonesia"
+    },
+    {
+      "value": "spirit_blossom_series",
+      "text": "spirit_blossom_series"
+    },
+    {
+      "value": "final_fantasy_vi",
+      "text": "final_fantasy_vi"
+    },
+    {
+      "value": "playstation",
+      "text": "playstation"
+    },
+    {
+      "value": "halo_(game)",
+      "text": "halo_(game)"
+    },
+    {
+      "value": "twokinds",
+      "text": "twokinds"
+    },
+    {
+      "value": "rozen_maiden",
+      "text": "rozen_maiden"
+    },
+    {
+      "value": "the_jungle_book",
+      "text": "the_jungle_book"
+    },
+    {
+      "value": "project_moon",
+      "text": "project_moon"
+    },
+    {
+      "value": "bible_black",
+      "text": "bible_black"
+    },
+    {
+      "value": "team_cherry",
+      "text": "team_cherry"
+    },
+    {
+      "value": "gundam_seed",
+      "text": "gundam_seed"
+    },
+    {
+      "value": "thor_(series)",
+      "text": "thor_(series)"
+    },
+    {
+      "value": "mcdonald's",
+      "text": "mcdonald's"
+    },
+    {
+      "value": "sonic_riders",
+      "text": "sonic_riders"
+    },
+    {
+      "value": "final_fantasy_x-2",
+      "text": "final_fantasy_x-2"
+    },
+    {
+      "value": "cult_of_the_lamb",
+      "text": "cult_of_the_lamb"
+    },
+    {
+      "value": "dungeon_fighter_online",
+      "text": "dungeon_fighter_online"
+    },
+    {
+      "value": "fnafhs",
+      "text": "fnafhs"
+    },
+    {
+      "value": "ishuzoku_reviewers",
+      "text": "ishuzoku_reviewers"
+    },
+    {
+      "value": "flower_knight_girl",
+      "text": "flower_knight_girl"
+    },
+    {
+      "value": "kobayashi-san_chi_no_maidragon",
+      "text": "kobayashi-san_chi_no_maidragon"
+    },
+    {
+      "value": "detective_conan",
+      "text": "detective_conan"
+    },
+    {
+      "value": "metal_gear_solid_v",
+      "text": "metal_gear_solid_v"
+    },
+    {
+      "value": "illumination_entertainment",
+      "text": "illumination_entertainment"
+    },
+    {
+      "value": "mass_effect_2",
+      "text": "mass_effect_2"
+    },
+    {
+      "value": "baldur's_gate_3",
+      "text": "baldur's_gate_3"
+    },
+    {
+      "value": "holox",
+      "text": "holox"
+    },
+    {
+      "value": "sing_(movie)",
+      "text": "sing_(movie)"
+    },
+    {
+      "value": "game_of_thrones",
+      "text": "game_of_thrones"
+    },
+    {
+      "value": "my_singing_monsters",
+      "text": "my_singing_monsters"
+    },
+    {
+      "value": "taimanin_yukikaze",
+      "text": "taimanin_yukikaze"
+    },
+    {
+      "value": "sleeping_beauty_(1959_film)",
+      "text": "sleeping_beauty_(1959_film)"
+    },
+    {
+      "value": "to_heart_2",
+      "text": "to_heart_2"
+    },
+    {
+      "value": "resident_evil_remake",
+      "text": "resident_evil_remake"
+    },
+    {
+      "value": "fate/extra_ccc",
+      "text": "fate/extra_ccc"
+    },
+    {
+      "value": "phantasy_star",
+      "text": "phantasy_star"
+    },
+    {
+      "value": "hyrule_warriors",
+      "text": "hyrule_warriors"
+    },
+    {
+      "value": "mlp",
+      "text": "mlp"
+    },
+    {
+      "value": "wii_fit",
+      "text": "wii_fit"
+    },
+    {
+      "value": "mega_man_battle_network",
+      "text": "mega_man_battle_network"
+    },
+    {
+      "value": "original_artwork",
+      "text": "original_artwork"
+    },
+    {
+      "value": "peter_pan_(disney)",
+      "text": "peter_pan_(disney)"
+    },
+    {
+      "value": "mojang",
+      "text": "mojang"
+    },
+    {
+      "value": "yu-gi-oh!_duel_monsters",
+      "text": "yu-gi-oh!_duel_monsters"
+    },
+    {
+      "value": "andavaverse",
+      "text": "andavaverse"
+    },
+    {
+      "value": "dragon_quest_viii",
+      "text": "dragon_quest_viii"
+    },
+    {
+      "value": "encanto",
+      "text": "encanto"
+    },
+    {
+      "value": "yu-gi-oh!_zexal",
+      "text": "yu-gi-oh!_zexal"
+    },
+    {
+      "value": "tate_no_yuusha_no_nariagari",
+      "text": "tate_no_yuusha_no_nariagari"
+    },
+    {
+      "value": "final_fantasy_xi",
+      "text": "final_fantasy_xi"
+    },
+    {
+      "value": "omori",
+      "text": "omori"
+    },
+    {
+      "value": "kid_icarus_uprising",
+      "text": "kid_icarus_uprising"
+    },
+    {
+      "value": "dragon_ball_xenoverse",
+      "text": "dragon_ball_xenoverse"
+    },
+    {
+      "value": "danganronpa_3",
+      "text": "danganronpa_3"
+    },
+    {
+      "value": "breath_of_fire",
+      "text": "breath_of_fire"
+    },
+    {
+      "value": "banjo-kazooie",
+      "text": "banjo-kazooie"
+    },
+    {
+      "value": "monster_hunter_rise",
+      "text": "monster_hunter_rise"
+    },
+    {
+      "value": "norse_mythology",
+      "text": "norse_mythology"
+    },
+    {
+      "value": "gundam_00",
+      "text": "gundam_00"
+    },
+    {
+      "value": "sousou_no_frieren",
+      "text": "sousou_no_frieren"
+    },
+    {
+      "value": "mega_man_x_dive",
+      "text": "mega_man_x_dive"
+    },
+    {
+      "value": "adult_swim",
+      "text": "adult_swim"
+    },
+    {
+      "value": "to_love-ru_darkness",
+      "text": "to_love-ru_darkness"
+    },
+    {
+      "value": "puss_in_boots_the_last_wish",
+      "text": "puss_in_boots_the_last_wish"
+    },
+    {
+      "value": "yo-kai_watch",
+      "text": "yo-kai_watch"
+    },
+    {
+      "value": "hilda_(series)",
+      "text": "hilda_(series)"
+    },
+    {
+      "value": "masters_of_the_universe",
+      "text": "masters_of_the_universe"
+    },
+    {
+      "value": "os-tan",
+      "text": "os-tan"
+    },
+    {
+      "value": "cookie_run_ovenbreak",
+      "text": "cookie_run_ovenbreak"
+    },
+    {
+      "value": "wander_over_yonder",
+      "text": "wander_over_yonder"
+    },
+    {
+      "value": "final_fantasy_viii",
+      "text": "final_fantasy_viii"
+    },
+    {
+      "value": "baldur's_gate",
+      "text": "baldur's_gate"
+    },
+    {
+      "value": "star_ocean",
+      "text": "star_ocean"
+    },
+    {
+      "value": "azumanga_daiou",
+      "text": "azumanga_daiou"
+    },
+    {
+      "value": "atomic_heart",
+      "text": "atomic_heart"
+    },
+    {
+      "value": "klonoa_(series)",
+      "text": "klonoa_(series)"
+    },
+    {
+      "value": "pokemon_(classic_anime)",
+      "text": "pokemon_(classic_anime)"
+    },
+    {
+      "value": "heroes_of_the_storm",
+      "text": "heroes_of_the_storm"
+    },
+    {
+      "value": "undertale_au",
+      "text": "undertale_au"
+    },
+    {
+      "value": "sucker_punch_productions",
+      "text": "sucker_punch_productions"
+    },
+    {
+      "value": "mega_man_zero",
+      "text": "mega_man_zero"
+    },
+    {
+      "value": "borderlands_2",
+      "text": "borderlands_2"
+    },
+    {
+      "value": "the_grim_adventures_of_billy_and_mandy",
+      "text": "the_grim_adventures_of_billy_and_mandy"
+    },
+    {
+      "value": "nijisanji_indonesia",
+      "text": "nijisanji_indonesia"
+    },
+    {
+      "value": "urusei_yatsura",
+      "text": "urusei_yatsura"
+    },
+    {
+      "value": "persona_5_royal",
+      "text": "persona_5_royal"
+    },
+    {
+      "value": "mortal_kombat_(2011)",
+      "text": "mortal_kombat_(2011)"
+    },
+    {
+      "value": "lgbt_pride",
+      "text": "lgbt_pride"
+    },
+    {
+      "value": "sengoku_musou",
+      "text": "sengoku_musou"
+    },
+    {
+      "value": "x-men_evolution",
+      "text": "x-men_evolution"
+    },
+    {
+      "value": "starcraft",
+      "text": "starcraft"
+    },
+    {
+      "value": "kanojo_ga_ore_ni_kureta_mono._ore_ga_kanojo_ni_ageru_mono.",
+      "text": "kanojo_ga_ore_ni_kureta_mono._ore_ga_kanojo_ni_ageru_mono."
+    },
+    {
+      "value": "pokemon_masters",
+      "text": "pokemon_masters"
+    },
+    {
+      "value": "m.u.g.e.n",
+      "text": "m.u.g.e.n"
+    },
+    {
+      "value": "boku_wa_tomodachi_ga_sukunai",
+      "text": "boku_wa_tomodachi_ga_sukunai"
+    },
+    {
+      "value": "morenatsu",
+      "text": "morenatsu"
+    },
+    {
+      "value": "live-a-hero",
+      "text": "live-a-hero"
+    },
+    {
+      "value": "super_smash_bros._ultimate",
+      "text": "super_smash_bros._ultimate"
+    },
+    {
+      "value": "universal_studios",
+      "text": "universal_studios"
+    },
+    {
+      "value": "umamusume_pretty_derby",
+      "text": "umamusume_pretty_derby"
+    },
+    {
+      "value": "pink_pineapple",
+      "text": "pink_pineapple"
+    },
+    {
+      "value": "tenchi_muyo",
+      "text": "tenchi_muyo"
+    },
+    {
+      "value": "poppy_playtime",
+      "text": "poppy_playtime"
+    },
+    {
+      "value": "undertale_fanfiction",
+      "text": "undertale_fanfiction"
+    },
+    {
+      "value": "thundercats",
+      "text": "thundercats"
+    },
+    {
+      "value": "oshi_no_ko",
+      "text": "oshi_no_ko"
+    },
+    {
+      "value": "voiceroid",
+      "text": "voiceroid"
+    },
+    {
+      "value": "ed_edd_n_eddy",
+      "text": "ed_edd_n_eddy"
+    },
+    {
+      "value": "predator_(franchise)",
+      "text": "predator_(franchise)"
+    },
+    {
+      "value": "invincible",
+      "text": "invincible"
+    },
+    {
+      "value": "enen_no_shouboutai",
+      "text": "enen_no_shouboutai"
+    },
+    {
+      "value": "haikyuu!!",
+      "text": "haikyuu!!"
+    },
+    {
+      "value": "stardew_valley",
+      "text": "stardew_valley"
+    },
+    {
+      "value": "date_a_live",
+      "text": "date_a_live"
+    },
+    {
+      "value": "pokemon_frlg",
+      "text": "pokemon_frlg"
+    },
+    {
+      "value": "wwe",
+      "text": "wwe"
+    },
+    {
+      "value": "the_idolm@ster",
+      "text": "the_idolm@ster"
+    },
+    {
+      "value": "the_addams_family",
+      "text": "the_addams_family"
+    },
+    {
+      "value": "fire_force",
+      "text": "fire_force"
+    },
+    {
+      "value": "hana_to_hebi",
+      "text": "hana_to_hebi"
+    },
+    {
+      "value": "fnafhs_z3ro",
+      "text": "fnafhs_z3ro"
+    },
+    {
+      "value": "god_of_war_ragnarok",
+      "text": "god_of_war_ragnarok"
+    },
+    {
+      "value": "senran_kagura_(series)",
+      "text": "senran_kagura_(series)"
+    },
+    {
+      "value": "madness_combat",
+      "text": "madness_combat"
+    },
+    {
+      "value": "object_shows",
+      "text": "object_shows"
+    },
+    {
+      "value": "sogna",
+      "text": "sogna"
+    },
+    {
+      "value": "magia_record:_mahou_shoujo_madoka_magica_gaiden",
+      "text": "magia_record:_mahou_shoujo_madoka_magica_gaiden"
+    },
+    {
+      "value": "watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!",
+      "text": "watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui!"
+    },
+    {
+      "value": "south_park",
+      "text": "south_park"
+    },
+    {
+      "value": "monster_girl_quest",
+      "text": "monster_girl_quest"
+    },
+    {
+      "value": "american_dragon:_jake_long",
+      "text": "american_dragon:_jake_long"
+    },
+    {
+      "value": "mcyt",
+      "text": "mcyt"
+    },
+    {
+      "value": "nitroplus",
+      "text": "nitroplus"
+    },
+    {
+      "value": "yes!_precure_5",
+      "text": "yes!_precure_5"
+    },
+    {
+      "value": "studio_ghibli",
+      "text": "studio_ghibli"
+    },
+    {
+      "value": "chinese_mythology",
+      "text": "chinese_mythology"
+    },
+    {
+      "value": "black_package_try",
+      "text": "black_package_try"
+    },
+    {
+      "value": "ultraman_(franchise)",
+      "text": "ultraman_(franchise)"
+    },
+    {
+      "value": "hades_(game)",
+      "text": "hades_(game)"
+    },
+    {
+      "value": "inazuma_eleven_go",
+      "text": "inazuma_eleven_go"
+    },
+    {
+      "value": "nopixel",
+      "text": "nopixel"
+    },
+    {
+      "value": "the_sims_4",
+      "text": "the_sims_4"
+    },
+    {
+      "value": "justice_league_unlimited",
+      "text": "justice_league_unlimited"
+    },
+    {
+      "value": "rayman_(series)",
+      "text": "rayman_(series)"
+    },
+    {
+      "value": "the_legend_of_zelda:_breath_of_the_wild",
+      "text": "the_legend_of_zelda:_breath_of_the_wild"
+    },
+    {
+      "value": "the_binding_of_isaac",
+      "text": "the_binding_of_isaac"
+    },
+    {
+      "value": "jaidenanimations",
+      "text": "jaidenanimations"
+    },
+    {
+      "value": "kuroko_no_basuke",
+      "text": "kuroko_no_basuke"
+    },
+    {
+      "value": "smg4",
+      "text": "smg4"
+    },
+    {
+      "value": "pokemon_usm",
+      "text": "pokemon_usm"
+    },
+    {
+      "value": "silent_hill_2",
+      "text": "silent_hill_2"
+    },
+    {
+      "value": "fire_emblem_warriors:_three_hopes",
+      "text": "fire_emblem_warriors:_three_hopes"
+    },
+    {
+      "value": "religion",
+      "text": "religion"
+    },
+    {
+      "value": "grand_theft_auto_online",
+      "text": "grand_theft_auto_online"
+    },
+    {
+      "value": "murder_drones",
+      "text": "murder_drones"
+    },
+    {
+      "value": "starbucks",
+      "text": "starbucks"
+    },
+    {
+      "value": "saki",
+      "text": "saki"
+    },
+    {
+      "value": "sen_no_kiseki",
+      "text": "sen_no_kiseki"
+    },
+    {
+      "value": "bloodborne",
+      "text": "bloodborne"
+    },
+    {
+      "value": "fire_emblem_gaiden",
+      "text": "fire_emblem_gaiden"
+    },
+    {
+      "value": "final_fantasy_five",
+      "text": "final_fantasy_five"
+    },
+    {
+      "value": "mario_kart",
+      "text": "mario_kart"
+    },
+    {
+      "value": "corruption_of_champions",
+      "text": "corruption_of_champions"
+    },
+    {
+      "value": "coxville_stories",
+      "text": "coxville_stories"
+    },
+    {
+      "value": "gorillaz",
+      "text": "gorillaz"
+    },
+    {
+      "value": "fnf",
+      "text": "fnf"
+    },
+    {
+      "value": "second_life",
+      "text": "second_life"
+    },
+    {
+      "value": "mahou_sensei_negima!",
+      "text": "mahou_sensei_negima!"
+    },
+    {
+      "value": "don_bluth",
+      "text": "don_bluth"
+    },
+    {
+      "value": "tensei_shitara_slime_datta_ken",
+      "text": "tensei_shitara_slime_datta_ken"
+    },
+    {
+      "value": "bluey_(series)",
+      "text": "bluey_(series)"
+    },
+    {
+      "value": "pool_party_series",
+      "text": "pool_party_series"
+    },
+    {
+      "value": "toho",
+      "text": "toho"
+    },
+    {
+      "value": "ankama",
+      "text": "ankama"
+    },
+    {
+      "value": "naruto_bomb",
+      "text": "naruto_bomb"
+    },
+    {
+      "value": "vyugen",
+      "text": "vyugen"
+    },
+    {
+      "value": "higurashi_no_naku_koro_ni",
+      "text": "higurashi_no_naku_koro_ni"
+    },
+    {
+      "value": "dbd",
+      "text": "dbd"
+    },
+    {
+      "value": "disney_fairies",
+      "text": "disney_fairies"
+    },
+    {
+      "value": "clash_royale",
+      "text": "clash_royale"
+    },
+    {
+      "value": "horizon_zero_dawn",
+      "text": "horizon_zero_dawn"
+    },
+    {
+      "value": "parappa_the_rapper",
+      "text": "parappa_the_rapper"
+    },
+    {
+      "value": "fantastic_four",
+      "text": "fantastic_four"
+    },
+    {
+      "value": "101_dalmatian_street",
+      "text": "101_dalmatian_street"
+    },
+    {
+      "value": "skyward_sword",
+      "text": "skyward_sword"
+    },
+    {
+      "value": "the_clone_wars:_season_seven",
+      "text": "the_clone_wars:_season_seven"
+    },
+    {
+      "value": "honey_select_2",
+      "text": "honey_select_2"
+    },
+    {
+      "value": "street_fighter_iv",
+      "text": "street_fighter_iv"
+    },
+    {
+      "value": "arms_(game)",
+      "text": "arms_(game)"
+    },
+    {
+      "value": "mlp_g5",
+      "text": "mlp_g5"
+    },
+    {
+      "value": "meet_'n'_fuck_games",
+      "text": "meet_'n'_fuck_games"
+    },
+    {
+      "value": "kanojo_okarishimasu",
+      "text": "kanojo_okarishimasu"
+    },
+    {
+      "value": "world_witches_series",
+      "text": "world_witches_series"
+    },
+    {
+      "value": "mobile_legends",
+      "text": "mobile_legends"
+    },
+    {
+      "value": "shinrabanshou",
+      "text": "shinrabanshou"
+    },
+    {
+      "value": "fap_ceo",
+      "text": "fap_ceo"
+    },
+    {
+      "value": "identity_v",
+      "text": "identity_v"
+    },
+    {
+      "value": "pokemon_mystery_dungeon",
+      "text": "pokemon_mystery_dungeon"
+    },
+    {
+      "value": "our_flag_means_death",
+      "text": "our_flag_means_death"
+    },
+    {
+      "value": "valkyria_chronicles",
+      "text": "valkyria_chronicles"
+    },
+    {
+      "value": "disney_prince",
+      "text": "disney_prince"
+    },
+    {
+      "value": "hercules_(disney)",
+      "text": "hercules_(disney)"
+    },
+    {
+      "value": "bendy_and_the_ink_machine",
+      "text": "bendy_and_the_ink_machine"
+    },
+    {
+      "value": "prequel",
+      "text": "prequel"
+    },
+    {
+      "value": "devil_may_cry_5",
+      "text": "devil_may_cry_5"
+    },
+    {
+      "value": "warioware",
+      "text": "warioware"
+    },
+    {
+      "value": "tokyo_revengers",
+      "text": "tokyo_revengers"
+    },
+    {
+      "value": "cleaning_&_clearing_(blue_archive)",
+      "text": "cleaning_&_clearing_(blue_archive)"
+    },
+    {
+      "value": "bad_dragon",
+      "text": "bad_dragon"
+    },
+    {
+      "value": "jurassic_world",
+      "text": "jurassic_world"
+    },
+    {
+      "value": "melty_blood",
+      "text": "melty_blood"
+    },
+    {
+      "value": "steins;gate",
+      "text": "steins;gate"
+    },
+    {
+      "value": "john_persons",
+      "text": "john_persons"
+    },
+    {
+      "value": "pokemon_go",
+      "text": "pokemon_go"
+    },
+    {
+      "value": "kyonyuu_fantasy",
+      "text": "kyonyuu_fantasy"
+    },
+    {
+      "value": "sonic_x",
+      "text": "sonic_x"
+    },
+    {
+      "value": "disgaea_2",
+      "text": "disgaea_2"
+    },
+    {
+      "value": "snow_white_and_the_seven_dwarfs",
+      "text": "snow_white_and_the_seven_dwarfs"
+    },
+    {
+      "value": "dragalia_lost",
+      "text": "dragalia_lost"
+    },
+    {
+      "value": "jurassic_park",
+      "text": "jurassic_park"
+    },
+    {
+      "value": "um_jammer_lammy",
+      "text": "um_jammer_lammy"
+    },
+    {
+      "value": "slayers",
+      "text": "slayers"
+    },
+    {
+      "value": "green_arrow_(series)",
+      "text": "green_arrow_(series)"
+    },
+    {
+      "value": "seminar_(blue_archive)",
+      "text": "seminar_(blue_archive)"
+    },
+    {
+      "value": "yuu-gi-ou_duel_monsters",
+      "text": "yuu-gi-ou_duel_monsters"
+    },
+    {
+      "value": "witch's_garden",
+      "text": "witch's_garden"
+    },
+    {
+      "value": "my_little_pony_friendship_is_magic",
+      "text": "my_little_pony_friendship_is_magic"
+    },
+    {
+      "value": "changed_(video_game)",
+      "text": "changed_(video_game)"
+    },
+    {
+      "value": "plants_vs_zombies:_heroes",
+      "text": "plants_vs_zombies:_heroes"
+    },
+    {
+      "value": "4chan",
+      "text": "4chan"
+    },
+    {
+      "value": "palcomixvip.com",
+      "text": "palcomixvip.com"
+    },
+    {
+      "value": "berserk",
+      "text": "berserk"
+    },
+    {
+      "value": "poro",
+      "text": "poro"
+    },
+    {
+      "value": "dc_extended_universe",
+      "text": "dc_extended_universe"
+    },
+    {
+      "value": "zyx",
+      "text": "zyx"
+    },
+    {
+      "value": "monster_hunter_world",
+      "text": "monster_hunter_world"
+    },
+    {
+      "value": "villainous",
+      "text": "villainous"
+    },
+    {
+      "value": "duck_dodgers",
+      "text": "duck_dodgers"
+    },
+    {
+      "value": "prison_school",
+      "text": "prison_school"
+    },
+    {
+      "value": "hooters",
+      "text": "hooters"
+    },
+    {
+      "value": "destiny_2",
+      "text": "destiny_2"
+    },
+    {
+      "value": "left_4_dead_2",
+      "text": "left_4_dead_2"
+    },
+    {
+      "value": "tera_online",
+      "text": "tera_online"
+    },
+    {
+      "value": "gundam_build_fighters_try",
+      "text": "gundam_build_fighters_try"
+    },
+    {
+      "value": "return_of_the_jedi",
+      "text": "return_of_the_jedi"
+    },
+    {
+      "value": "nier_replicant",
+      "text": "nier_replicant"
+    },
+    {
+      "value": "dust:_an_elysian_tail",
+      "text": "dust:_an_elysian_tail"
+    },
+    {
+      "value": "ryuu_ga_gotoku",
+      "text": "ryuu_ga_gotoku"
+    },
+    {
+      "value": "magic_the_gathering",
+      "text": "magic_the_gathering"
+    },
+    {
+      "value": "velvet_city_(shiin)",
+      "text": "velvet_city_(shiin)"
+    },
+    {
+      "value": "amagami",
+      "text": "amagami"
+    },
+    {
+      "value": "wwe_diva",
+      "text": "wwe_diva"
+    },
+    {
+      "value": "animation_meme_community",
+      "text": "animation_meme_community"
+    },
+    {
+      "value": "team_shanghai_alice",
+      "text": "team_shanghai_alice"
+    },
+    {
+      "value": "stranger_things",
+      "text": "stranger_things"
+    },
+    {
+      "value": "touken_ranbu",
+      "text": "touken_ranbu"
+    },
+    {
+      "value": "kengan_(series)",
+      "text": "kengan_(series)"
+    },
+    {
+      "value": "my_little_sister_can't_be_this_cute",
+      "text": "my_little_sister_can't_be_this_cute"
+    },
+    {
+      "value": "to_heart_(series)",
+      "text": "to_heart_(series)"
+    },
+    {
+      "value": "mappa",
+      "text": "mappa"
+    },
+    {
+      "value": "black_lilith",
+      "text": "black_lilith"
+    },
+    {
+      "value": "final_fantasy_iv",
+      "text": "final_fantasy_iv"
+    },
+    {
+      "value": "starbound",
+      "text": "starbound"
+    },
+    {
+      "value": "sonic_satam",
+      "text": "sonic_satam"
+    },
+    {
+      "value": "steven_universe_future",
+      "text": "steven_universe_future"
+    },
+    {
+      "value": "amagi_brilliant_park",
+      "text": "amagi_brilliant_park"
+    },
+    {
+      "value": "ben_10_omniverse",
+      "text": "ben_10_omniverse"
+    },
+    {
+      "value": "the_oblongs",
+      "text": "the_oblongs"
+    },
+    {
+      "value": "onegai_my_melody",
+      "text": "onegai_my_melody"
+    },
+    {
+      "value": "w.i.t.c.h.",
+      "text": "w.i.t.c.h."
+    },
+    {
+      "value": "new_danganronpa_v3",
+      "text": "new_danganronpa_v3"
+    },
+    {
+      "value": "arcana_heart",
+      "text": "arcana_heart"
+    },
+    {
+      "value": "pizza_tower",
+      "text": "pizza_tower"
+    },
+    {
+      "value": "portal_(series)",
+      "text": "portal_(series)"
+    },
+    {
+      "value": "dream_smp",
+      "text": "dream_smp"
+    },
+    {
+      "value": "fate/kaleid_liner_prisma_illya",
+      "text": "fate/kaleid_liner_prisma_illya"
+    },
+    {
+      "value": "teen_titans_go",
+      "text": "teen_titans_go"
+    },
+    {
+      "value": "2chan",
+      "text": "2chan"
+    },
+    {
+      "value": "happy_birthday",
+      "text": "happy_birthday"
+    },
+    {
+      "value": "spider-man_(ps4)",
+      "text": "spider-man_(ps4)"
+    },
+    {
+      "value": "okami",
+      "text": "okami"
+    },
+    {
+      "value": "twitch.tv",
+      "text": "twitch.tv"
+    },
+    {
+      "value": "final_fantasy_v",
+      "text": "final_fantasy_v"
+    },
+    {
+      "value": "class_comics",
+      "text": "class_comics"
+    },
+    {
+      "value": "hole_house",
+      "text": "hole_house"
+    },
+    {
+      "value": "a_link_between_worlds",
+      "text": "a_link_between_worlds"
+    },
+    {
+      "value": "super_mario_3d_world",
+      "text": "super_mario_3d_world"
+    },
+    {
+      "value": "suicide_squad",
+      "text": "suicide_squad"
+    },
+    {
+      "value": "assassin's_creed_(series)",
+      "text": "assassin's_creed_(series)"
+    },
+    {
+      "value": "mario_and_luigi_(series)",
+      "text": "mario_and_luigi_(series)"
+    },
+    {
+      "value": "yu-gi-oh!_arc-v",
+      "text": "yu-gi-oh!_arc-v"
+    },
+    {
+      "value": "cowboy_bebop",
+      "text": "cowboy_bebop"
+    },
+    {
+      "value": "critical_role",
+      "text": "critical_role"
+    },
+    {
+      "value": "sonic_unleashed",
+      "text": "sonic_unleashed"
+    },
+    {
+      "value": "kadath_universe",
+      "text": "kadath_universe"
+    },
+    {
+      "value": "ben_10_alien_force",
+      "text": "ben_10_alien_force"
+    },
+    {
+      "value": "madagascar_(series)",
+      "text": "madagascar_(series)"
+    },
+    {
+      "value": "allied_hyakkiyako_academy_student",
+      "text": "allied_hyakkiyako_academy_student"
+    },
+    {
+      "value": "diablo",
+      "text": "diablo"
+    },
+    {
+      "value": "steel_ball_run",
+      "text": "steel_ball_run"
+    },
+    {
+      "value": "risk_of_rain",
+      "text": "risk_of_rain"
+    },
+    {
+      "value": "transformers_prime",
+      "text": "transformers_prime"
+    },
+    {
+      "value": "phantom_blood",
+      "text": "phantom_blood"
+    },
+    {
+      "value": "free!",
+      "text": "free!"
+    },
+    {
+      "value": "five_nights_at_freddy's_4",
+      "text": "five_nights_at_freddy's_4"
+    },
+    {
+      "value": "image_comics",
+      "text": "image_comics"
+    },
+    {
+      "value": "rebuild_of_evangelion",
+      "text": "rebuild_of_evangelion"
+    },
+    {
+      "value": "bunny_and_fox_world",
+      "text": "bunny_and_fox_world"
+    },
+    {
+      "value": "everlasting_summer",
+      "text": "everlasting_summer"
+    },
+    {
+      "value": "clash_of_clans",
+      "text": "clash_of_clans"
+    },
+    {
+      "value": "bayonetta_2",
+      "text": "bayonetta_2"
+    },
+    {
+      "value": "va-11_hall-a",
+      "text": "va-11_hall-a"
+    },
+    {
+      "value": "samurai_pizza_cats",
+      "text": "samurai_pizza_cats"
+    },
+    {
+      "value": "metal_slug_attack",
+      "text": "metal_slug_attack"
+    },
+    {
+      "value": "voltron",
+      "text": "voltron"
+    },
+    {
+      "value": "final_fantasy_tactics",
+      "text": "final_fantasy_tactics"
+    },
+    {
+      "value": "black_rock_shooter",
+      "text": "black_rock_shooter"
+    },
+    {
+      "value": "gundam_suisei_no_majo",
+      "text": "gundam_suisei_no_majo"
+    },
+    {
+      "value": "mega_man_zx",
+      "text": "mega_man_zx"
+    },
+    {
+      "value": "deltarune_chapter_2",
+      "text": "deltarune_chapter_2"
+    },
+    {
+      "value": "chaos_comics",
+      "text": "chaos_comics"
+    },
+    {
+      "value": "macross",
+      "text": "macross"
+    },
+    {
+      "value": "koihime\u2020_(series)",
+      "text": "koihime\u2020_(series)"
+    },
+    {
+      "value": "cyberpunk_(series)",
+      "text": "cyberpunk_(series)"
+    },
+    {
+      "value": "gainax",
+      "text": "gainax"
+    },
+    {
+      "value": "my_adventures_with_superman",
+      "text": "my_adventures_with_superman"
+    },
+    {
+      "value": "project_sekai",
+      "text": "project_sekai"
+    },
+    {
+      "value": "owozu",
+      "text": "owozu"
+    },
+    {
+      "value": "pop'n_music",
+      "text": "pop'n_music"
+    },
+    {
+      "value": "tarzan_(1999_film)",
+      "text": "tarzan_(1999_film)"
+    },
+    {
+      "value": "rosario+vampire",
+      "text": "rosario+vampire"
+    },
+    {
+      "value": "five_nights_at_freddy's_3",
+      "text": "five_nights_at_freddy's_3"
+    },
+    {
+      "value": "the_smurfs",
+      "text": "the_smurfs"
+    },
+    {
+      "value": "silent_hill_3",
+      "text": "silent_hill_3"
+    },
+    {
+      "value": "piggy_(game)",
+      "text": "piggy_(game)"
+    },
+    {
+      "value": "superman:_the_animated_series",
+      "text": "superman:_the_animated_series"
+    },
+    {
+      "value": "lollipop_chainsaw",
+      "text": "lollipop_chainsaw"
+    },
+    {
+      "value": "spyro_reignited_trilogy",
+      "text": "spyro_reignited_trilogy"
+    },
+    {
+      "value": "shuumatsu_no_valkyrie",
+      "text": "shuumatsu_no_valkyrie"
+    },
+    {
+      "value": "god_eater",
+      "text": "god_eater"
+    },
+    {
+      "value": "lycoris_recoil",
+      "text": "lycoris_recoil"
+    },
+    {
+      "value": "tales_of_vesperia",
+      "text": "tales_of_vesperia"
+    },
+    {
+      "value": "the_summoning",
+      "text": "the_summoning"
+    },
+    {
+      "value": "mulan",
+      "text": "mulan"
+    },
+    {
+      "value": "kangoku_senkan",
+      "text": "kangoku_senkan"
+    },
+    {
+      "value": "rainbow_(animation_studio)",
+      "text": "rainbow_(animation_studio)"
+    },
+    {
+      "value": "instagram",
+      "text": "instagram"
+    },
+    {
+      "value": "make-up_work_club_(blue_archive)",
+      "text": "make-up_work_club_(blue_archive)"
+    },
+    {
+      "value": "yurucamp",
+      "text": "yurucamp"
+    },
+    {
+      "value": "the_battle_cats",
+      "text": "the_battle_cats"
+    },
+    {
+      "value": "conker's_bad_fur_day",
+      "text": "conker's_bad_fur_day"
+    },
+    {
+      "value": "tengen_toppa_gurren-lagann",
+      "text": "tengen_toppa_gurren-lagann"
+    },
+    {
+      "value": "project_qt",
+      "text": "project_qt"
+    },
+    {
+      "value": "summon_night",
+      "text": "summon_night"
+    },
+    {
+      "value": "etrian_odyssey",
+      "text": "etrian_odyssey"
+    },
+    {
+      "value": "a_hat_in_time",
+      "text": "a_hat_in_time"
+    },
+    {
+      "value": "super_mario_bros._(2023_film)",
+      "text": "super_mario_bros._(2023_film)"
+    },
+    {
+      "value": "friday_the_13th",
+      "text": "friday_the_13th"
+    },
+    {
+      "value": "oshiete!_galko-chan",
+      "text": "oshiete!_galko-chan"
+    },
+    {
+      "value": "history",
+      "text": "history"
+    },
+    {
+      "value": "sonic_underground",
+      "text": "sonic_underground"
+    },
+    {
+      "value": "cardfight!!_vanguard",
+      "text": "cardfight!!_vanguard"
+    },
+    {
+      "value": "hololive_english_-advent-",
+      "text": "hololive_english_-advent-"
+    },
+    {
+      "value": "chuablesoft",
+      "text": "chuablesoft"
+    },
+    {
+      "value": "koihime_musou",
+      "text": "koihime_musou"
+    },
+    {
+      "value": "voltron:_legendary_defender",
+      "text": "voltron:_legendary_defender"
+    },
+    {
+      "value": "youkai_watch",
+      "text": "youkai_watch"
+    },
+    {
+      "value": "street_fighter_alpha",
+      "text": "street_fighter_alpha"
+    },
+    {
+      "value": "tales_of_symphonia",
+      "text": "tales_of_symphonia"
+    },
+    {
+      "value": "warriors_(cats)",
+      "text": "warriors_(cats)"
+    },
+    {
+      "value": "kengan_ashura",
+      "text": "kengan_ashura"
+    },
+    {
+      "value": "dragon_ball_heroes",
+      "text": "dragon_ball_heroes"
+    },
+    {
+      "value": "dr.stone",
+      "text": "dr.stone"
+    },
+    {
+      "value": "jak_and_daxter",
+      "text": "jak_and_daxter"
+    },
+    {
+      "value": "skarp_world",
+      "text": "skarp_world"
+    },
+    {
+      "value": "beat_banger",
+      "text": "beat_banger"
+    },
+    {
+      "value": "mid-fight_masses",
+      "text": "mid-fight_masses"
+    },
+    {
+      "value": "ducktales",
+      "text": "ducktales"
+    },
+    {
+      "value": "monster_high",
+      "text": "monster_high"
+    },
+    {
+      "value": "aesir_(norse_mythology)",
+      "text": "aesir_(norse_mythology)"
+    },
+    {
+      "value": "xenoblade_chronicles_(series)",
+      "text": "xenoblade_chronicles_(series)"
+    },
+    {
+      "value": "dreamkeepers",
+      "text": "dreamkeepers"
+    },
+    {
+      "value": "borderlands_3",
+      "text": "borderlands_3"
+    },
+    {
+      "value": "zootropolis",
+      "text": "zootropolis"
+    },
+    {
+      "value": "the_force_awakens",
+      "text": "the_force_awakens"
+    },
+    {
+      "value": "orcsoft",
+      "text": "orcsoft"
+    },
+    {
+      "value": "puss_in_boots_(film)",
+      "text": "puss_in_boots_(film)"
+    },
+    {
+      "value": "alvin_and_the_chipmunks",
+      "text": "alvin_and_the_chipmunks"
+    },
+    {
+      "value": "justice_task_force_(blue_archive)",
+      "text": "justice_task_force_(blue_archive)"
+    },
+    {
+      "value": "samurai_jack",
+      "text": "samurai_jack"
+    },
+    {
+      "value": "cookie_(touhou)",
+      "text": "cookie_(touhou)"
+    },
+    {
+      "value": "my-hime",
+      "text": "my-hime"
+    },
+    {
+      "value": "seikon_no_qwaser",
+      "text": "seikon_no_qwaser"
+    },
+    {
+      "value": "trails_of_cold_steel",
+      "text": "trails_of_cold_steel"
+    },
+    {
+      "value": "super_sentai",
+      "text": "super_sentai"
+    },
+    {
+      "value": "xenosaga",
+      "text": "xenosaga"
+    },
+    {
+      "value": "shrek_(series)",
+      "text": "shrek_(series)"
+    },
+    {
+      "value": "forgotten_realms",
+      "text": "forgotten_realms"
+    },
+    {
+      "value": "lady_and_the_tramp",
+      "text": "lady_and_the_tramp"
+    },
+    {
+      "value": "freedom_planet_2",
+      "text": "freedom_planet_2"
+    },
+    {
+      "value": "rival_schools",
+      "text": "rival_schools"
+    },
+    {
+      "value": "littlest_pet_shop",
+      "text": "littlest_pet_shop"
+    },
+    {
+      "value": "xenoblade_chronicles",
+      "text": "xenoblade_chronicles"
+    },
+    {
+      "value": "dagashi_kashi",
+      "text": "dagashi_kashi"
+    },
+    {
+      "value": "lobotomy_corporation",
+      "text": "lobotomy_corporation"
+    },
+    {
+      "value": "phantasy_star_online_2",
+      "text": "phantasy_star_online_2"
+    },
+    {
+      "value": "virtua_fighter",
+      "text": "virtua_fighter"
+    },
+    {
+      "value": "hi-rez_studios",
+      "text": "hi-rez_studios"
+    },
+    {
+      "value": "erogos",
+      "text": "erogos"
+    },
+    {
+      "value": "camp_buddy",
+      "text": "camp_buddy"
+    },
+    {
+      "value": "detroit:_become_human",
+      "text": "detroit:_become_human"
+    },
+    {
+      "value": "sakura_wars",
+      "text": "sakura_wars"
+    },
+    {
+      "value": "megami_tensei_persona",
+      "text": "megami_tensei_persona"
+    },
+    {
+      "value": "harley_quinn_(series)",
+      "text": "harley_quinn_(series)"
+    },
+    {
+      "value": "webtoon",
+      "text": "webtoon"
+    },
+    {
+      "value": "the_flintstones",
+      "text": "the_flintstones"
+    },
+    {
+      "value": "ai:_the_somnium_files",
+      "text": "ai:_the_somnium_files"
+    },
+    {
+      "value": "umineko_no_naku_koro_ni",
+      "text": "umineko_no_naku_koro_ni"
+    },
+    {
+      "value": "level-5",
+      "text": "level-5"
+    },
+    {
+      "value": "comics-toons",
+      "text": "comics-toons"
+    },
+    {
+      "value": "toon_disney",
+      "text": "toon_disney"
+    },
+    {
+      "value": "super_deepthroat_game",
+      "text": "super_deepthroat_game"
+    },
+    {
+      "value": "five_nights_in_anime",
+      "text": "five_nights_in_anime"
+    },
+    {
+      "value": "paper_mario:_the_thousand-year_door",
+      "text": "paper_mario:_the_thousand-year_door"
+    },
+    {
+      "value": "sam_and_max",
+      "text": "sam_and_max"
+    },
+    {
+      "value": "art_of_fighting",
+      "text": "art_of_fighting"
+    },
+    {
+      "value": "chrono_trigger",
+      "text": "chrono_trigger"
+    },
+    {
+      "value": "them's_fightin'_herds",
+      "text": "them's_fightin'_herds"
+    },
+    {
+      "value": "library_of_ruina",
+      "text": "library_of_ruina"
+    },
+    {
+      "value": "taimanin_rpgx",
+      "text": "taimanin_rpgx"
+    },
+    {
+      "value": "airress3d_(3d-modeller)",
+      "text": "airress3d_(3d-modeller)"
+    },
+    {
+      "value": "shinryaku!_ikamusume",
+      "text": "shinryaku!_ikamusume"
+    },
+    {
+      "value": "seiken_densetsu",
+      "text": "seiken_densetsu"
+    },
+    {
+      "value": "love_plus",
+      "text": "love_plus"
+    },
+    {
+      "value": "oblivion",
+      "text": "oblivion"
+    },
+    {
+      "value": "risk_of_rain_2",
+      "text": "risk_of_rain_2"
+    },
+    {
+      "value": "vampire_savior",
+      "text": "vampire_savior"
+    },
+    {
+      "value": "winnie_the_pooh_(franchise)",
+      "text": "winnie_the_pooh_(franchise)"
+    },
+    {
+      "value": "dragon_quest_xi",
+      "text": "dragon_quest_xi"
+    },
+    {
+      "value": "shining_(series)",
+      "text": "shining_(series)"
+    },
+    {
+      "value": "pocky",
+      "text": "pocky"
+    },
+    {
+      "value": "digimon_adventure",
+      "text": "digimon_adventure"
+    },
+    {
+      "value": "mabinogi",
+      "text": "mabinogi"
+    },
+    {
+      "value": "pokemon_ss_isle_of_armor",
+      "text": "pokemon_ss_isle_of_armor"
+    },
+    {
+      "value": "happy_new_year",
+      "text": "happy_new_year"
+    },
+    {
+      "value": "the_clone_wars:_season_one",
+      "text": "the_clone_wars:_season_one"
+    },
+    {
+      "value": "earthbound",
+      "text": "earthbound"
+    },
+    {
+      "value": "merry_christmas",
+      "text": "merry_christmas"
+    },
+    {
+      "value": "riddle_soft",
+      "text": "riddle_soft"
+    },
+    {
+      "value": "paw_patrol",
+      "text": "paw_patrol"
+    },
+    {
+      "value": "barsoom",
+      "text": "barsoom"
+    },
+    {
+      "value": "eureka_seven",
+      "text": "eureka_seven"
+    },
+    {
+      "value": "wings_of_fire",
+      "text": "wings_of_fire"
+    },
+    {
+      "value": "the_clone_wars:_season_four",
+      "text": "the_clone_wars:_season_four"
+    },
+    {
+      "value": "dorohedoro",
+      "text": "dorohedoro"
+    },
+    {
+      "value": "under_night_in-birth",
+      "text": "under_night_in-birth"
+    },
+    {
+      "value": "a_princess_of_mars",
+      "text": "a_princess_of_mars"
+    },
+    {
+      "value": "puzzle_&_dragons",
+      "text": "puzzle_&_dragons"
+    },
+    {
+      "value": "arena_of_valor",
+      "text": "arena_of_valor"
+    },
+    {
+      "value": "rumble_roses",
+      "text": "rumble_roses"
+    },
+    {
+      "value": "eden's_zero",
+      "text": "eden's_zero"
+    },
+    {
+      "value": "rascals",
+      "text": "rascals"
+    },
+    {
+      "value": "pokemon_lgpe",
+      "text": "pokemon_lgpe"
+    },
+    {
+      "value": "galaxy_angel",
+      "text": "galaxy_angel"
+    },
+    {
+      "value": "toei_animation",
+      "text": "toei_animation"
+    },
+    {
+      "value": "tsuujou_kougeki_ga_zentai_kougeki_de_ni-kai_kougeki_no_okaasan_wa_suki_desu_ka?",
+      "text": "tsuujou_kougeki_ga_zentai_kougeki_de_ni-kai_kougeki_no_okaasan_wa_suki_desu_ka?"
+    },
+    {
+      "value": "treasure_planet",
+      "text": "treasure_planet"
+    },
+    {
+      "value": "tekken_tag_tournament_2",
+      "text": "tekken_tag_tournament_2"
+    },
+    {
+      "value": "himegoto",
+      "text": "himegoto"
+    },
+    {
+      "value": "gris_swimsuit",
+      "text": "gris_swimsuit"
+    },
+    {
+      "value": "bojack_horseman",
+      "text": "bojack_horseman"
+    },
+    {
+      "value": "batman:_arkham_city",
+      "text": "batman:_arkham_city"
+    },
+    {
+      "value": "popcap_games",
+      "text": "popcap_games"
+    },
+    {
+      "value": "dirty_pair",
+      "text": "dirty_pair"
+    },
+    {
+      "value": "toradora!",
+      "text": "toradora!"
+    },
+    {
+      "value": "clannad",
+      "text": "clannad"
+    },
+    {
+      "value": "iphone",
+      "text": "iphone"
+    },
+    {
+      "value": "rayman_origins",
+      "text": "rayman_origins"
+    },
+    {
+      "value": "james_cameron's_avatar",
+      "text": "james_cameron's_avatar"
+    },
+    {
+      "value": "mother_(series)",
+      "text": "mother_(series)"
+    },
+    {
+      "value": "rain_world",
+      "text": "rain_world"
+    },
+    {
+      "value": "blue_sky_studios",
+      "text": "blue_sky_studios"
+    },
+    {
+      "value": "love_hina",
+      "text": "love_hina"
+    },
+    {
+      "value": "4th_of_july",
+      "text": "4th_of_july"
+    },
+    {
+      "value": "death_note",
+      "text": "death_note"
+    },
+    {
+      "value": "knights_of_the_zodiac",
+      "text": "knights_of_the_zodiac"
+    },
+    {
+      "value": "valentine",
+      "text": "valentine"
+    },
+    {
+      "value": "rise_of_the_guardians",
+      "text": "rise_of_the_guardians"
+    },
+    {
+      "value": "total_drama:_revenge_of_the_island",
+      "text": "total_drama:_revenge_of_the_island"
+    },
+    {
+      "value": "witchblade",
+      "text": "witchblade"
+    },
+    {
+      "value": "majora's_mask",
+      "text": "majora's_mask"
+    },
+    {
+      "value": "mario_tennis",
+      "text": "mario_tennis"
+    },
+    {
+      "value": "fire_emblem:_new_mystery_of_the_emblem",
+      "text": "fire_emblem:_new_mystery_of_the_emblem"
+    },
+    {
+      "value": "johnny_test_(series)",
+      "text": "johnny_test_(series)"
+    },
+    {
+      "value": "funamusea",
+      "text": "funamusea"
+    },
+    {
+      "value": "abydos_high_school_student",
+      "text": "abydos_high_school_student"
+    },
+    {
+      "value": "joel_g",
+      "text": "joel_g"
+    },
+    {
+      "value": "the_rising_of_the_shield_hero",
+      "text": "the_rising_of_the_shield_hero"
+    },
+    {
+      "value": "working!!",
+      "text": "working!!"
+    },
+    {
+      "value": "rocko's_modern_life",
+      "text": "rocko's_modern_life"
+    },
+    {
+      "value": "something_unlimited",
+      "text": "something_unlimited"
+    },
+    {
+      "value": "rockman",
+      "text": "rockman"
+    },
+    {
+      "value": "ghostbusters",
+      "text": "ghostbusters"
+    },
+    {
+      "value": "devious_desires",
+      "text": "devious_desires"
+    },
+    {
+      "value": "tomb_raider_(l.a.u.)",
+      "text": "tomb_raider_(l.a.u.)"
+    },
+    {
+      "value": "yu_yu_hakusho",
+      "text": "yu_yu_hakusho"
+    },
+    {
+      "value": "pocahontas",
+      "text": "pocahontas"
+    },
+    {
+      "value": "kakegurui",
+      "text": "kakegurui"
+    },
+    {
+      "value": "brandy_&_mr_whiskers",
+      "text": "brandy_&_mr_whiskers"
+    },
+    {
+      "value": "disgaea_1",
+      "text": "disgaea_1"
+    },
+    {
+      "value": "luigi's_mansion",
+      "text": "luigi's_mansion"
+    },
+    {
+      "value": "a_song_of_ice_and_fire",
+      "text": "a_song_of_ice_and_fire"
+    },
+    {
+      "value": "wendy's",
+      "text": "wendy's"
+    },
+    {
+      "value": "uncharted",
+      "text": "uncharted"
+    },
+    {
+      "value": "history's_strongest_disciple_kenichi",
+      "text": "history's_strongest_disciple_kenichi"
+    },
+    {
+      "value": "chuunibyou_demo_koi_ga_shitai!",
+      "text": "chuunibyou_demo_koi_ga_shitai!"
+    },
+    {
+      "value": "midway",
+      "text": "midway"
+    },
+    {
+      "value": "sing_2_(movie)",
+      "text": "sing_2_(movie)"
+    },
+    {
+      "value": "the_sims",
+      "text": "the_sims"
+    },
+    {
+      "value": "blaster_master",
+      "text": "blaster_master"
+    },
+    {
+      "value": "ninjago",
+      "text": "ninjago"
+    },
+    {
+      "value": "vindictus",
+      "text": "vindictus"
+    },
+    {
+      "value": "booty_calls",
+      "text": "booty_calls"
+    },
+    {
+      "value": "tf2",
+      "text": "tf2"
+    },
+    {
+      "value": "guilty_gear_xrd",
+      "text": "guilty_gear_xrd"
+    },
+    {
+      "value": "pokemon_unite",
+      "text": "pokemon_unite"
+    },
+    {
+      "value": "dont_starve_together",
+      "text": "dont_starve_together"
+    },
+    {
+      "value": "haiyore!_nyaruko-san",
+      "text": "haiyore!_nyaruko-san"
+    },
+    {
+      "value": "we_bare_bears",
+      "text": "we_bare_bears"
+    },
+    {
+      "value": "the_lion_guard",
+      "text": "the_lion_guard"
+    },
+    {
+      "value": "hoods_entertainment",
+      "text": "hoods_entertainment"
+    },
+    {
+      "value": "cartoonreality.com",
+      "text": "cartoonreality.com"
+    },
+    {
+      "value": "seven_deadly_sins",
+      "text": "seven_deadly_sins"
+    },
+    {
+      "value": "dmm",
+      "text": "dmm"
+    },
+    {
+      "value": "vg_cats",
+      "text": "vg_cats"
+    },
+    {
+      "value": "xingzuo_temple",
+      "text": "xingzuo_temple"
+    },
+    {
+      "value": "angel_blade",
+      "text": "angel_blade"
+    },
+    {
+      "value": "fortnite:_save_the_world",
+      "text": "fortnite:_save_the_world"
+    },
+    {
+      "value": "nekopara",
+      "text": "nekopara"
+    },
+    {
+      "value": "rance_(series)",
+      "text": "rance_(series)"
+    },
+    {
+      "value": "hypergryph",
+      "text": "hypergryph"
+    },
+    {
+      "value": "fionna_and_cake",
+      "text": "fionna_and_cake"
+    },
+    {
+      "value": "danganronpa_ultra_despair_girls",
+      "text": "danganronpa_ultra_despair_girls"
+    },
+    {
+      "value": "deviousdesires",
+      "text": "deviousdesires"
+    },
+    {
+      "value": "kamen_rider",
+      "text": "kamen_rider"
+    },
+    {
+      "value": "digimon_tamers",
+      "text": "digimon_tamers"
+    },
+    {
+      "value": "studio_montagne",
+      "text": "studio_montagne"
+    },
+    {
+      "value": "neopets",
+      "text": "neopets"
+    },
+    {
+      "value": "g.i._joe",
+      "text": "g.i._joe"
+    },
+    {
+      "value": "anohana:_the_flower_we_saw_that_day",
+      "text": "anohana:_the_flower_we_saw_that_day"
+    },
+    {
+      "value": "free_fire",
+      "text": "free_fire"
+    },
+    {
+      "value": "shakugan_no_shana",
+      "text": "shakugan_no_shana"
+    },
+    {
+      "value": "athorment_oc",
+      "text": "athorment_oc"
+    },
+    {
+      "value": "don't_starve",
+      "text": "don't_starve"
+    },
+    {
+      "value": "magi:_the_labyrinth_of_magic",
+      "text": "magi:_the_labyrinth_of_magic"
+    },
+    {
+      "value": "suikoden",
+      "text": "suikoden"
+    },
+    {
+      "value": "los_compas",
+      "text": "los_compas"
+    },
+    {
+      "value": "honkai_impact",
+      "text": "honkai_impact"
+    },
+    {
+      "value": "google",
+      "text": "google"
+    },
+    {
+      "value": "castlevania_(netflix)",
+      "text": "castlevania_(netflix)"
+    },
+    {
+      "value": "gantz",
+      "text": "gantz"
+    },
+    {
+      "value": "suite_precure",
+      "text": "suite_precure"
+    },
+    {
+      "value": "jiggly_girls",
+      "text": "jiggly_girls"
+    },
+    {
+      "value": "monster_prom",
+      "text": "monster_prom"
+    },
+    {
+      "value": "tiktok",
+      "text": "tiktok"
+    },
+    {
+      "value": "spooky_month",
+      "text": "spooky_month"
+    },
+    {
+      "value": "guild_wars_2",
+      "text": "guild_wars_2"
+    },
+    {
+      "value": "tokyo_ghoul",
+      "text": "tokyo_ghoul"
+    },
+    {
+      "value": "drawn-sex.com",
+      "text": "drawn-sex.com"
+    },
+    {
+      "value": "klei_entertainment",
+      "text": "klei_entertainment"
+    },
+    {
+      "value": "koibito_doushi_de_suru_koto_zenbu",
+      "text": "koibito_doushi_de_suru_koto_zenbu"
+    },
+    {
+      "value": "eromanga_sensei",
+      "text": "eromanga_sensei"
+    },
+    {
+      "value": "milk_factory",
+      "text": "milk_factory"
+    },
+    {
+      "value": "sword_art_online:_fairy_dance",
+      "text": "sword_art_online:_fairy_dance"
+    },
+    {
+      "value": "discord",
+      "text": "discord"
+    },
+    {
+      "value": "alice_in_wonderland_(1951_film)",
+      "text": "alice_in_wonderland_(1951_film)"
+    },
+    {
+      "value": "yoru_mac",
+      "text": "yoru_mac"
+    },
+    {
+      "value": "maplestory",
+      "text": "maplestory"
+    },
+    {
+      "value": "clubstripes",
+      "text": "clubstripes"
+    },
+    {
+      "value": "bloons_tower_defense",
+      "text": "bloons_tower_defense"
+    },
+    {
+      "value": "atlantis:_the_lost_empire",
+      "text": "atlantis:_the_lost_empire"
+    },
+    {
+      "value": "problem_solver_68_(blue_archive)",
+      "text": "problem_solver_68_(blue_archive)"
+    },
+    {
+      "value": "outlaw_star",
+      "text": "outlaw_star"
+    },
+    {
+      "value": "dont_starve",
+      "text": "dont_starve"
+    },
+    {
+      "value": "mon-musu_quest!",
+      "text": "mon-musu_quest!"
+    },
+    {
+      "value": "projektmelody",
+      "text": "projektmelody"
+    },
+    {
+      "value": "ore_to_kanojo_wa_shujuu_na_kankei",
+      "text": "ore_to_kanojo_wa_shujuu_na_kankei"
+    },
+    {
+      "value": "heartcatch_precure!",
+      "text": "heartcatch_precure!"
+    },
+    {
+      "value": "gravity_rush",
+      "text": "gravity_rush"
+    },
+    {
+      "value": "power_rangers",
+      "text": "power_rangers"
+    },
+    {
+      "value": "guilty",
+      "text": "guilty"
+    },
+    {
+      "value": "space_battleship_yamato",
+      "text": "space_battleship_yamato"
+    },
+    {
+      "value": "battle_for_dream_island",
+      "text": "battle_for_dream_island"
+    },
+    {
+      "value": "toby_fox",
+      "text": "toby_fox"
+    },
+    {
+      "value": "srt_special_academy_student",
+      "text": "srt_special_academy_student"
+    },
+    {
+      "value": "ankha_ride_(minus8)",
+      "text": "ankha_ride_(minus8)"
+    },
+    {
+      "value": "housepets!",
+      "text": "housepets!"
+    },
+    {
+      "value": "star_wars:_the_old_republic",
+      "text": "star_wars:_the_old_republic"
+    },
+    {
+      "value": "echo_project",
+      "text": "echo_project"
+    },
+    {
+      "value": "kennycomix",
+      "text": "kennycomix"
+    },
+    {
+      "value": "call_of_duty_modern_warfare_2_(2022)",
+      "text": "call_of_duty_modern_warfare_2_(2022)"
+    },
+    {
+      "value": "new_game!",
+      "text": "new_game!"
+    },
+    {
+      "value": "sekirei",
+      "text": "sekirei"
+    },
+    {
+      "value": "petruz_(copyright)",
+      "text": "petruz_(copyright)"
+    },
+    {
+      "value": "mirror's_edge",
+      "text": "mirror's_edge"
+    },
+    {
+      "value": "mortal_kombat_1_(2023)",
+      "text": "mortal_kombat_1_(2023)"
+    },
+    {
+      "value": "dragon_age_origins",
+      "text": "dragon_age_origins"
+    },
+    {
+      "value": "senderland_studios",
+      "text": "senderland_studios"
+    },
+    {
+      "value": "the_embodiment_of_scarlet_devil",
+      "text": "the_embodiment_of_scarlet_devil"
+    },
+    {
+      "value": "subverse",
+      "text": "subverse"
+    },
+    {
+      "value": "the_princess_and_the_frog",
+      "text": "the_princess_and_the_frog"
+    },
+    {
+      "value": "turning_red",
+      "text": "turning_red"
+    },
+    {
+      "value": "embracer_group",
+      "text": "embracer_group"
+    },
+    {
+      "value": "solatorobo",
+      "text": "solatorobo"
+    },
+    {
+      "value": "macross_frontier",
+      "text": "macross_frontier"
+    },
+    {
+      "value": "trials_of_mana",
+      "text": "trials_of_mana"
+    },
+    {
+      "value": "sonic_adventure",
+      "text": "sonic_adventure"
+    },
+    {
+      "value": "santa_monica_studio",
+      "text": "santa_monica_studio"
+    },
+    {
+      "value": "muv-luv",
+      "text": "muv-luv"
+    },
+    {
+      "value": "dokidoki!_precure",
+      "text": "dokidoki!_precure"
+    },
+    {
+      "value": "scp",
+      "text": "scp"
+    },
+    {
+      "value": "bloodrayne",
+      "text": "bloodrayne"
+    },
+    {
+      "value": "eddsworld",
+      "text": "eddsworld"
+    },
+    {
+      "value": "ghost_in_the_shell_stand_alone_complex",
+      "text": "ghost_in_the_shell_stand_alone_complex"
+    },
+    {
+      "value": "the_incredibles_2",
+      "text": "the_incredibles_2"
+    },
+    {
+      "value": "clockup",
+      "text": "clockup"
+    },
+    {
+      "value": "lunar_new_year",
+      "text": "lunar_new_year"
+    },
+    {
+      "value": "girls_frontline",
+      "text": "girls_frontline"
+    },
+    {
+      "value": "cinderella_(1950_film)",
+      "text": "cinderella_(1950_film)"
+    },
+    {
+      "value": "christianity",
+      "text": "christianity"
+    },
+    {
+      "value": "transformers_animated",
+      "text": "transformers_animated"
+    },
+    {
+      "value": "yurihaven.com",
+      "text": "yurihaven.com"
+    },
+    {
+      "value": "aozora_stripe",
+      "text": "aozora_stripe"
+    },
+    {
+      "value": "venture_brothers",
+      "text": "venture_brothers"
+    },
+    {
+      "value": "buffy_the_vampire_slayer",
+      "text": "buffy_the_vampire_slayer"
+    },
+    {
+      "value": "slutwr1ter",
+      "text": "slutwr1ter"
+    },
+    {
+      "value": "the_looney_tunes_show",
+      "text": "the_looney_tunes_show"
+    },
+    {
+      "value": "prefect_team_(blue_archive)",
+      "text": "prefect_team_(blue_archive)"
+    },
+    {
+      "value": "hibike!_euphonium",
+      "text": "hibike!_euphonium"
+    },
+    {
+      "value": "kannagi",
+      "text": "kannagi"
+    },
+    {
+      "value": "doraemon",
+      "text": "doraemon"
+    },
+    {
+      "value": "the_legend_of_zelda:_twilight_princess",
+      "text": "the_legend_of_zelda:_twilight_princess"
+    },
+    {
+      "value": "sonic.exe_(series)",
+      "text": "sonic.exe_(series)"
+    },
+    {
+      "value": "shinmai_maou_no_testament",
+      "text": "shinmai_maou_no_testament"
+    },
+    {
+      "value": "show_by_rock!!",
+      "text": "show_by_rock!!"
+    },
+    {
+      "value": "space_battleship_yamato_2199",
+      "text": "space_battleship_yamato_2199"
+    },
+    {
+      "value": "amphibia_(series)",
+      "text": "amphibia_(series)"
+    },
+    {
+      "value": "sony",
+      "text": "sony"
+    },
+    {
+      "value": "sad_panda_studios",
+      "text": "sad_panda_studios"
+    },
+    {
+      "value": "doctor_who",
+      "text": "doctor_who"
+    },
+    {
+      "value": "idolmaster_(classic)",
+      "text": "idolmaster_(classic)"
+    },
+    {
+      "value": "bambi_(film)",
+      "text": "bambi_(film)"
+    },
+    {
+      "value": "starless",
+      "text": "starless"
+    },
+    {
+      "value": "lupin_iii",
+      "text": "lupin_iii"
+    },
+    {
+      "value": "mobile_legends:_bang_bang",
+      "text": "mobile_legends:_bang_bang"
+    },
+    {
+      "value": "monster_energy",
+      "text": "monster_energy"
+    },
+    {
+      "value": "kaiju_paradise",
+      "text": "kaiju_paradise"
+    },
+    {
+      "value": "jewelpet",
+      "text": "jewelpet"
+    },
+    {
+      "value": "the_ridonculous_race",
+      "text": "the_ridonculous_race"
+    },
+    {
+      "value": "foreclosure_task_force_(blue_archive)",
+      "text": "foreclosure_task_force_(blue_archive)"
+    },
+    {
+      "value": "captain_america_(series)",
+      "text": "captain_america_(series)"
+    },
+    {
+      "value": "king_of_the_hill",
+      "text": "king_of_the_hill"
+    },
+    {
+      "value": "pac-man_(series)",
+      "text": "pac-man_(series)"
+    },
+    {
+      "value": "rabbit_squad_(blue_archive)",
+      "text": "rabbit_squad_(blue_archive)"
+    },
+    {
+      "value": "rune_factory",
+      "text": "rune_factory"
+    },
+    {
+      "value": "don't_starve_together",
+      "text": "don't_starve_together"
+    },
+    {
+      "value": "classroom_of_the_elite",
+      "text": "classroom_of_the_elite"
+    },
+    {
+      "value": "the_wind_waker",
+      "text": "the_wind_waker"
+    },
+    {
+      "value": "sonic_forces",
+      "text": "sonic_forces"
+    },
+    {
+      "value": "youkoso_jitsuryoku_shijou_shugi_no_kyoushitsu_e",
+      "text": "youkoso_jitsuryoku_shijou_shugi_no_kyoushitsu_e"
+    },
+    {
+      "value": "bakugan",
+      "text": "bakugan"
+    },
+    {
+      "value": "spooky's_house_of_jump_scares",
+      "text": "spooky's_house_of_jump_scares"
+    },
+    {
+      "value": "mahou_sensei_negima",
+      "text": "mahou_sensei_negima"
+    },
+    {
+      "value": "the_secret_of_the_house",
+      "text": "the_secret_of_the_house"
+    },
+    {
+      "value": "yodayo",
+      "text": "yodayo"
+    },
+    {
+      "value": "slavetoon",
+      "text": "slavetoon"
+    },
+    {
+      "value": "monster_musume",
+      "text": "monster_musume"
+    },
+    {
+      "value": "gears_of_war",
+      "text": "gears_of_war"
+    },
+    {
+      "value": "bolt_(film)",
+      "text": "bolt_(film)"
+    },
+    {
+      "value": "raya_and_the_last_dragon",
+      "text": "raya_and_the_last_dragon"
+    },
+    {
+      "value": "crash_team_racing_nitro-fueled",
+      "text": "crash_team_racing_nitro-fueled"
+    },
+    {
+      "value": "breath_of_fire_ii",
+      "text": "breath_of_fire_ii"
+    },
+    {
+      "value": "freddy_fazbear's_pizzeria_simulator",
+      "text": "freddy_fazbear's_pizzeria_simulator"
+    },
+    {
+      "value": "x-com",
+      "text": "x-com"
+    },
+    {
+      "value": "sono_hanabira_ni_kuchizuke_wo",
+      "text": "sono_hanabira_ni_kuchizuke_wo"
+    },
+    {
+      "value": "makai_kishi_ingrid",
+      "text": "makai_kishi_ingrid"
+    },
+    {
+      "value": "punch_out",
+      "text": "punch_out"
+    },
+    {
+      "value": "fanganronpa",
+      "text": "fanganronpa"
+    },
+    {
+      "value": "gmod",
+      "text": "gmod"
+    },
+    {
+      "value": "danganronpa_(series)",
+      "text": "danganronpa_(series)"
+    },
+    {
+      "value": "hogwarts_legacy",
+      "text": "hogwarts_legacy"
+    },
+    {
+      "value": "fresh_precure!",
+      "text": "fresh_precure!"
+    },
+    {
+      "value": "the_lego_movie",
+      "text": "the_lego_movie"
+    },
+    {
+      "value": "bakuman",
+      "text": "bakuman"
+    },
+    {
+      "value": "baka_to_test_to_shoukanjuu",
+      "text": "baka_to_test_to_shoukanjuu"
+    },
+    {
+      "value": "gundam_tekketsu_no_orphans",
+      "text": "gundam_tekketsu_no_orphans"
+    },
+    {
+      "value": "pokemon_journeys",
+      "text": "pokemon_journeys"
+    },
+    {
+      "value": "battle_academia_series",
+      "text": "battle_academia_series"
+    },
+    {
+      "value": "inside_job",
+      "text": "inside_job"
+    },
+    {
+      "value": "future_card_buddyfight",
+      "text": "future_card_buddyfight"
+    },
+    {
+      "value": "ppppu",
+      "text": "ppppu"
+    },
+    {
+      "value": "star_trek_lower_decks",
+      "text": "star_trek_lower_decks"
+    },
+    {
+      "value": "the_seven_deadly_sins",
+      "text": "the_seven_deadly_sins"
+    },
+    {
+      "value": "cthulhu_mythos",
+      "text": "cthulhu_mythos"
+    },
+    {
+      "value": "ori_(series)",
+      "text": "ori_(series)"
+    },
+    {
+      "value": "the_idolm@ster_cinderella_girls",
+      "text": "the_idolm@ster_cinderella_girls"
+    },
+    {
+      "value": "lord_of_the_rings",
+      "text": "lord_of_the_rings"
+    },
+    {
+      "value": "ducktales_(2017)",
+      "text": "ducktales_(2017)"
+    },
+    {
+      "value": "a_new_hope",
+      "text": "a_new_hope"
+    },
+    {
+      "value": "wildlife_(video_game)",
+      "text": "wildlife_(video_game)"
+    },
+    {
+      "value": "jedi:_fallen_order",
+      "text": "jedi:_fallen_order"
+    },
+    {
+      "value": "modern_warfare",
+      "text": "modern_warfare"
+    },
+    {
+      "value": "the_legend_of_zelda:_tears_of_the_kingdom",
+      "text": "the_legend_of_zelda:_tears_of_the_kingdom"
+    },
+    {
+      "value": "american_mythology",
+      "text": "american_mythology"
+    },
+    {
+      "value": "betty_and_veronica",
+      "text": "betty_and_veronica"
+    },
+    {
+      "value": "the_little_mermaid_(1989_film)",
+      "text": "the_little_mermaid_(1989_film)"
+    },
+    {
+      "value": "sennen_sensou_aigis",
+      "text": "sennen_sensou_aigis"
+    },
+    {
+      "value": "fnf_mod",
+      "text": "fnf_mod"
+    },
+    {
+      "value": "road_rovers",
+      "text": "road_rovers"
+    },
+    {
+      "value": "sayonara_zetsubou_sensei",
+      "text": "sayonara_zetsubou_sensei"
+    },
+    {
+      "value": "animal_crossing_new_horizons",
+      "text": "animal_crossing_new_horizons"
+    },
+    {
+      "value": "taimanin_murasaki",
+      "text": "taimanin_murasaki"
+    },
+    {
+      "value": "garfield_(series)",
+      "text": "garfield_(series)"
+    },
+    {
+      "value": "nichijou",
+      "text": "nichijou"
+    },
+    {
+      "value": "trials_in_tainted_space",
+      "text": "trials_in_tainted_space"
+    },
+    {
+      "value": "seishun_buta_yarou_wa_bunny_girl_senpai_no_yume_wo_minai",
+      "text": "seishun_buta_yarou_wa_bunny_girl_senpai_no_yume_wo_minai"
+    },
+    {
+      "value": "gardnerverse",
+      "text": "gardnerverse"
+    },
+    {
+      "value": "pizza_thot",
+      "text": "pizza_thot"
+    },
+    {
+      "value": "yuu-gi-ou",
+      "text": "yuu-gi-ou"
+    },
+    {
+      "value": "hello_kitty",
+      "text": "hello_kitty"
+    },
+    {
+      "value": "hello_kitty_(series)",
+      "text": "hello_kitty_(series)"
+    },
+    {
+      "value": "world_flipper",
+      "text": "world_flipper"
+    },
+    {
+      "value": "justice_society_of_america",
+      "text": "justice_society_of_america"
+    },
+    {
+      "value": "robotboy",
+      "text": "robotboy"
+    },
+    {
+      "value": "thanksgiving",
+      "text": "thanksgiving"
+    },
+    {
+      "value": "zenless_zone_zero",
+      "text": "zenless_zone_zero"
+    },
+    {
+      "value": "mobile_suit_gundam",
+      "text": "mobile_suit_gundam"
+    },
+    {
+      "value": "gabriel_dropout",
+      "text": "gabriel_dropout"
+    },
+    {
+      "value": "agent_aika",
+      "text": "agent_aika"
+    },
+    {
+      "value": "pokemon_adventures",
+      "text": "pokemon_adventures"
+    },
+    {
+      "value": "insomniac_games",
+      "text": "insomniac_games"
+    },
+    {
+      "value": "dream_c_club",
+      "text": "dream_c_club"
+    },
+    {
+      "value": "pvz",
+      "text": "pvz"
+    },
+    {
+      "value": "dofus",
+      "text": "dofus"
+    },
+    {
+      "value": "another",
+      "text": "another"
+    },
+    {
+      "value": "alice_soft",
+      "text": "alice_soft"
+    },
+    {
+      "value": "zeta_gundam",
+      "text": "zeta_gundam"
+    },
+    {
+      "value": "evangelion",
+      "text": "evangelion"
+    },
+    {
+      "value": "star_ocean_anamnesis",
+      "text": "star_ocean_anamnesis"
+    },
+    {
+      "value": "ordem_paranormal",
+      "text": "ordem_paranormal"
+    },
+    {
+      "value": "dark_souls_2",
+      "text": "dark_souls_2"
+    },
+    {
+      "value": "gegege_no_kitaro",
+      "text": "gegege_no_kitaro"
+    },
+    {
+      "value": "john_carter_of_mars",
+      "text": "john_carter_of_mars"
+    },
+    {
+      "value": "pokemon_masters_ex",
+      "text": "pokemon_masters_ex"
+    },
+    {
+      "value": "mother_3",
+      "text": "mother_3"
+    },
+    {
+      "value": "dcamu",
+      "text": "dcamu"
+    },
+    {
+      "value": "super_mario_sunshine",
+      "text": "super_mario_sunshine"
+    },
+    {
+      "value": "dragon_ball_super_super_hero",
+      "text": "dragon_ball_super_super_hero"
+    },
+    {
+      "value": "counter:side",
+      "text": "counter:side"
+    },
+    {
+      "value": "the_fox_and_the_hound",
+      "text": "the_fox_and_the_hound"
+    },
+    {
+      "value": "bionicle",
+      "text": "bionicle"
+    },
+    {
+      "value": "small_breast",
+      "text": "small_breast"
+    },
+    {
+      "value": "frankenstein",
+      "text": "frankenstein"
+    },
+    {
+      "value": "legendz",
+      "text": "legendz"
+    },
+    {
+      "value": "promare",
+      "text": "promare"
+    },
+    {
+      "value": "bungo_stray_dogs",
+      "text": "bungo_stray_dogs"
+    },
+    {
+      "value": "sisterhood_(blue_archive)",
+      "text": "sisterhood_(blue_archive)"
+    },
+    {
+      "value": "mega_man_zx_advent",
+      "text": "mega_man_zx_advent"
+    },
+    {
+      "value": "pikmin",
+      "text": "pikmin"
+    },
+    {
+      "value": "blend_s",
+      "text": "blend_s"
+    },
+    {
+      "value": "the_casagrandes",
+      "text": "the_casagrandes"
+    },
+    {
+      "value": "monolith_soft",
+      "text": "monolith_soft"
+    },
+    {
+      "value": "the_mandalorian",
+      "text": "the_mandalorian"
+    },
+    {
+      "value": "red_sonja_(comics)",
+      "text": "red_sonja_(comics)"
+    },
+    {
+      "value": "bucky_o'hare_(series)",
+      "text": "bucky_o'hare_(series)"
+    },
+    {
+      "value": "tomo-chan_wa_onna_no_ko",
+      "text": "tomo-chan_wa_onna_no_ko"
+    },
+    {
+      "value": "g_gundam",
+      "text": "g_gundam"
+    },
+    {
+      "value": "cartoon_hangover",
+      "text": "cartoon_hangover"
+    },
+    {
+      "value": "brawlhalla",
+      "text": "brawlhalla"
+    },
+    {
+      "value": "tales_of_the_abyss",
+      "text": "tales_of_the_abyss"
+    },
+    {
+      "value": "renkin_san-kyuu_magical_pokaan",
+      "text": "renkin_san-kyuu_magical_pokaan"
+    },
+    {
+      "value": "justicehentai.com",
+      "text": "justicehentai.com"
+    },
+    {
+      "value": "hataraku_saibou",
+      "text": "hataraku_saibou"
+    },
+    {
+      "value": "jojolion",
+      "text": "jojolion"
+    },
+    {
+      "value": "kirby_and_the_forgotten_land",
+      "text": "kirby_and_the_forgotten_land"
+    },
+    {
+      "value": "online_superheroes",
+      "text": "online_superheroes"
+    },
+    {
+      "value": "pico's_school",
+      "text": "pico's_school"
+    },
+    {
+      "value": "kanon",
+      "text": "kanon"
+    },
+    {
+      "value": "courage_the_cowardly_dog",
+      "text": "courage_the_cowardly_dog"
+    },
+    {
+      "value": "rocksteady_studios",
+      "text": "rocksteady_studios"
+    },
+    {
+      "value": "medarot",
+      "text": "medarot"
+    },
+    {
+      "value": "yuri!!!_on_ice",
+      "text": "yuri!!!_on_ice"
+    },
+    {
+      "value": "utau",
+      "text": "utau"
+    },
+    {
+      "value": "the_grind_series",
+      "text": "the_grind_series"
+    },
+    {
+      "value": "space_dandy",
+      "text": "space_dandy"
+    },
+    {
+      "value": "ori_and_the_blind_forest",
+      "text": "ori_and_the_blind_forest"
+    },
+    {
+      "value": "wanderlust",
+      "text": "wanderlust"
+    },
+    {
+      "value": "hi-fi_rush",
+      "text": "hi-fi_rush"
+    },
+    {
+      "value": "dragon_quest_dai_no_daibouken",
+      "text": "dragon_quest_dai_no_daibouken"
+    },
+    {
+      "value": "record_of_ragnarok",
+      "text": "record_of_ragnarok"
+    },
+    {
+      "value": "hamtaro_(series)",
+      "text": "hamtaro_(series)"
+    },
+    {
+      "value": "discord_(app)",
+      "text": "discord_(app)"
+    },
+    {
+      "value": "the_jetsons",
+      "text": "the_jetsons"
+    },
+    {
+      "value": "legend_of_mana",
+      "text": "legend_of_mana"
+    },
+    {
+      "value": "raving_rabbids",
+      "text": "raving_rabbids"
+    },
+    {
+      "value": "tokyo_houkago_summoners",
+      "text": "tokyo_houkago_summoners"
+    },
+    {
+      "value": "street_fighter_alpha_3",
+      "text": "street_fighter_alpha_3"
+    },
+    {
+      "value": "crush_crush",
+      "text": "crush_crush"
+    },
+    {
+      "value": "crash_bandicoot_4:_it's_about_time",
+      "text": "crash_bandicoot_4:_it's_about_time"
+    },
+    {
+      "value": "fushigi_no_umi_no_nadia",
+      "text": "fushigi_no_umi_no_nadia"
+    },
+    {
+      "value": "scott_pilgrim_(series)",
+      "text": "scott_pilgrim_(series)"
+    },
+    {
+      "value": "wreck-it_ralph",
+      "text": "wreck-it_ralph"
+    },
+    {
+      "value": "the_klub_17",
+      "text": "the_klub_17"
+    },
+    {
+      "value": "tmnt_2012",
+      "text": "tmnt_2012"
+    },
+    {
+      "value": "onlyfans",
+      "text": "onlyfans"
+    },
+    {
+      "value": "flcl",
+      "text": "flcl"
+    },
+    {
+      "value": "dragon_age_inquisition",
+      "text": "dragon_age_inquisition"
+    },
+    {
+      "value": "intelligent_systems",
+      "text": "intelligent_systems"
+    },
+    {
+      "value": "yuru_yuri",
+      "text": "yuru_yuri"
+    },
+    {
+      "value": "arthur_(series)",
+      "text": "arthur_(series)"
+    },
+    {
+      "value": "yakuza",
+      "text": "yakuza"
+    },
+    {
+      "value": "code_lyoko",
+      "text": "code_lyoko"
+    },
+    {
+      "value": "angel_beats!",
+      "text": "angel_beats!"
+    },
+    {
+      "value": "the_dragon_prince",
+      "text": "the_dragon_prince"
+    },
+    {
+      "value": "maken-ki!",
+      "text": "maken-ki!"
+    },
+    {
+      "value": "saenai_heroine_no_sodatekata",
+      "text": "saenai_heroine_no_sodatekata"
+    },
+    {
+      "value": "tournament_of_power",
+      "text": "tournament_of_power"
+    },
+    {
+      "value": "frozen_2",
+      "text": "frozen_2"
+    },
+    {
+      "value": "console-tan",
+      "text": "console-tan"
+    },
+    {
+      "value": "dog_days",
+      "text": "dog_days"
+    },
+    {
+      "value": "monsters_inc",
+      "text": "monsters_inc"
+    },
+    {
+      "value": "gen\u00b9\u00b3",
+      "text": "gen\u00b9\u00b3"
+    },
+    {
+      "value": "pok\u00e9mon_mystery_dungeon",
+      "text": "pok\u00e9mon_mystery_dungeon"
+    },
+    {
+      "value": "tales_of_berseria",
+      "text": "tales_of_berseria"
+    },
+    {
+      "value": "pornpen.ai",
+      "text": "pornpen.ai"
+    },
+    {
+      "value": "my_little_pony:_the_movie_(2017)",
+      "text": "my_little_pony:_the_movie_(2017)"
+    },
+    {
+      "value": "ice_age_(series)",
+      "text": "ice_age_(series)"
+    },
+    {
+      "value": "madou_monogatari",
+      "text": "madou_monogatari"
+    },
+    {
+      "value": "fire_emblem:_thracia_776",
+      "text": "fire_emblem:_thracia_776"
+    },
+    {
+      "value": "manaworld",
+      "text": "manaworld"
+    },
+    {
+      "value": "shanhaijing_secondary_school_student",
+      "text": "shanhaijing_secondary_school_student"
+    },
+    {
+      "value": "dynamite_comics",
+      "text": "dynamite_comics"
+    },
+    {
+      "value": "the_hunchback_of_notre_dame",
+      "text": "the_hunchback_of_notre_dame"
+    },
+    {
+      "value": "tom_and_jerry",
+      "text": "tom_and_jerry"
+    },
+    {
+      "value": "super_mario_bros._2",
+      "text": "super_mario_bros._2"
+    },
+    {
+      "value": "x-force",
+      "text": "x-force"
+    },
+    {
+      "value": "noblesse_of_rouge",
+      "text": "noblesse_of_rouge"
+    },
+    {
+      "value": "zoids",
+      "text": "zoids"
+    },
+    {
+      "value": "epic7",
+      "text": "epic7"
+    },
+    {
+      "value": "manyuu_hikenchou",
+      "text": "manyuu_hikenchou"
+    },
+    {
+      "value": "katawa_shoujo",
+      "text": "katawa_shoujo"
+    },
+    {
+      "value": "inazuma_eleven_(series)",
+      "text": "inazuma_eleven_(series)"
+    },
+    {
+      "value": "aladdin_(1992_disney_film)",
+      "text": "aladdin_(1992_disney_film)"
+    },
+    {
+      "value": "sora_no_otoshimono",
+      "text": "sora_no_otoshimono"
+    },
+    {
+      "value": "aincrad",
+      "text": "aincrad"
+    },
+    {
+      "value": "super_blackjack",
+      "text": "super_blackjack"
+    },
+    {
+      "value": "douluo_dalu",
+      "text": "douluo_dalu"
+    },
+    {
+      "value": "team_fortress",
+      "text": "team_fortress"
+    },
+    {
+      "value": "hypnos_lullaby",
+      "text": "hypnos_lullaby"
+    },
+    {
+      "value": ".hack",
+      "text": ".hack"
+    },
+    {
+      "value": "lune",
+      "text": "lune"
+    },
+    {
+      "value": "dceu",
+      "text": "dceu"
+    },
+    {
+      "value": "hey_arnold!",
+      "text": "hey_arnold!"
+    },
+    {
+      "value": "ancient_egypt",
+      "text": "ancient_egypt"
+    },
+    {
+      "value": "dia_de_los_muertos",
+      "text": "dia_de_los_muertos"
+    },
+    {
+      "value": "green_lantern_(series)",
+      "text": "green_lantern_(series)"
+    },
+    {
+      "value": "jet_set_radio",
+      "text": "jet_set_radio"
+    },
+    {
+      "value": "ichigo_100_percent",
+      "text": "ichigo_100_percent"
+    },
+    {
+      "value": "spiral_knights",
+      "text": "spiral_knights"
+    },
+    {
+      "value": "darksiders",
+      "text": "darksiders"
+    },
+    {
+      "value": "odin_sphere",
+      "text": "odin_sphere"
+    },
+    {
+      "value": "haganai",
+      "text": "haganai"
+    },
+    {
+      "value": "s.h.i.e.l.d.",
+      "text": "s.h.i.e.l.d."
+    },
+    {
+      "value": "mega_man_star_force",
+      "text": "mega_man_star_force"
+    },
+    {
+      "value": "love_live!_superstar!!",
+      "text": "love_live!_superstar!!"
+    },
+    {
+      "value": "bombergirl",
+      "text": "bombergirl"
+    },
+    {
+      "value": "huniepop",
+      "text": "huniepop"
+    },
+    {
+      "value": "inside_out",
+      "text": "inside_out"
+    },
+    {
+      "value": "pornhub",
+      "text": "pornhub"
+    },
+    {
+      "value": "inyouchuu",
+      "text": "inyouchuu"
+    },
+    {
+      "value": "mushoku_tensei:_isekai_ittara_honki_dasu",
+      "text": "mushoku_tensei:_isekai_ittara_honki_dasu"
+    },
+    {
+      "value": "arcade_series",
+      "text": "arcade_series"
+    },
+    {
+      "value": "gate_-_jieitai_ka_no_chi_nite_kaku_tatakaeri",
+      "text": "gate_-_jieitai_ka_no_chi_nite_kaku_tatakaeri"
+    },
+    {
+      "value": "darkest_dungeon",
+      "text": "darkest_dungeon"
+    },
+    {
+      "value": "mario_+_rabbids",
+      "text": "mario_+_rabbids"
+    },
+    {
+      "value": "pokemon_(manga)",
+      "text": "pokemon_(manga)"
+    },
+    {
+      "value": "sexyfur",
+      "text": "sexyfur"
+    },
+    {
+      "value": "kaiketsu_zorori",
+      "text": "kaiketsu_zorori"
+    },
+    {
+      "value": "medabots",
+      "text": "medabots"
+    },
+    {
+      "value": "record_of_lodoss_war",
+      "text": "record_of_lodoss_war"
+    },
+    {
+      "value": "gegege_no_kitarou",
+      "text": "gegege_no_kitarou"
+    },
+    {
+      "value": "little_annie_fanny",
+      "text": "little_annie_fanny"
+    },
+    {
+      "value": "ao_no_exorcist",
+      "text": "ao_no_exorcist"
+    },
+    {
+      "value": "horizon_forbidden_west",
+      "text": "horizon_forbidden_west"
+    },
+    {
+      "value": "danganronpa_another",
+      "text": "danganronpa_another"
+    },
+    {
+      "value": "wednesday_(netflix)",
+      "text": "wednesday_(netflix)"
+    },
+    {
+      "value": "tokyo_mirage_sessions_#fe",
+      "text": "tokyo_mirage_sessions_#fe"
+    },
+    {
+      "value": "mario_strikers",
+      "text": "mario_strikers"
+    },
+    {
+      "value": "rockstar_games",
+      "text": "rockstar_games"
+    },
+    {
+      "value": "tales_of_graces",
+      "text": "tales_of_graces"
+    },
+    {
+      "value": "osomatsu-san",
+      "text": "osomatsu-san"
+    },
+    {
+      "value": "digimon_xros_wars",
+      "text": "digimon_xros_wars"
+    },
+    {
+      "value": "kirby:_right_back_at_ya!",
+      "text": "kirby:_right_back_at_ya!"
+    },
+    {
+      "value": "gochuumon_wa_usagi_desu_ka?",
+      "text": "gochuumon_wa_usagi_desu_ka?"
+    },
+    {
+      "value": "daria",
+      "text": "daria"
+    },
+    {
+      "value": "winged_cloud",
+      "text": "winged_cloud"
+    },
+    {
+      "value": "hitman",
+      "text": "hitman"
+    },
+    {
+      "value": "alice_madness_returns",
+      "text": "alice_madness_returns"
+    },
+    {
+      "value": "birds_of_prey",
+      "text": "birds_of_prey"
+    },
+    {
+      "value": "hbo_max",
+      "text": "hbo_max"
+    },
+    {
+      "value": "battle_spirits",
+      "text": "battle_spirits"
+    },
+    {
+      "value": "bishoujo_mangekyou",
+      "text": "bishoujo_mangekyou"
+    },
+    {
+      "value": "critical_role:_the_mighty_nein",
+      "text": "critical_role:_the_mighty_nein"
+    },
+    {
+      "value": "wind_waker",
+      "text": "wind_waker"
+    },
+    {
+      "value": "sims4",
+      "text": "sims4"
+    },
+    {
+      "value": "ring_fit_adventure",
+      "text": "ring_fit_adventure"
+    },
+    {
+      "value": "resort_boin",
+      "text": "resort_boin"
+    },
+    {
+      "value": "softhouse_seal",
+      "text": "softhouse_seal"
+    },
+    {
+      "value": "tail_concerto",
+      "text": "tail_concerto"
+    },
+    {
+      "value": "xbox",
+      "text": "xbox"
+    },
+    {
+      "value": "puss_in_boots_(dreamworks)",
+      "text": "puss_in_boots_(dreamworks)"
+    },
+    {
+      "value": "dragonflight",
+      "text": "dragonflight"
+    },
+    {
+      "value": "foolymagooly",
+      "text": "foolymagooly"
+    },
+    {
+      "value": "tk17",
+      "text": "tk17"
+    },
+    {
+      "value": "world_cup",
+      "text": "world_cup"
+    },
+    {
+      "value": "la_pucelle_tactics",
+      "text": "la_pucelle_tactics"
+    },
+    {
+      "value": "youkoso!_sukebe_elf_no_mori_e",
+      "text": "youkoso!_sukebe_elf_no_mori_e"
+    },
+    {
+      "value": "nippon_ichi",
+      "text": "nippon_ichi"
+    },
+    {
+      "value": "drawn_together",
+      "text": "drawn_together"
+    },
+    {
+      "value": "tales_from_the_rift_series",
+      "text": "tales_from_the_rift_series"
+    },
+    {
+      "value": "evangelion:_2.0_you_can_(not)_advance",
+      "text": "evangelion:_2.0_you_can_(not)_advance"
+    },
+    {
+      "value": "inanimate_insanity",
+      "text": "inanimate_insanity"
+    },
+    {
+      "value": "red_dead_redemption_(series)",
+      "text": "red_dead_redemption_(series)"
+    },
+    {
+      "value": "tekken_tag_tournament",
+      "text": "tekken_tag_tournament"
+    },
+    {
+      "value": "boin",
+      "text": "boin"
+    },
+    {
+      "value": "slightly_damned",
+      "text": "slightly_damned"
+    },
+    {
+      "value": "pathfinder",
+      "text": "pathfinder"
+    },
+    {
+      "value": "golden_kamuy",
+      "text": "golden_kamuy"
+    },
+    {
+      "value": "rec_room",
+      "text": "rec_room"
+    },
+    {
+      "value": "google_doodle",
+      "text": "google_doodle"
+    },
+    {
+      "value": "mirai_nikki",
+      "text": "mirai_nikki"
+    },
+    {
+      "value": "toy_story",
+      "text": "toy_story"
+    },
+    {
+      "value": "mandela_catalogue",
+      "text": "mandela_catalogue"
+    },
+    {
+      "value": "durarara!!",
+      "text": "durarara!!"
+    },
+    {
+      "value": "kyoukaisenjou_no_horizon",
+      "text": "kyoukaisenjou_no_horizon"
+    },
+    {
+      "value": "the_ghost_and_molly_mcgee",
+      "text": "the_ghost_and_molly_mcgee"
+    },
+    {
+      "value": "shingeki_no_bahamut",
+      "text": "shingeki_no_bahamut"
+    },
+    {
+      "value": "sakura_taisen",
+      "text": "sakura_taisen"
+    },
+    {
+      "value": "xiaolin_showdown",
+      "text": "xiaolin_showdown"
+    },
+    {
+      "value": "call_of_duty_black_ops_cold_war",
+      "text": "call_of_duty_black_ops_cold_war"
+    },
+    {
+      "value": "marvelous",
+      "text": "marvelous"
+    },
+    {
+      "value": "geometry_dash",
+      "text": "geometry_dash"
+    },
+    {
+      "value": "tokyo_mew_mew",
+      "text": "tokyo_mew_mew"
+    },
+    {
+      "value": "rsahnp",
+      "text": "rsahnp"
+    },
+    {
+      "value": "scooby-doo_and_the_ghoul_school",
+      "text": "scooby-doo_and_the_ghoul_school"
+    },
+    {
+      "value": "super_smash_bros._for_nintendo_3ds_and_wii_u",
+      "text": "super_smash_bros._for_nintendo_3ds_and_wii_u"
+    },
+    {
+      "value": "oni_chichi",
+      "text": "oni_chichi"
+    },
+    {
+      "value": "final_space",
+      "text": "final_space"
+    },
+    {
+      "value": "shin_megami_tensei_v",
+      "text": "shin_megami_tensei_v"
+    },
+    {
+      "value": "super_mario_bros._wonder",
+      "text": "super_mario_bros._wonder"
+    },
+    {
+      "value": "river_city_girls",
+      "text": "river_city_girls"
+    },
+    {
+      "value": "disgaea_5",
+      "text": "disgaea_5"
+    },
+    {
+      "value": "amakano",
+      "text": "amakano"
+    },
+    {
+      "value": "beetlejuice",
+      "text": "beetlejuice"
+    },
+    {
+      "value": "site-tan",
+      "text": "site-tan"
+    },
+    {
+      "value": "metal_gear_rising",
+      "text": "metal_gear_rising"
+    },
+    {
+      "value": "street_fighter_iii",
+      "text": "street_fighter_iii"
+    },
+    {
+      "value": "my_mom_and_sister_are_size_queen_sluts",
+      "text": "my_mom_and_sister_are_size_queen_sluts"
+    },
+    {
+      "value": "brave",
+      "text": "brave"
+    },
+    {
+      "value": "tekken_8",
+      "text": "tekken_8"
+    },
+    {
+      "value": "rise_of_the_teenage_mutant_ninja_turtles",
+      "text": "rise_of_the_teenage_mutant_ninja_turtles"
+    },
+    {
+      "value": "warlock_and_boobs",
+      "text": "warlock_and_boobs"
+    },
+    {
+      "value": "ookiku_furikabutte",
+      "text": "ookiku_furikabutte"
+    },
+    {
+      "value": "north_american_mythology",
+      "text": "north_american_mythology"
+    },
+    {
+      "value": "the_idolm@ster_shiny_colors",
+      "text": "the_idolm@ster_shiny_colors"
+    },
+    {
+      "value": "persona_3_portable",
+      "text": "persona_3_portable"
+    },
+    {
+      "value": "onegai_teacher",
+      "text": "onegai_teacher"
+    },
+    {
+      "value": "maya",
+      "text": "maya"
+    },
+    {
+      "value": "blue_dragon",
+      "text": "blue_dragon"
+    },
+    {
+      "value": "outlast",
+      "text": "outlast"
+    },
+    {
+      "value": "beatmania",
+      "text": "beatmania"
+    },
+    {
+      "value": "fairies_vs_tentacles",
+      "text": "fairies_vs_tentacles"
+    },
+    {
+      "value": "dead_or_alive_5_last_round",
+      "text": "dead_or_alive_5_last_round"
+    },
+    {
+      "value": "glitchtale",
+      "text": "glitchtale"
+    },
+    {
+      "value": "indigenous_north_american_mythology",
+      "text": "indigenous_north_american_mythology"
+    },
+    {
+      "value": "monster_farm",
+      "text": "monster_farm"
+    },
+    {
+      "value": "f-zero",
+      "text": "f-zero"
+    },
+    {
+      "value": "discipline:record_of_a_crusade",
+      "text": "discipline:record_of_a_crusade"
+    },
+    {
+      "value": "onmyou_taisenki",
+      "text": "onmyou_taisenki"
+    },
+    {
+      "value": "sekiro:_shadows_die_twice",
+      "text": "sekiro:_shadows_die_twice"
+    },
+    {
+      "value": "disgaea_d2",
+      "text": "disgaea_d2"
+    },
+    {
+      "value": "jigoku_sensei_nube",
+      "text": "jigoku_sensei_nube"
+    },
+    {
+      "value": "wario_(series)",
+      "text": "wario_(series)"
+    },
+    {
+      "value": "booty_farm",
+      "text": "booty_farm"
+    },
+    {
+      "value": "ousama_ranking",
+      "text": "ousama_ranking"
+    },
+    {
+      "value": "di_gi_charat",
+      "text": "di_gi_charat"
+    },
+    {
+      "value": "diablo_3",
+      "text": "diablo_3"
+    },
+    {
+      "value": "ranking_of_kings",
+      "text": "ranking_of_kings"
+    },
+    {
+      "value": "the_new_batman_adventures",
+      "text": "the_new_batman_adventures"
+    },
+    {
+      "value": "dislyte",
+      "text": "dislyte"
+    },
+    {
+      "value": "pokemon_conquest",
+      "text": "pokemon_conquest"
+    },
+    {
+      "value": "elvira:_mistress_of_the_dark",
+      "text": "elvira:_mistress_of_the_dark"
+    },
+    {
+      "value": "blaster_master_zero_2",
+      "text": "blaster_master_zero_2"
+    },
+    {
+      "value": "3d_hentai_beauties",
+      "text": "3d_hentai_beauties"
+    },
+    {
+      "value": "sengoku_basara",
+      "text": "sengoku_basara"
+    },
+    {
+      "value": "mieruko-chan",
+      "text": "mieruko-chan"
+    },
+    {
+      "value": "musaigen_no_phantom_world",
+      "text": "musaigen_no_phantom_world"
+    },
+    {
+      "value": "assault_lily",
+      "text": "assault_lily"
+    },
+    {
+      "value": "thundercats_2011",
+      "text": "thundercats_2011"
+    },
+    {
+      "value": "kunio-kun",
+      "text": "kunio-kun"
+    },
+    {
+      "value": "super_mario_bros._(nes)",
+      "text": "super_mario_bros._(nes)"
+    },
+    {
+      "value": "fireball_(series)",
+      "text": "fireball_(series)"
+    },
+    {
+      "value": "coraline",
+      "text": "coraline"
+    },
+    {
+      "value": "danganronpa_s:_ultimate_summer_camp",
+      "text": "danganronpa_s:_ultimate_summer_camp"
+    },
+    {
+      "value": "vivziepop",
+      "text": "vivziepop"
+    },
+    {
+      "value": "toranoana",
+      "text": "toranoana"
+    },
+    {
+      "value": "five_nights_at_freddy's_world",
+      "text": "five_nights_at_freddy's_world"
+    },
+    {
+      "value": "warship_girls_r",
+      "text": "warship_girls_r"
+    },
+    {
+      "value": "lackadaisy",
+      "text": "lackadaisy"
+    },
+    {
+      "value": "kanojo_x_kanojo_x_kanojo",
+      "text": "kanojo_x_kanojo_x_kanojo"
+    },
+    {
+      "value": "ano_natsu_de_matteru",
+      "text": "ano_natsu_de_matteru"
+    },
+    {
+      "value": "pc98",
+      "text": "pc98"
+    },
+    {
+      "value": "oliver_and_company",
+      "text": "oliver_and_company"
+    },
+    {
+      "value": "the_coffin_of_andy_and_leyley",
+      "text": "the_coffin_of_andy_and_leyley"
+    },
+    {
+      "value": "naruto:_road_to_ninja",
+      "text": "naruto:_road_to_ninja"
+    },
+    {
+      "value": "shin_sangoku_musou",
+      "text": "shin_sangoku_musou"
+    },
+    {
+      "value": "golden_sun",
+      "text": "golden_sun"
+    },
+    {
+      "value": "kuroko's_basketball",
+      "text": "kuroko's_basketball"
+    },
+    {
+      "value": "fate/hollow_ataraxia",
+      "text": "fate/hollow_ataraxia"
+    },
+    {
+      "value": "sekai_ni_otoko_wa_jibun_dake_zensekai_no_josei_o_ninshin_sasete_jinrui_o_sukue!",
+      "text": "sekai_ni_otoko_wa_jibun_dake_zensekai_no_josei_o_ninshin_sasete_jinrui_o_sukue!"
+    },
+    {
+      "value": "idolmaster_side - m",
+      "text": "idolmaster_side - m"
+    },
+    {
+      "value": "rhythm_heaven",
+      "text": "rhythm_heaven"
+    },
+    {
+      "value": "gundam_age",
+      "text": "gundam_age"
+    },
+    {
+      "value": "that_time_i_got_reincarnated_as_a_slime",
+      "text": "that_time_i_got_reincarnated_as_a_slime"
+    },
+    {
+      "value": "school_days",
+      "text": "school_days"
+    },
+    {
+      "value": "project_x_love_potion_disaster",
+      "text": "project_x_love_potion_disaster"
+    },
+    {
+      "value": "killer_instinct",
+      "text": "killer_instinct"
+    },
+    {
+      "value": "live_a_hero",
+      "text": "live_a_hero"
+    },
+    {
+      "value": "dragon_age_2",
+      "text": "dragon_age_2"
+    },
+    {
+      "value": "halo_4",
+      "text": "halo_4"
+    },
+    {
+      "value": "seeds_of_chaos",
+      "text": "seeds_of_chaos"
+    },
+    {
+      "value": "attack_of_the_clones",
+      "text": "attack_of_the_clones"
+    },
+    {
+      "value": "dcuaom",
+      "text": "dcuaom"
+    },
+    {
+      "value": "squeez",
+      "text": "squeez"
+    },
+    {
+      "value": "femboy_hooters",
+      "text": "femboy_hooters"
+    },
+    {
+      "value": "doukyuusei_another_world",
+      "text": "doukyuusei_another_world"
+    },
+    {
+      "value": "ruby_gillman, _teenage_kraken",
+      "text": "ruby_gillman, _teenage_kraken"
+    },
+    {
+      "value": "fairy_tales",
+      "text": "fairy_tales"
+    },
+    {
+      "value": "alfheim_online",
+      "text": "alfheim_online"
+    },
+    {
+      "value": "red_dead_redemption_2",
+      "text": "red_dead_redemption_2"
+    },
+    {
+      "value": "dragon_quest_ii",
+      "text": "dragon_quest_ii"
+    },
+    {
+      "value": "dinosaur_king",
+      "text": "dinosaur_king"
+    },
+    {
+      "value": "magic_cat_academy",
+      "text": "magic_cat_academy"
+    },
+    {
+      "value": "medaka_box",
+      "text": "medaka_box"
+    },
+    {
+      "value": "eyeshield_21",
+      "text": "eyeshield_21"
+    },
+    {
+      "value": "furafterdark",
+      "text": "furafterdark"
+    },
+    {
+      "value": "super_mario_world",
+      "text": "super_mario_world"
+    },
+    {
+      "value": "innersloth",
+      "text": "innersloth"
+    },
+    {
+      "value": "resident_evil_revelations_2",
+      "text": "resident_evil_revelations_2"
+    },
+    {
+      "value": "the_avengers:_earth's_mightiest_heroes",
+      "text": "the_avengers:_earth's_mightiest_heroes"
+    },
+    {
+      "value": "wii",
+      "text": "wii"
+    },
+    {
+      "value": "tokimeki_memorial",
+      "text": "tokimeki_memorial"
+    },
+    {
+      "value": "sonic_the_fighters",
+      "text": "sonic_the_fighters"
+    },
+    {
+      "value": "resident_evil_0",
+      "text": "resident_evil_0"
+    },
+    {
+      "value": "girlfriend_(kari)",
+      "text": "girlfriend_(kari)"
+    },
+    {
+      "value": "unreal_tournament",
+      "text": "unreal_tournament"
+    },
+    {
+      "value": "ensemble_stars!",
+      "text": "ensemble_stars!"
+    },
+    {
+      "value": "paladins_champions_of_the_realm",
+      "text": "paladins_champions_of_the_realm"
+    },
+    {
+      "value": "bishop_(company)",
+      "text": "bishop_(company)"
+    },
+    {
+      "value": "super_planet_dolan",
+      "text": "super_planet_dolan"
+    },
+    {
+      "value": "assassination_classroom",
+      "text": "assassination_classroom"
+    },
+    {
+      "value": "wildstar",
+      "text": "wildstar"
+    },
+    {
+      "value": "mai-hime",
+      "text": "mai-hime"
+    },
+    {
+      "value": "plus-sized_elf",
+      "text": "plus-sized_elf"
+    },
+    {
+      "value": "devil_may_cry_4",
+      "text": "devil_may_cry_4"
+    },
+    {
+      "value": "quiz_magic_academy",
+      "text": "quiz_magic_academy"
+    },
+    {
+      "value": "eiken",
+      "text": "eiken"
+    },
+    {
+      "value": "id_software",
+      "text": "id_software"
+    },
+    {
+      "value": "digimon_adventure_02",
+      "text": "digimon_adventure_02"
+    },
+    {
+      "value": "star_wars_visions",
+      "text": "star_wars_visions"
+    },
+    {
+      "value": "hataraku_maou-sama!",
+      "text": "hataraku_maou-sama!"
+    },
+    {
+      "value": "titanfall",
+      "text": "titanfall"
+    },
+    {
+      "value": "nisekoi",
+      "text": "nisekoi"
+    },
+    {
+      "value": "liquid_(company)",
+      "text": "liquid_(company)"
+    },
+    {
+      "value": "the_cleveland_show",
+      "text": "the_cleveland_show"
+    },
+    {
+      "value": "metalocalypse",
+      "text": "metalocalypse"
+    },
+    {
+      "value": "monster_hunter_stories_2:_wings_of_ruin",
+      "text": "monster_hunter_stories_2:_wings_of_ruin"
+    },
+    {
+      "value": "shantae:_half-genie_hero",
+      "text": "shantae:_half-genie_hero"
+    },
+    {
+      "value": "archenemy_and_hero",
+      "text": "archenemy_and_hero"
+    },
+    {
+      "value": "disgaea_4",
+      "text": "disgaea_4"
+    },
+    {
+      "value": "aria_(series)",
+      "text": "aria_(series)"
+    },
+    {
+      "value": "limbus_company",
+      "text": "limbus_company"
+    },
+    {
+      "value": "my_little_pony_the_movie",
+      "text": "my_little_pony_the_movie"
+    },
+    {
+      "value": "far_cry",
+      "text": "far_cry"
+    },
+    {
+      "value": "for_honor",
+      "text": "for_honor"
+    },
+    {
+      "value": "tekken_2",
+      "text": "tekken_2"
+    },
+    {
+      "value": "doubutsu_no_mori",
+      "text": "doubutsu_no_mori"
+    },
+    {
+      "value": "the_sword_in_the_stone",
+      "text": "the_sword_in_the_stone"
+    },
+    {
+      "value": "the_electric_tale_of_pikachu",
+      "text": "the_electric_tale_of_pikachu"
+    },
+    {
+      "value": "beyblade",
+      "text": "beyblade"
+    },
+    {
+      "value": "metal_gear_(series)",
+      "text": "metal_gear_(series)"
+    },
+    {
+      "value": "beatmania_iidx",
+      "text": "beatmania_iidx"
+    },
+    {
+      "value": "red_earth",
+      "text": "red_earth"
+    },
+    {
+      "value": "mahotama",
+      "text": "mahotama"
+    },
+    {
+      "value": "eizouken_ni_wa_te_wo_dasu_na!",
+      "text": "eizouken_ni_wa_te_wo_dasu_na!"
+    },
+    {
+      "value": "batman_beyond",
+      "text": "batman_beyond"
+    },
+    {
+      "value": "supergirl_(series)",
+      "text": "supergirl_(series)"
+    },
+    {
+      "value": "h.p._lovecraft",
+      "text": "h.p._lovecraft"
+    },
+    {
+      "value": "tnk_(company)",
+      "text": "tnk_(company)"
+    },
+    {
+      "value": "knick_knack",
+      "text": "knick_knack"
+    },
+    {
+      "value": "tales_of_androgyny",
+      "text": "tales_of_androgyny"
+    },
+    {
+      "value": "under(her)tail",
+      "text": "under(her)tail"
+    },
+    {
+      "value": "helter_skelter",
+      "text": "helter_skelter"
+    },
+    {
+      "value": "martian_successor_nadesico",
+      "text": "martian_successor_nadesico"
+    },
+    {
+      "value": "rockman_exe",
+      "text": "rockman_exe"
+    },
+    {
+      "value": "pepsi",
+      "text": "pepsi"
+    },
+    {
+      "value": "moana",
+      "text": "moana"
+    },
+    {
+      "value": "taimanin_asagi_3",
+      "text": "taimanin_asagi_3"
+    },
+    {
+      "value": "dark_chapel",
+      "text": "dark_chapel"
+    },
+    {
+      "value": "shinkon_gattai_godannar!!",
+      "text": "shinkon_gattai_godannar!!"
+    },
+    {
+      "value": "hyouka",
+      "text": "hyouka"
+    },
+    {
+      "value": "princess_lover",
+      "text": "princess_lover"
+    },
+    {
+      "value": "animaniacs_(2020)",
+      "text": "animaniacs_(2020)"
+    },
+    {
+      "value": "snoot_game",
+      "text": "snoot_game"
+    },
+    {
+      "value": "the_ancient_magus_bride",
+      "text": "the_ancient_magus_bride"
+    },
+    {
+      "value": "oneshot",
+      "text": "oneshot"
+    },
+    {
+      "value": "mairimashita!_iruma-kun",
+      "text": "mairimashita!_iruma-kun"
+    },
+    {
+      "value": "wojak_comics",
+      "text": "wojak_comics"
+    },
+    {
+      "value": "barbie_(franchise)",
+      "text": "barbie_(franchise)"
+    },
+    {
+      "value": "code_vein",
+      "text": "code_vein"
+    },
+    {
+      "value": "the_proud_family",
+      "text": "the_proud_family"
+    },
+    {
+      "value": "darker_than_black",
+      "text": "darker_than_black"
+    },
+    {
+      "value": "bakugan_battle_brawlers",
+      "text": "bakugan_battle_brawlers"
+    },
+    {
+      "value": "the_walking_dead",
+      "text": "the_walking_dead"
+    },
+    {
+      "value": "tekken_5_dark_resurrection",
+      "text": "tekken_5_dark_resurrection"
+    },
+    {
+      "value": "she-ra_princess_of_power",
+      "text": "she-ra_princess_of_power"
+    },
+    {
+      "value": "ascii_media_works",
+      "text": "ascii_media_works"
+    },
+    {
+      "value": "sekaiju_no_meikyuu",
+      "text": "sekaiju_no_meikyuu"
+    },
+    {
+      "value": "pokemon_(movie)",
+      "text": "pokemon_(movie)"
+    },
+    {
+      "value": "idolmaster_cinderella_girls_starlight_stage",
+      "text": "idolmaster_cinderella_girls_starlight_stage"
+    },
+    {
+      "value": "mighty_switch_force",
+      "text": "mighty_switch_force"
+    },
+    {
+      "value": "crayon_shin-chan",
+      "text": "crayon_shin-chan"
+    },
+    {
+      "value": "object_show",
+      "text": "object_show"
+    },
+    {
+      "value": "goodbye_volcano_high",
+      "text": "goodbye_volcano_high"
+    },
+    {
+      "value": "rivals_of_aether",
+      "text": "rivals_of_aether"
+    },
+    {
+      "value": "marvel_vs._capcom",
+      "text": "marvel_vs._capcom"
+    },
+    {
+      "value": "crimson_keep",
+      "text": "crimson_keep"
+    },
+    {
+      "value": "fallout_equestria",
+      "text": "fallout_equestria"
+    },
+    {
+      "value": "hyperdimension_neptunia",
+      "text": "hyperdimension_neptunia"
+    },
+    {
+      "value": "frosted_flakes",
+      "text": "frosted_flakes"
+    },
+    {
+      "value": "ole-m",
+      "text": "ole-m"
+    },
+    {
+      "value": "chipettes",
+      "text": "chipettes"
+    },
+    {
+      "value": "e621",
+      "text": "e621"
+    },
+    {
+      "value": "all_dogs_go_to_heaven",
+      "text": "all_dogs_go_to_heaven"
+    },
+    {
+      "value": "vkontakte",
+      "text": "vkontakte"
+    },
+    {
+      "value": "infinity_train",
+      "text": "infinity_train"
+    },
+    {
+      "value": "suisei_no_gargantia",
+      "text": "suisei_no_gargantia"
+    },
+    {
+      "value": "dark_horse",
+      "text": "dark_horse"
+    },
+    {
+      "value": "walkure_romanze",
+      "text": "walkure_romanze"
+    },
+    {
+      "value": "yandere_simulator",
+      "text": "yandere_simulator"
+    },
+    {
+      "value": "dolphin_wave",
+      "text": "dolphin_wave"
+    },
+    {
+      "value": "bittersweet_candy_bowl",
+      "text": "bittersweet_candy_bowl"
+    },
+    {
+      "value": "battle_chasers",
+      "text": "battle_chasers"
+    },
+    {
+      "value": "viper_rsr",
+      "text": "viper_rsr"
+    },
+    {
+      "value": "digimon_adventure_tri.",
+      "text": "digimon_adventure_tri."
+    },
+    {
+      "value": "the_land_before_time",
+      "text": "the_land_before_time"
+    },
+    {
+      "value": "rainbow_rocks",
+      "text": "rainbow_rocks"
+    },
+    {
+      "value": "playboy",
+      "text": "playboy"
+    },
+    {
+      "value": "arc_the_lad",
+      "text": "arc_the_lad"
+    },
+    {
+      "value": "odd_taxi",
+      "text": "odd_taxi"
+    },
+    {
+      "value": "sakura_trick",
+      "text": "sakura_trick"
+    },
+    {
+      "value": "ar_tonelico",
+      "text": "ar_tonelico"
+    },
+    {
+      "value": "karakai_jouzu_no_takagi-san",
+      "text": "karakai_jouzu_no_takagi-san"
+    },
+    {
+      "value": "d.gray-man",
+      "text": "d.gray-man"
+    },
+    {
+      "value": "kellogg's",
+      "text": "kellogg's"
+    },
+    {
+      "value": "dora_the_explorer",
+      "text": "dora_the_explorer"
+    },
+    {
+      "value": "super_dragon_ball_heroes",
+      "text": "super_dragon_ball_heroes"
+    },
+    {
+      "value": "original_life_universe_(jay_naylor)",
+      "text": "original_life_universe_(jay_naylor)"
+    },
+    {
+      "value": "umemaro_3d",
+      "text": "umemaro_3d"
+    },
+    {
+      "value": "cloud_meadow",
+      "text": "cloud_meadow"
+    },
+    {
+      "value": "echo_(series)",
+      "text": "echo_(series)"
+    },
+    {
+      "value": "toontown_online",
+      "text": "toontown_online"
+    },
+    {
+      "value": "danball_senki",
+      "text": "danball_senki"
+    },
+    {
+      "value": "fresh_pretty_cure!",
+      "text": "fresh_pretty_cure!"
+    },
+    {
+      "value": "heroman",
+      "text": "heroman"
+    },
+    {
+      "value": "saints_row",
+      "text": "saints_row"
+    },
+    {
+      "value": "no_game_no_life",
+      "text": "no_game_no_life"
+    },
+    {
+      "value": "happinesscharge_precure!",
+      "text": "happinesscharge_precure!"
+    },
+    {
+      "value": "midway_games",
+      "text": "midway_games"
+    },
+    {
+      "value": "milfy_city",
+      "text": "milfy_city"
+    },
+    {
+      "value": "tangled: _the_series",
+      "text": "tangled: _the_series"
+    },
+    {
+      "value": "digimon_frontier",
+      "text": "digimon_frontier"
+    },
+    {
+      "value": "johnny_bravo_(series)",
+      "text": "johnny_bravo_(series)"
+    },
+    {
+      "value": "chrono_cross",
+      "text": "chrono_cross"
+    },
+    {
+      "value": "jigokuraku",
+      "text": "jigokuraku"
+    },
+    {
+      "value": "kaiten_muten - maru",
+      "text": "kaiten_muten - maru"
+    },
+    {
+      "value": "the_moomins",
+      "text": "the_moomins"
+    },
+    {
+      "value": "halo_reach",
+      "text": "halo_reach"
+    },
+    {
+      "value": "dnd",
+      "text": "dnd"
+    },
+    {
+      "value": "city_of_broken_dreamers",
+      "text": "city_of_broken_dreamers"
+    },
+    {
+      "value": "hayate_no_gotoku!",
+      "text": "hayate_no_gotoku!"
+    },
+    {
+      "value": "shuffle!",
+      "text": "shuffle!"
+    },
+    {
+      "value": "vampire_(game)",
+      "text": "vampire_(game)"
+    },
+    {
+      "value": "heartcatch_pretty_cure!",
+      "text": "heartcatch_pretty_cure!"
+    },
+    {
+      "value": "summer_wars",
+      "text": "summer_wars"
+    },
+    {
+      "value": "nekojishi",
+      "text": "nekojishi"
+    },
+    {
+      "value": "duck_hunt",
+      "text": "duck_hunt"
+    },
+    {
+      "value": "destripando_la_historia",
+      "text": "destripando_la_historia"
+    },
+    {
+      "value": "mario_and_sonic_at_the_olympic_games",
+      "text": "mario_and_sonic_at_the_olympic_games"
+    },
+    {
+      "value": "invincible_(comics)",
+      "text": "invincible_(comics)"
+    },
+    {
+      "value": "go!_princess_precure",
+      "text": "go!_princess_precure"
+    },
+    {
+      "value": "kagerou_project",
+      "text": "kagerou_project"
+    },
+    {
+      "value": "valkyrie_drive",
+      "text": "valkyrie_drive"
+    },
+    {
+      "value": "extreme_ghostbusters",
+      "text": "extreme_ghostbusters"
+    },
+    {
+      "value": "redo_of_healer",
+      "text": "redo_of_healer"
+    },
+    {
+      "value": "cevio",
+      "text": "cevio"
+    },
+    {
+      "value": "ultimate_spider - man",
+      "text": "ultimate_spider - man"
+    }
+  ]
