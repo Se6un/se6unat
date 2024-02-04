@@ -4,12 +4,12 @@
   align-items: center;
   justify-content: space-between;
   background-color: #517da2;
-  padding: 10px;
+  padding: 15px;
   border-radius: 5px;
 }
 
 
-.button-back {
+.button-addtag {
   border-radius: 5px;
   color: rgb(0, 0, 0);
   padding: 8px;
@@ -18,15 +18,15 @@
   background-color: rgb(0, 255, 60);
 }
 
-.button-back:hover {
+.button-addtag:hover {
   color: rgb(255, 255, 255);
 }
 
-.button-back:active {
+.button-addtag:active {
   transform: translateX(-2px);
 }
 
-.button-confirm {
+.button-minustag {
   border-radius: 5px;
   color: rgb(0, 0, 0);
   padding: 8px;
@@ -35,11 +35,11 @@
   background-color: rgb(255, 0, 0);
 }
 
-.button-confirm:hover {
+.button-minustag:hover {
   color: rgb(255, 255, 255);
 }
 
-.button-confirm:active {
+.button-minustag:active {
   transform: translateX(2px);
 }
 
