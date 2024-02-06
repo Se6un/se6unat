@@ -44,7 +44,7 @@
   transform: translateX(2px);
 }
 
-#btn1 {
+#button-test {
   border-radius: 5px;
   color: rgb(249, 249, 249);
   padding: 8px;
@@ -53,11 +53,11 @@
   background-color: rgb(0, 0, 0);
 }
 
-#btn1:hover {
+#button-test:hover {
   color: rgb(240, 4, 4);
 }
 
-#btn1:active {
+#button-test:active {
   transform: translateY(5px);
 }
 
