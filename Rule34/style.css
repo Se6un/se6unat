@@ -18,6 +18,7 @@
   background-color: rgb(0, 255, 60);
 }
 
+
 .button-addtag:hover {
   color: rgb(255, 255, 255);
 }
@@ -43,7 +44,22 @@
   transform: translateX(2px);
 }
 
+#btn1 {
+  border-radius: 5px;
+  color: rgb(249, 249, 249);
+  padding: 8px;
+  font-size: 21px;
+  border: None;
+  background-color: rgb(0, 0, 0);
+}
 
+#btn1:hover {
+  color: rgb(240, 4, 4);
+}
+
+#btn1:active {
+  transform: translateY(5px);
+}
 
 /* Стили для контейнера страниц */
 .page-container {

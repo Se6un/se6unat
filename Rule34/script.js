@@ -3,7 +3,7 @@ var tg = window.Telegram.WebApp;
 tg.expand();
 
 tg.MainButton.textColor = '#FFFFFF';
-tg.MainButton.color = '#2cab37';
+
 
 // Переменная, которая хранит выбранные опции
 var selected = {}; // Объявляем selected в более широкой области видимости
@@ -105,22 +105,4 @@ $(document).ready(function() {
   }
 });
 
-var item = "";
-var btn1 = document.getElementById("btn1");
-
-btn1.addEventListener("click", function(){
-	if (tg.MainButton.isVisible) {
-		tg.MainButton.hide();
-	}
-	else {
-		tg.MainButton.setText("Вы выбрали товар 1!");
-		item = "1";
-		tg.MainButton.show();
-	}
-});
-
-Telegram.WebApp.onEvent("mainButtonClicked", function(){
-  tg.sendData(selected);
-  tg.collapse(); // Закрываем WebApp после отправки данных
-});
 
