@@ -1,4 +1,4 @@
-let tg = window.Telegram.WebApp;
+var tg = window.Telegram.WebApp;
 
 tg.expand();
 
@@ -105,9 +105,8 @@ $(document).ready(function() {
   }
 });
 
-let item = "";
-
-let btn1 = document.getElementById("btn1");
+var item = "";
+var btn1 = document.getElementById("btn1");
 
 btn1.addEventListener("click", function(){
 	if (tg.MainButton.isVisible) {
