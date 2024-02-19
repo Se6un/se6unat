@@ -1,0 +1,121 @@
+/* Стили для статичных блоков наверху */
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #517da2;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+
+.button-addtag {
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+  padding: 8px;
+  font-size: 21px;
+  border: None;
+  background-color: rgb(0, 255, 60);
+}
+
+
+.button-addtag:hover {
+  color: rgb(255, 255, 255);
+}
+
+.button-addtag:active {
+  transform: translateX(-2px);
+}
+
+.button-minustag {
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+  padding: 8px;
+  font-size: 21px;
+  border: None;
+  background-color: rgb(255, 0, 0);
+}
+
+.button-minustag:hover {
+  color: rgb(255, 255, 255);
+}
+
+.button-minustag:active {
+  transform: translateX(2px);
+}
+
+#button-test {
+  border-radius: 5px;
+  color: rgb(249, 249, 249);
+  padding: 8px;
+  font-size: 21px;
+  border: None;
+  background-color: rgb(0, 0, 0);
+}
+
+#button-test:hover {
+  color: rgb(240, 4, 4);
+}
+
+#button-test:active {
+  transform: translateY(5px);
+}
+
+/* Стили для контейнера страниц */
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 60px);
+  position: relative;
+  overflow: hidden;
+  padding: 30px; /*Отступ от края*/
+  
+}
+
+/* Стили для каждой страницы */
+.page {
+  width: 90vw;
+  display: none;
+  border-radius: 5px;
+  
+  opacity: 0;
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+
+/* Уникальные стили для каждой страницы */
+#page1 {
+  background-color: rgba(249, 249, 249, 0.539);
+  border: 2px solid #000000;
+  box-shadow: 5px 5px 5px gray;
+  
+}
+
+#page2 {
+  background-color: rgb(251, 250, 250);
+  border: 2px solid #fd0000;
+  box-shadow: 5px 5px 5px rgba(123, 2, 2, 0.579);
+}
+
+/* Стили для активной страницы */
+.active-page {
+  
+  width: clamp(100px, 50%, 400px);
+  display: inline-block;
+  opacity: 1;
+  min-width: 300px;
+  /* width: 400px; */
+  margin: 0 auto;
+  padding: 5%;    
+}
+
+/**/
+
+.selectize-input .my-select .placeholder {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+
+
+

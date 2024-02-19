@@ -96,7 +96,7 @@ $(document).ready(function() {
     { selector: '#tags_minus_general', jsonUrl: 'tags_general.json' },
     { selector: '#tags_minus_content', jsonUrl: 'tags_content.json' },
     { selector: '#tags_minus_universe', jsonUrl: 'tags_universe.json' },
-    { selector: '#tags_minus_character', jsonUrl: 'tags_universe.json' }
+    { selector: '#tags_minus_character', jsonUrl: 'tags_universe.json' },
   ];
 
   for (var i = 0; i < selects.length; i++) {
@@ -105,6 +105,4 @@ $(document).ready(function() {
   }
 });
 
-Telegram.WebApp.onEvent("mainButtonClicked", function(){
-	tg.sendData(selected);
-});
+
