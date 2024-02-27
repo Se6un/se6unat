@@ -90,7 +90,7 @@ body {
   width: clamp(100px, 50%, 400px);
   display: inline-block;
   opacity: 1;
-  min-width: 300px;
+  /*min-width: 300px;*/
   /* width: 400px; */
   margin: 0 auto;
   padding: 5%;    
