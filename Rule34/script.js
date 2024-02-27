@@ -7,6 +7,8 @@ tg.MainButton.textColor = '#FFFFFF';
 // Переменная, которая хранит выбранные опции
 var selected = {}; // Объявляем selected в более широкой области видимости
 
+var test = "";
+
 // Функция-конструктор скрипта
 function SelectWithJson(options) {
   var perPage = options.perPage || 10; // Количество опций для загрузки на каждую страницу
@@ -80,6 +82,7 @@ function checkSelectedOptions() {
   }
   if (hasSelected) {
     tg.MainButton.setText("Подтвердить")
+    test = "1";
     tg.MainButton.show(); // Показывает кнопку "MainButton"
   } else {
     tg.MainButton.hide(); // Скрывает кнопку "MainButton"
@@ -105,6 +108,6 @@ $(document).ready(function() {
   }
 
   Telegram.WebApp.onEvent("mainButtonClicked", function(){
-    tg.sendData(item);
+    tg.sendData(test);
   });
 });
