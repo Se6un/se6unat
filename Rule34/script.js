@@ -4,7 +4,6 @@ tg.expand();
 
 tg.MainButton.textColor = '#FFFFFF';
 
-
 // Переменная, которая хранит выбранные опции
 var selected = {}; // Объявляем selected в более широкой области видимости
 
@@ -103,8 +102,20 @@ $(document).ready(function() {
     new SelectWithJson(selects[i]);
     checkSelectedOptions(); // Проверяем выбранные опции после инициализации
   }
+
+  tg.MainButton.onClick(function() {
+    tg.sendData(selected);
+  });
 });
 
-Telegram.WebApp.onEvent("mainButtonClicked", function(){
-	tg.sendData(selected);
-});
+tg.onDataCallback = function(data) {
+  console.log("Data received:", data);
+};
+
+tg.onDataReceive = function(data) {
+  console.log("Data received:", data);
+};
+
+tg.onClose = function() {
+  // Действия при закрытии окна
+};

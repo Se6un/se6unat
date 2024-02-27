@@ -1,3 +1,7 @@
+body {
+  background-color: rgba(255, 255, 255, 0.657);
+}
+
 /* Стили для статичных блоков наверху */
 .header-container {
   display: flex;
@@ -44,22 +48,6 @@
   transform: translateX(2px);
 }
 
-#button-test {
-  border-radius: 5px;
-  color: rgb(249, 249, 249);
-  padding: 8px;
-  font-size: 21px;
-  border: None;
-  background-color: rgb(0, 0, 0);
-}
-
-#button-test:hover {
-  color: rgb(240, 4, 4);
-}
-
-#button-test:active {
-  transform: translateY(5px);
-}
 
 /* Стили для контейнера страниц */
 .page-container {
