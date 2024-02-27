@@ -1,11 +1,12 @@
 var tg = window.Telegram.WebApp;
 
-tg.expand();
+tg.expand(); // Открывает приложение во весь экран
 
 tg.MainButton.textColor = '#FFFFFF';
+tg.MainButton.color = '#2cab37';
 
 // Переменная, которая хранит выбранные опции
-var selected = {}; // Объявляем selected в более широкой области видимости
+var selected = []; // Объявляем selected в более широкой области видимости
 
 var test = "";
 
@@ -108,6 +109,36 @@ $(document).ready(function() {
   }
 
   Telegram.WebApp.onEvent("mainButtonClicked", function(){
-    tg.sendData(test);
+    try {
+      tg.sendData(test);
+    
+    } catch (err) {
+    
+      tg.sendData("Error: " + err);
+    
+    };
+    try {
+      tg.sendData({
+        "text": "test",
+        "parse_mode": "Markdown"
+      });
+    
+    } catch (err) {
+    
+      tg.sendData("Error: " + err);
+    
+    };
+    try {
+      tg.sendData([
+        "text2",
+        "parse_mode2"
+      ]);
+    
+    } catch (err) {
+    
+      tg.sendData("Error: " + err);
+    
+    }
   });
 });
+
