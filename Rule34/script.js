@@ -110,35 +110,11 @@ $(document).ready(function() {
 
   Telegram.WebApp.onEvent("mainButtonClicked", function(){
     try {
-      tg.sendData(test);
-    
+      tg.sendData(selected); 
     } catch (err) {
-    
       tg.sendData("Error: " + err);
-    
-    };
-    try {
-      tg.sendData({
-        "text": "test",
-        "parse_mode": "Markdown"
-      });
-    
-    } catch (err) {
-    
-      tg.sendData("Error: " + err);
-    
-    };
-    try {
-      tg.sendData([
-        "text2",
-        "parse_mode2"
-      ]);
-    
-    } catch (err) {
-    
-      tg.sendData("Error: " + err);
-    
     }
+    
   });
 });
 
