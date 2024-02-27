@@ -79,6 +79,7 @@ function checkSelectedOptions() {
     }
   }
   if (hasSelected) {
+    tg.MainButton.setText("Подтвердить")
     tg.MainButton.show(); // Показывает кнопку "MainButton"
   } else {
     tg.MainButton.hide(); // Скрывает кнопку "MainButton"
@@ -103,19 +104,7 @@ $(document).ready(function() {
     checkSelectedOptions(); // Проверяем выбранные опции после инициализации
   }
 
-  tg.MainButton.onClick(function() {
-    tg.sendData(selected);
+  Telegram.WebApp.onEvent("mainButtonClicked", function(){
+    tg.sendData(item);
   });
 });
-
-tg.onDataCallback = function(data) {
-  console.log("Data received:", data);
-};
-
-tg.onDataReceive = function(data) {
-  console.log("Data received:", data);
-};
-
-tg.onClose = function() {
-  // Действия при закрытии окна
-};
