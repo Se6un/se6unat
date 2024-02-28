@@ -8,6 +8,11 @@
   font-weight: 100;
   font-style: normal;
 }
+@media screen and (min-width: 300px) and (max-width: 499px) {
+  .box {
+    margin-top: 20%;
+  }
+}
 .box2 {
   margin-top: 1%;
   display: flex;
