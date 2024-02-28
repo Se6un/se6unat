@@ -111,7 +111,7 @@ $(document).ready(function() {
   Telegram.WebApp.onEvent("mainButtonClicked", function() {
     try {
       var selectedString = JSON.stringify(selected); // Преобразуем selected в строку
-      tg.sendData(selectedString); // Отправляем строку с данными в телеграм-бот
+      tg.sendData("rule34"+selectedString); // Отправляем строку с данными в телеграм-бот
     } catch (err) {
       tg.sendData("Error2: " + err);
     }
