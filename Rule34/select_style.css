@@ -46,7 +46,7 @@
   /*Стиль выбранного елемента в плейсхолдере*/
   #page1 .item {
     background: #f7f7f7; /* цвет фона */
-    border: 1px solid #00fd22;
+    border: 1px solid #000000;
   }
   #page1 .selectize-control.plugin-remove_button .item{
     color: #030303;  /* цвет текста выбранного елемента в плейсхолдере  */
@@ -69,14 +69,14 @@
   
   /* Стили для выпадающего списка и ввода */
   #page2 .selectize-dropdown{
-    color:#fb0303;
+    background-color: #b01616;
     font-size:21px;
     }
   
   
   #page2 .selectize-input {
     text-align: center; /*Отображение плейсхолдера по центру*/ 
-    background-color: #fd0000;
+    background-color: #b01616;
     font-size:21px;
     
   }
@@ -91,27 +91,29 @@
   
   #page2 .selectize-dropdown-content {
    color: #fdfdfd; /*Цвет текста выпадающего списка*/
-   background-color: #fd0000; /*Цвет фона выпадающего списка*/
+   background-color: #b01616; /*Цвет фона выпадающего списка*/
   }
   
   /*Стиль выбранного елемента в плейсхолдере*/
   #page2 .item {
     background: #f7f7f7; /* цвет фона */
+    border: 1px solid #000000;
     
   }
   #page2 .selectize-control.plugin-remove_button .item{
-    color: #ff0000; 
+    background-color: #f7f5f5;
+    color: #000000;  /* цвет текста выбранного елемента в плейсхолдере  */
   }
   
   /*Стиль кнопки удаления*/
   #page2 .selectize-control.plugin-remove_button .item .remove{
-    color: #f90606;
+    background-color: #ffffff;
     border-left:1px solid #030303; /*ЦВЕТ РАЗДЕЛИТЕЛЯ*/
   
   }
   
   /*Стиль кнопки удаления при наведении*/
   #page2 .selectize-control.plugin-remove_button .item .remove:hover{
-    background:rgba(0, 0, 0, 0.119);
+    background:rgba(248, 1, 1, 0.119);
   }
   
