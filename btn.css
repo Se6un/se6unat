@@ -13,14 +13,15 @@
 ========================
 */
 .button {
-    color: #FFF;
-    transition: all 0.3s;
+    color: #ffffff;
+    transition: all 0.4s;
     position: relative;
   }
-  .button span {
-    transition: all 0.3s;
+  .button span { 
+    transition: all 0.4s;
   }
   .button::before {
+
     content: '';
     position: absolute;
     bottom: 0;
@@ -34,11 +35,12 @@
     border-bottom-width: 1px;
     border-top-style: solid;
     border-bottom-style: solid;
-    border-top-color: rgba(0, 0, 0, 0.5);
-    border-bottom-color: rgba(0, 0, 0, 0.5);
+    border-top-color: rgba(0, 0, 0, 0.3);
+    border-bottom-color: rgba(0, 0, 0, 0.3);
     transform: scale(0.1, 1);
   }
   .button:hover span {
+    
     letter-spacing: 3px;
   }
   .button:hover::before {
@@ -46,6 +48,7 @@
     transform: scale(1, 1); 
   }
   .button::after {
+    
     content: '';
     position: absolute;
     bottom: 0;
