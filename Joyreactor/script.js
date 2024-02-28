@@ -46,8 +46,7 @@ function SelectWithJson(options) {
     },
     onChange: function(value) {
       var selectorKey = options.selector.substring(1);
-
-      selected[selectorKey] = selectedValue;
+      selected[selectorKey] = value;
       console.log(selected);
 
       checkSelectedOptions(); // Проверяем выбранные опции после каждого изменения
@@ -74,7 +73,7 @@ function checkSelectedOptions() {
     }
   }
   if (hasSelected) {
-    tg.MainButton.setText("Подтвердить")
+    tg.MainButton.setText("Подтвердить");
     tg.MainButton.show(); // Показывает кнопку "MainButton"
   } else {
     tg.MainButton.hide(); // Скрывает кнопку "MainButton"
@@ -102,4 +101,3 @@ $(document).ready(function() {
     }
   });
 });
-
