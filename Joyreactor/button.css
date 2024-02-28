@@ -1,0 +1,84 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0c121780;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.327);
+    padding: 15px;
+    border-radius: 5px;
+    transition: padding 0.3s ease-in-out; /* Добавлено */
+    height: 40px; /* Фиксированная высота */
+}
+
+.button-addtag,
+.button-minustag {
+    position: relative;
+    overflow: hidden;
+    border: none;
+    color: rgb(254, 253, 253);
+    padding: 8px;
+    font-size: 21px;
+    background-color: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 300px) and (max-width: 499px) {
+    .button-addtag,
+    .button-minustag {
+        font-size: 16px;
+    }
+}
+
+.button-addtag::after,
+.button-minustag::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background-color: #f7f4f4;
+    transition: width 0.3s ease-in-out;
+}
+
+.button-addtag.active,
+.button-minustag.active {
+    font-weight: bold;
+}
+
+.button-addtag:hover {
+    font-size: 24px; /* Размер шрифта при наведении */
+    font-weight: bold; /* Жирный шрифт при наведении */
+    padding: 10px 16px; /* Добавлено - изменение отступов */
+}
+
+@media screen and (min-width: 300px) and (max-width: 499px) {
+    .button-addtag:hover {
+        font-size: 18px;
+    }
+}
+
+
+.button-minustag:hover {
+    color: rgb(229, 43, 43);
+    font-size: 24px; /* Размер шрифта при наведении */
+    font-weight: bold; /* Жирный шрифт при наведении */
+    padding: 10px 16px; /* Добавлено - изменение отступов */
+}
+
+@media screen and (min-width: 300px) and (max-width: 499px) {
+    .button-minustag:hover {
+        font-size: 18px;
+    }
+}
+
+
+.button-addtag:hover::after{
+    width: 100%;
+    background-color: rgb(0, 255, 102)
+}
+
+.button-minustag:hover::after {
+    width: 100%;
+    background-color: rgb(229, 43, 43);
+}

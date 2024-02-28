@@ -1,0 +1,122 @@
+/* !!!Стили селектора !!! */
+.select {
+  margin-bottom: 10px;
+}
+/* !!!Стили селектора для 1 страницы!!! */
+
+
+
+
+#page1 .selectize-dropdown{
+    text-align: center;
+    color:#22ff00; /*Цвет*/
+    font-size:21px; /*Размер шрифта*/
+    border: 1px solid #000000; /*Цвет и размер оконтовки выпадающего списка*/
+    }
+  
+  
+  #page1 .selectize-input {
+    text-align: center; /*Отображение плейсхолдера по центру*/ 
+    background-color: #ffffff; /*Отображение цвета фона селектора*/ 
+    border: 1px solid #000000; /*Цвет и размер оконтовки плейсхолдера*/
+    font-size:21px; /*Размер шрифта*/ 
+    
+  }
+  
+  #page1 .selectize-input input{
+    font-size:21px; /*Размер шрифта в плейсхолдере*/
+    
+  }
+  
+  #page1 .selectize-input input::placeholder {
+    text-align: center;
+    color: rgb(0, 0, 0); /*Цвет Текста  плейсхолдера*/
+  }
+  
+  #page1 .selectize-dropdown-content {
+   text-align: center;
+   color: #050505; /*Цвет текста выпадающего списка*/
+   background-color: #fcfcfc; /*Цвет фона выпадающего списка*/
+  }
+  
+  /* Стиль для текста в выпадающем списке при наведении */
+  #page1 .selectize-dropdown-content .option:hover {
+    color: #ffffff; /* цвет текста */
+    background-color: #24fb03; /* цвет фона*/
+  }
+  
+  
+  /*Стиль выбранного елемента в плейсхолдере*/
+  #page1 .item {
+    background: #f7f7f7; /* цвет фона */
+    border: 1px solid #000000;
+  }
+  #page1 .selectize-control.plugin-remove_button .item{
+    color: #030303;  /* цвет текста выбранного елемента в плейсхолдере  */
+  }
+  
+  /*Стиль кнопки удаления*/
+  #page1 .selectize-control.plugin-remove_button .item .remove{
+    color: #fb0303; /*Цвет крестика*/
+    border-left:1px solid #030303; /*ЦВЕТ РАЗДЕЛИТЕЛЯ*/
+  
+  }
+  
+  /*Стиль кнопки удаления при наведении*/
+  #page1 .selectize-control.plugin-remove_button .item .remove:hover{
+    background:rgba(0, 0, 0, 0.119);
+  }
+  
+  
+  /* !!!Стили селектора для 2 страницы!!! */
+  
+  /* Стили для выпадающего списка и ввода */
+  #page2 .selectize-dropdown{
+    background-color: #b01616;
+    font-size:21px;
+    }
+  
+  
+  #page2 .selectize-input {
+    text-align: center; /*Отображение плейсхолдера по центру*/ 
+    background-color: #b01616;
+    font-size:21px;
+    
+  }
+  
+  #page2 .selectize-input input{
+    font-size:21px;
+  }
+  
+  #page2 .selectize-input input::placeholder {
+    color: rgb(247, 247, 247); /*Цвет Текста  плейсхолдера*/
+  }
+  
+  #page2 .selectize-dropdown-content {
+   color: #fdfdfd; /*Цвет текста выпадающего списка*/
+   background-color: #b01616; /*Цвет фона выпадающего списка*/
+  }
+  
+  /*Стиль выбранного елемента в плейсхолдере*/
+  #page2 .item {
+    background: #f7f7f7; /* цвет фона */
+    border: 1px solid #000000;
+    
+  }
+  #page2 .selectize-control.plugin-remove_button .item{
+    background-color: #f7f5f5;
+    color: #000000;  /* цвет текста выбранного елемента в плейсхолдере  */
+  }
+  
+  /*Стиль кнопки удаления*/
+  #page2 .selectize-control.plugin-remove_button .item .remove{
+    background-color: #ffffff;
+    border-left:1px solid #030303; /*ЦВЕТ РАЗДЕЛИТЕЛЯ*/
+  
+  }
+  
+  /*Стиль кнопки удаления при наведении*/
+  #page2 .selectize-control.plugin-remove_button .item .remove:hover{
+    background:rgba(248, 1, 1, 0.119);
+  }
+  

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
-    
+    <meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.15.2/css/selectize.bootstrap5.css" integrity="sha512-pZE3NzBgokXUM9YLBGQIw99omcxiRdkMhZkz0o7g0VjC0tCFlBUqbcLKUuX8+jfsZgiZNIWFiLuZpLxXoxi53w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.13.3/js/standalone/selectize.min.js"></script>
@@ -10,8 +10,12 @@
     <script src="gotopage.js"></script>
     <script src="infiniti_scroll.js"></script>
     <script src="script.js"></script>
+    <script src="data.js"></script>
+    <link rel="stylesheet" href="background.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="button.css">
     <link rel="stylesheet" href="select_style.css">
+    
     
   </head>
   
@@ -19,15 +23,17 @@
     <div class="header-container">
       <button class="button-addtag" onclick="goToPage(1)">Добавить теги</button>
       <button class="button-minustag" onclick="goToPage(2)">Исключения</button>
+      
     </div>
 
     <div class="page-container">
       <div id="page1" class="page addTag">
-        <select id="tags_general" class="select" placeholder="Теги" ></select>
+        <select id="tags_joyreactor_general" class="select" placeholder="Основа" ></select>
       </div>
       
       <div id="page2" class="page IgnoreTag">
-        <select id="tags_minus_general" class="select" placeholder="Теги"></select>
+        <select id="tags_joyreactor_minus_general" class="select" placeholder="Основа"></select>
+      
       </div>
     </div>
   </body>

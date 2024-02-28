@@ -1,12 +1,13 @@
 var tg = window.Telegram.WebApp;
 
-tg.expand();
+tg.expand(); // Открывает приложение во весь экран
 
 tg.MainButton.textColor = '#FFFFFF';
-
+tg.MainButton.color = '#2cab37';
 
 // Переменная, которая хранит выбранные опции
 var selected = {}; // Объявляем selected в более широкой области видимости
+
 
 // Функция-конструктор скрипта
 function SelectWithJson(options) {
@@ -45,16 +46,9 @@ function SelectWithJson(options) {
     },
     onChange: function(value) {
       var selectorKey = options.selector.substring(1);
-      var selectedValue = value.map(function(val) {
-        if (selectorKey.startsWith('tags_minus_')) {
-          return '-' + val;
-        } else if (selectorKey.startsWith('tags_')) {
-          return '+' + val;
-        }
-      });
 
       selected[selectorKey] = selectedValue;
-      console.log(options.selector + ':', selected);
+      console.log(selected);
 
       checkSelectedOptions(); // Проверяем выбранные опции после каждого изменения
     }
@@ -80,6 +74,7 @@ function checkSelectedOptions() {
     }
   }
   if (hasSelected) {
+    tg.MainButton.setText("Подтвердить")
     tg.MainButton.show(); // Показывает кнопку "MainButton"
   } else {
     tg.MainButton.hide(); // Скрывает кнопку "MainButton"
@@ -89,20 +84,22 @@ function checkSelectedOptions() {
 // Инициализация скрипта для каждого селекта
 $(document).ready(function() {
   var selects = [
-    { selector: '#tags_general', jsonUrl: 'tags_general.json' },
-    { selector: '#tags_content', jsonUrl: 'tags_content.json' },
-    { selector: '#tags_universe', jsonUrl: 'tags_universe.json' },
-    { selector: '#tags_character', jsonUrl: 'tags_universe.json' },
-    { selector: '#tags_minus_general', jsonUrl: 'tags_general.json' },
-    { selector: '#tags_minus_content', jsonUrl: 'tags_content.json' },
-    { selector: '#tags_minus_universe', jsonUrl: 'tags_universe.json' },
-    { selector: '#tags_minus_character', jsonUrl: 'tags_universe.json' },
+    { selector: '#tags_joyreactor_general', jsonUrl: 'tags_joyreactor.json' },
+    { selector: '#tags_joyreactor_minus_general', jsonUrl: 'tags_joyreactor.json' }
   ];
 
   for (var i = 0; i < selects.length; i++) {
     new SelectWithJson(selects[i]);
     checkSelectedOptions(); // Проверяем выбранные опции после инициализации
   }
-});
 
+  Telegram.WebApp.onEvent("mainButtonClicked", function() {
+    try {
+      var selectedString = JSON.stringify(selected); // Преобразуем selected в строку
+      tg.sendData(selectedString); // Отправляем строку с данными в телеграм-бот
+    } catch (err) {
+      tg.sendData("Error2: " + err);
+    }
+  });
+});
 

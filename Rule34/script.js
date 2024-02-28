@@ -93,14 +93,14 @@ function checkSelectedOptions() {
 // Инициализация скрипта для каждого селекта
 $(document).ready(function() {
   var selects = [
-    { selector: '#tags_general', jsonUrl: 'tags_general.json' },
-    { selector: '#tags_content', jsonUrl: 'tags_content.json' },
-    { selector: '#tags_universe', jsonUrl: 'tags_universe.json' },
-    { selector: '#tags_character', jsonUrl: 'tags_universe.json' },
-    { selector: '#tags_minus_general', jsonUrl: 'tags_general.json' },
-    { selector: '#tags_minus_content', jsonUrl: 'tags_content.json' },
-    { selector: '#tags_minus_universe', jsonUrl: 'tags_universe.json' },
-    { selector: '#tags_minus_character', jsonUrl: 'tags_universe.json' }
+    { selector: '#tags_rule34_general', jsonUrl: 'tags_general.json' },
+    { selector: '#tags_rule34_content', jsonUrl: 'tags_content.json' },
+    { selector: '#tags_rule34_universe', jsonUrl: 'tags_universe.json' },
+    { selector: '#tags_rule34_character', jsonUrl: 'tags_character.json' },
+    { selector: '#tags_rule34_minus_general', jsonUrl: 'tags_general.json' },
+    { selector: '#tags_rule34_minus_content', jsonUrl: 'tags_content.json' },
+    { selector: '#tag_rule34_minus_universe', jsonUrl: 'tags_universe.json' },
+    { selector: '#tags_rule34_minus_character', jsonUrl: 'tags_character.json' }
   ];
 
   for (var i = 0; i < selects.length; i++) {
@@ -111,7 +111,7 @@ $(document).ready(function() {
   Telegram.WebApp.onEvent("mainButtonClicked", function() {
     try {
       var selectedString = JSON.stringify(selected); // Преобразуем selected в строку
-      tg.sendData("rule34"+selectedString); // Отправляем строку с данными в телеграм-бот
+      tg.sendData(selectedString); // Отправляем строку с данными в телеграм-бот
     } catch (err) {
       tg.sendData("Error2: " + err);
     }
