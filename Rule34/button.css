@@ -24,6 +24,13 @@
     text-decoration: none;
 }
 
+@media screen and (min-width: 300px) and (max-width: 499px) {
+    .button-addtag,
+    .button-minustag {
+        font-size: 16px;
+    }
+}
+
 .button-addtag::after,
 .button-minustag::after {
     content: '';
@@ -45,12 +52,26 @@
     padding: 10px 16px; /* Добавлено - изменение отступов */
 }
 
+@media screen and (min-width: 300px) and (max-width: 499px) {
+    .button-addtag:hover {
+        font-size: 18px;
+    }
+}
+
+
 .button-minustag:hover {
     color: rgb(229, 43, 43);
     font-size: 24px; /* Размер шрифта при наведении */
     font-weight: bold; /* Жирный шрифт при наведении */
     padding: 10px 16px; /* Добавлено - изменение отступов */
 }
+
+@media screen and (min-width: 300px) and (max-width: 499px) {
+    .button-minustag:hover {
+        font-size: 18px;
+    }
+}
+
 
 .button-addtag:hover::after{
     width: 100%;

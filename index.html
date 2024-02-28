@@ -1,49 +1,35 @@
 <!DOCTYPE html>
 <html>
 <head>
+    
+    <link rel="stylesheet" href="background.css">
+    <link rel="stylesheet" href="btn.css">
+    <link rel="stylesheet" href="box.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </head>
 
 <body>
-    <div><button class="button" id="rule34">Rule34</button></div>
-    <div></div><button class="button" id="test">Test</button></div>
-    <div></div><button class="button" id="redgif">RedGif</button></div>
-    <div></div><button class="button" id="reddit">Reddit</button></div>
-    <div></div><button class="button" id="joyreactor">Joyreactor</button></div>
+    
+    <div class="box">
+        <div class="button" id="rule34"><span>Rule34</span></div>
+    </div>
+    <div class="box2">
+        <div class="button" id="test"><span>Test</span></div>
+    </div>
+    <div class="box3">
+        <div class="button" id="redgif"><span>Redgif</span></div>
+    </div>
+    <div class="box4">
+        <div class="button" id="reddit"><span>Reddit</span></div>
+    </div>
+    <div class="box5">
+        <div class="button" id="joyreactor"><span>Joyreactor</span></div>
+    </div>
+    
 </body>
 
 </html>
-
-<style>
-    body {
-        background-color: black;
-        color: white;
-        text-align: center;
-        margin: 20%;
-        
-
-    }
-
-    .button {
-        background-color: #517da2;
-        border-radius: 5px;
-        border: none;
-        color: white;
-        padding: 10px;
-        min-width: 100px;
-        margin-bottom: 10px;
-        
-    }
-    .button:hover {
-        background-color: rgb(0, 255, 60);
-        color: white;
-    }
-    .button:active {
-        transform: translateY(-2px);
-    }
-</style>
-
 
 <script>
     $('#rule34').on('click', function() { window.location = 'https://se6un.github.io/se6unat/Rule34/index.html'; });
